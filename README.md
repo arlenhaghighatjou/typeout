@@ -1,0 +1,2 @@
+# typeout
+cool game
