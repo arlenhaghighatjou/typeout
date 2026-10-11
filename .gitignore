@@ -6,3 +6,7 @@
 /*.rbxl.lock
 
 sourcemap.json
+
+# Map tooling output
+/tools/preview.png
+__pycache__/
