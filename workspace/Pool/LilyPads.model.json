@@ -1,1 +1,370 @@
-{"ClassName":"Folder","Children":[{"Name":"LilyPad","ClassName":"Part","Properties":{"Anchored":true,"Size":[0.16,2.6,2.6],"CFrame":{"CFrame":{"position":[-22.0,-5.974,14.0],"orientation":[[0.0,-1.0,0.0],[1.0,0.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.417,0.673,0.213],"Material":"SmoothPlastic","Shape":"Cylinder","CanCollide":false,"CastShadow":false}},{"Name":"LilyPad","ClassName":"Part","Properties":{"Anchored":true,"Size":[0.16,2.2,2.2],"CFrame":{"CFrame":{"position":[-30.0,-5.974,3.0],"orientation":[[0.0,-1.0,0.0],[1.0,0.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.454,0.697,0.231],"Material":"SmoothPlastic","Shape":"Cylinder","CanCollide":false,"CastShadow":false}},{"Name":"LilyPad","ClassName":"Part","Properties":{"Anchored":true,"Size":[0.16,2.8,2.8],"CFrame":{"CFrame":{"position":[-12.0,-5.973,26.0],"orientation":[[0.0,-1.0,0.0],[1.0,0.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.46,0.719,0.259],"Material":"SmoothPlastic","Shape":"Cylinder","CanCollide":false,"CastShadow":false}},{"Name":"LilyPad","ClassName":"Part","Properties":{"Anchored":true,"Size":[0.16,2.0,2.0],"CFrame":{"CFrame":{"position":[-8.0,-5.973,33.0],"orientation":[[0.0,-1.0,0.0],[1.0,0.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.474,0.729,0.254],"Material":"SmoothPlastic","Shape":"Cylinder","CanCollide":false,"CastShadow":false}},{"Name":"LilyPad","ClassName":"Part","Properties":{"Anchored":true,"Size":[0.16,2.4,2.4],"CFrame":{"CFrame":{"position":[-36.0,-5.973,-9.0],"orientation":[[0.0,-1.0,0.0],[1.0,0.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.421,0.685,0.221],"Material":"SmoothPlastic","Shape":"Cylinder","CanCollide":false,"CastShadow":false}},{"Name":"LilyPad","ClassName":"Part","Properties":{"Anchored":true,"Size":[0.16,2.2,2.2],"CFrame":{"CFrame":{"position":[-3.0,-5.973,14.0],"orientation":[[0.0,-1.0,0.0],[1.0,0.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.441,0.707,0.249],"Material":"SmoothPlastic","Shape":"Cylinder","CanCollide":false,"CastShadow":false}},{"Name":"LilyPad","ClassName":"Part","Properties":{"Anchored":true,"Size":[0.16,1.8,1.8],"CFrame":{"CFrame":{"position":[-17.0,-5.973,6.0],"orientation":[[0.0,-1.0,0.0],[1.0,0.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.42,0.685,0.213],"Material":"SmoothPlastic","Shape":"Cylinder","CanCollide":false,"CastShadow":false}},{"Name":"LilyPad","ClassName":"Part","Properties":{"Anchored":true,"Size":[0.16,2.0,2.0],"CFrame":{"CFrame":{"position":[-33.0,-5.973,-14.0],"orientation":[[0.0,-1.0,0.0],[1.0,0.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.444,0.704,0.235],"Material":"SmoothPlastic","Shape":"Cylinder","CanCollide":false,"CastShadow":false}},{"Name":"LilyPad","ClassName":"Part","Properties":{"Anchored":true,"Size":[0.16,2.4,2.4],"CFrame":{"CFrame":{"position":[2.0,-5.973,24.0],"orientation":[[0.0,-1.0,0.0],[1.0,0.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.457,0.723,0.235],"Material":"SmoothPlastic","Shape":"Cylinder","CanCollide":false,"CastShadow":false}}]}
+{
+  "className": "Folder",
+  "children": [
+    {
+      "name": "LilyPad",
+      "className": "Part",
+      "properties": {
+        "Shape": "Cylinder",
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "Anchored": true,
+        "Color": {
+          "Color3uint8": [
+            106,
+            171,
+            54
+          ]
+        },
+        "Material": "SmoothPlastic",
+        "Size": [
+          0.1599999964237213,
+          2.5999999046325684,
+          2.5999999046325684
+        ],
+        "CFrame": [
+          -22.0,
+          -5.973999977111816,
+          14.0,
+          0.0,
+          -1.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "CanCollide": false,
+        "CastShadow": false
+      }
+    },
+    {
+      "name": "LilyPad",
+      "className": "Part",
+      "properties": {
+        "Shape": "Cylinder",
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "Anchored": true,
+        "Color": {
+          "Color3uint8": [
+            115,
+            177,
+            58
+          ]
+        },
+        "Material": "SmoothPlastic",
+        "Size": [
+          0.1599999964237213,
+          2.200000047683716,
+          2.200000047683716
+        ],
+        "CFrame": [
+          -30.0,
+          -5.973999977111816,
+          3.0,
+          0.0,
+          -1.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "CanCollide": false,
+        "CastShadow": false
+      }
+    },
+    {
+      "name": "LilyPad",
+      "className": "Part",
+      "properties": {
+        "Shape": "Cylinder",
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "Anchored": true,
+        "Color": {
+          "Color3uint8": [
+            117,
+            183,
+            66
+          ]
+        },
+        "Material": "SmoothPlastic",
+        "Size": [
+          0.1599999964237213,
+          2.799999952316284,
+          2.799999952316284
+        ],
+        "CFrame": [
+          -12.0,
+          -5.9730000495910645,
+          26.0,
+          0.0,
+          -1.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "CanCollide": false,
+        "CastShadow": false
+      }
+    },
+    {
+      "name": "LilyPad",
+      "className": "Part",
+      "properties": {
+        "Shape": "Cylinder",
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "Anchored": true,
+        "Color": {
+          "Color3uint8": [
+            120,
+            185,
+            64
+          ]
+        },
+        "Material": "SmoothPlastic",
+        "Size": [
+          0.1599999964237213,
+          2.0,
+          2.0
+        ],
+        "CFrame": [
+          -8.0,
+          -5.9730000495910645,
+          33.0,
+          0.0,
+          -1.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "CanCollide": false,
+        "CastShadow": false
+      }
+    },
+    {
+      "name": "LilyPad",
+      "className": "Part",
+      "properties": {
+        "Shape": "Cylinder",
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "Anchored": true,
+        "Color": {
+          "Color3uint8": [
+            107,
+            174,
+            56
+          ]
+        },
+        "Material": "SmoothPlastic",
+        "Size": [
+          0.1599999964237213,
+          2.4000000953674316,
+          2.4000000953674316
+        ],
+        "CFrame": [
+          -36.0,
+          -5.9730000495910645,
+          -9.0,
+          0.0,
+          -1.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "CanCollide": false,
+        "CastShadow": false
+      }
+    },
+    {
+      "name": "LilyPad",
+      "className": "Part",
+      "properties": {
+        "Shape": "Cylinder",
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "Anchored": true,
+        "Color": {
+          "Color3uint8": [
+            112,
+            180,
+            63
+          ]
+        },
+        "Material": "SmoothPlastic",
+        "Size": [
+          0.1599999964237213,
+          2.200000047683716,
+          2.200000047683716
+        ],
+        "CFrame": [
+          -3.0,
+          -5.9730000495910645,
+          14.0,
+          0.0,
+          -1.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "CanCollide": false,
+        "CastShadow": false
+      }
+    },
+    {
+      "name": "LilyPad",
+      "className": "Part",
+      "properties": {
+        "Shape": "Cylinder",
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "Anchored": true,
+        "Color": {
+          "Color3uint8": [
+            107,
+            174,
+            54
+          ]
+        },
+        "Material": "SmoothPlastic",
+        "Size": [
+          0.1599999964237213,
+          1.7999999523162842,
+          1.7999999523162842
+        ],
+        "CFrame": [
+          -17.0,
+          -5.9730000495910645,
+          6.0,
+          0.0,
+          -1.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "CanCollide": false,
+        "CastShadow": false
+      }
+    },
+    {
+      "name": "LilyPad",
+      "className": "Part",
+      "properties": {
+        "Shape": "Cylinder",
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "Anchored": true,
+        "Color": {
+          "Color3uint8": [
+            113,
+            179,
+            59
+          ]
+        },
+        "Material": "SmoothPlastic",
+        "Size": [
+          0.1599999964237213,
+          2.0,
+          2.0
+        ],
+        "CFrame": [
+          -33.0,
+          -5.9730000495910645,
+          -14.0,
+          0.0,
+          -1.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "CanCollide": false,
+        "CastShadow": false
+      }
+    },
+    {
+      "name": "LilyPad",
+      "className": "Part",
+      "properties": {
+        "Shape": "Cylinder",
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "Anchored": true,
+        "Color": {
+          "Color3uint8": [
+            116,
+            184,
+            59
+          ]
+        },
+        "Material": "SmoothPlastic",
+        "Size": [
+          0.1599999964237213,
+          2.4000000953674316,
+          2.4000000953674316
+        ],
+        "CFrame": [
+          2.0,
+          -5.9730000495910645,
+          24.0,
+          0.0,
+          -1.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "CanCollide": false,
+        "CastShadow": false
+      }
+    }
+  ],
+  "properties": {
+    "SerializedOverrides": {
+      "BinaryString": ""
+    }
+  }
+}

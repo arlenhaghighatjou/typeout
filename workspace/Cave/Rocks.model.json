@@ -1,1 +1,935 @@
-{"ClassName":"Folder","Children":[{"Name":"Rock","ClassName":"Part","Properties":{"Anchored":true,"Size":[9.6,16.0,22.0],"CFrame":{"CFrame":{"position":[2.4,7.0,-62.0],"orientation":[[1.0,0.0,0.0],[0.0,1.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.629,0.635,0.691],"Material":"SmoothPlastic"}},{"Name":"Rock","ClassName":"Part","Properties":{"Anchored":true,"Size":[7.0,11.0,10.0],"CFrame":{"CFrame":{"position":[0.5,4.5,-57.0],"orientation":[[0.97815,0.0,0.20791],[0.0,1.0,0.0],[-0.20791,0.0,0.97815]]}},"Color":[0.625,0.624,0.671],"Material":"SmoothPlastic"}},{"Name":"Rock","ClassName":"Part","Properties":{"Anchored":true,"Size":[8.0,18.0,9.0],"CFrame":{"CFrame":{"position":[1.5,8.0,-68.0],"orientation":[[0.99027,0.0,-0.13917],[0.0,1.0,0.0],[0.13917,0.0,0.99027]]}},"Color":[0.642,0.654,0.701],"Material":"SmoothPlastic"}},{"Name":"Rock","ClassName":"Part","Properties":{"Anchored":true,"Size":[6.0,14.0,6.0],"CFrame":{"CFrame":{"position":[3.4,6.0,-53.6],"orientation":[[0.96126,0.0,0.27564],[0.0,1.0,0.0],[-0.27564,0.0,0.96126]]}},"Color":[0.437,0.436,0.521],"Material":"SmoothPlastic"}},{"Name":"Rock","ClassName":"Part","Properties":{"Anchored":true,"Size":[9.6,17.0,22.0],"CFrame":{"CFrame":{"position":[21.6,7.5,-62.0],"orientation":[[1.0,0.0,0.0],[0.0,1.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.536,0.539,0.626],"Material":"SmoothPlastic"}},{"Name":"Rock","ClassName":"Part","Properties":{"Anchored":true,"Size":[7.0,12.0,9.0],"CFrame":{"CFrame":{"position":[23.8,5.0,-56.0],"orientation":[[0.96593,0.0,-0.25882],[0.0,1.0,0.0],[0.25882,0.0,0.96593]]}},"Color":[0.406,0.406,0.494],"Material":"SmoothPlastic"}},{"Name":"Rock","ClassName":"Part","Properties":{"Anchored":true,"Size":[8.0,19.0,10.0],"CFrame":{"CFrame":{"position":[22.8,8.5,-68.0],"orientation":[[0.98481,0.0,0.17365],[0.0,1.0,0.0],[-0.17365,0.0,0.98481]]}},"Color":[0.408,0.413,0.518],"Material":"SmoothPlastic"}},{"Name":"Rock","ClassName":"Part","Properties":{"Anchored":true,"Size":[6.0,14.6,6.0],"CFrame":{"CFrame":{"position":[20.8,6.3,-53.5],"orientation":[[0.9703,0.0,-0.24192],[0.0,1.0,0.0],[0.24192,0.0,0.9703]]}},"Color":[0.538,0.542,0.611],"Material":"SmoothPlastic"}},{"Name":"Rock","ClassName":"Part","Properties":{"Anchored":true,"Size":[12.0,6.5,20.0],"CFrame":{"CFrame":{"position":[12.0,14.25,-61.0],"orientation":[[1.0,0.0,0.0],[0.0,1.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.561,0.56,0.627],"Material":"SmoothPlastic"}},{"Name":"Rock","ClassName":"Part","Properties":{"Anchored":true,"Size":[14.5,4.6,6.0],"CFrame":{"CFrame":{"position":[12.0,13.7,-54.4],"orientation":[[0.99756,0.0,0.06976],[0.0,1.0,0.0],[-0.06976,0.0,0.99756]]}},"Color":[0.393,0.397,0.496],"Material":"SmoothPlastic"}},{"Name":"Rock","ClassName":"Part","Properties":{"Anchored":true,"Size":[9.0,4.0,12.0],"CFrame":{"CFrame":{"position":[9.0,17.0,-64.0],"orientation":[[0.9703,0.0,0.24192],[0.0,1.0,0.0],[-0.24192,0.0,0.9703]]}},"Color":[0.51,0.499,0.584],"Material":"SmoothPlastic"}},{"Name":"Rock","ClassName":"Part","Properties":{"Anchored":true,"Size":[10.0,3.4,11.0],"CFrame":{"CFrame":{"position":[16.0,16.7,-65.0],"orientation":[[0.98481,0.0,-0.17365],[0.0,1.0,0.0],[0.17365,0.0,0.98481]]}},"Color":[0.524,0.531,0.616],"Material":"SmoothPlastic"}},{"Name":"Rock","ClassName":"Part","Properties":{"Anchored":true,"Size":[22.0,17.0,7.0],"CFrame":{"CFrame":{"position":[12.0,7.5,-70.0],"orientation":[[1.0,0.0,0.0],[0.0,1.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.436,0.434,0.517],"Material":"SmoothPlastic"}},{"Name":"Rock","ClassName":"Part","Properties":{"Anchored":true,"Size":[5.0,7.0,8.0],"CFrame":{"CFrame":{"position":[-1.5,2.5,-63.0],"orientation":[[0.90631,0.0,0.42262],[0.0,1.0,0.0],[-0.42262,0.0,0.90631]]}},"Color":[0.494,0.509,0.572],"Material":"SmoothPlastic"}},{"Name":"Rock","ClassName":"Part","Properties":{"Anchored":true,"Size":[5.0,8.0,9.0],"CFrame":{"CFrame":{"position":[26.0,3.0,-63.5],"orientation":[[0.93969,0.0,-0.34202],[0.0,1.0,0.0],[0.34202,0.0,0.93969]]}},"Color":[0.431,0.43,0.519],"Material":"SmoothPlastic"}},{"Name":"Rock","ClassName":"Part","Properties":{"Anchored":true,"Size":[9.0,12.0,5.0],"CFrame":{"CFrame":{"position":[6.5,5.0,-73.5],"orientation":[[0.99027,0.0,0.13917],[0.0,1.0,0.0],[-0.13917,0.0,0.99027]]}},"Color":[0.539,0.545,0.62],"Material":"SmoothPlastic"}},{"Name":"Rock","ClassName":"Part","Properties":{"Anchored":true,"Size":[10.0,13.5,5.0],"CFrame":{"CFrame":{"position":[18.0,5.75,-73.5],"orientation":[[0.99452,0.0,-0.10453],[0.0,1.0,0.0],[0.10453,0.0,0.99452]]}},"Color":[0.53,0.539,0.605],"Material":"SmoothPlastic"}},{"Name":"Rock","ClassName":"Part","Properties":{"Anchored":true,"Size":[2.923,2.38,2.878],"CFrame":{"CFrame":{"position":[-1.0,0.714,-52.5],"orientation":[[-0.47466,0.05624,-0.87837],[-0.10926,0.98647,0.12221],[0.87336,0.15398,-0.46209]]}},"Color":[0.544,0.537,0.612],"Material":"SmoothPlastic"}},{"Name":"Rock","ClassName":"Part","Properties":{"Anchored":true,"Size":[2.586,1.817,2.997],"CFrame":{"CFrame":{"position":[25.5,0.545,-52.0],"orientation":[[0.86339,-0.05061,0.50199],[-0.05602,0.97919,0.19507],[-0.50142,-0.19654,0.84259]]}},"Color":[0.531,0.544,0.626],"Material":"SmoothPlastic"}},{"Name":"Rock","ClassName":"Part","Properties":{"Anchored":true,"Size":[2.447,1.36,2.503],"CFrame":{"CFrame":{"position":[-3.5,0.408,-59.0],"orientation":[[-0.9877,0.11106,-0.11009],[0.10894,0.99373,0.02512],[0.11219,0.01282,-0.9936]]}},"Color":[0.524,0.531,0.606],"Material":"SmoothPlastic"}},{"Name":"Rock","ClassName":"Part","Properties":{"Anchored":true,"Size":[2.546,1.809,2.885],"CFrame":{"CFrame":{"position":[28.0,0.543,-58.0],"orientation":[[-0.85004,0.06415,0.5228],[0.00221,0.99298,-0.11825],[-0.52672,-0.09936,-0.84421]]}},"Color":[0.514,0.521,0.609],"Material":"SmoothPlastic"}},{"Name":"Rock","ClassName":"Part","Properties":{"Anchored":true,"Size":[1.491,1.17,1.848],"CFrame":{"CFrame":{"position":[5.5,0.351,-49.7],"orientation":[[0.26343,0.13757,0.95482],[0.04548,0.98691,-0.15474],[-0.96361,0.08419,0.25372]]}},"Color":[0.567,0.562,0.648],"Material":"SmoothPlastic"}},{"Name":"Rock","ClassName":"Part","Properties":{"Anchored":true,"Size":[2.087,1.286,2.143],"CFrame":{"CFrame":{"position":[18.8,0.386,-49.5],"orientation":[[0.87468,0.1795,-0.45023],[-0.09934,0.97557,0.19596],[0.47441,-0.12668,0.87114]]}},"Color":[0.527,0.526,0.621],"Material":"SmoothPlastic"}},{"Name":"Rock","ClassName":"Part","Properties":{"Anchored":true,"Size":[11.0,8.0,12.0],"CFrame":{"CFrame":{"position":[-7.0,3.0,-66.0],"orientation":[[0.93969,0.0,0.34202],[0.0,1.0,0.0],[-0.34202,0.0,0.93969]]}},"Color":[0.522,0.52,0.605],"Material":"SmoothPlastic"}},{"Name":"Rock","ClassName":"Part","Properties":{"Anchored":true,"Size":[8.0,5.0,8.0],"CFrame":{"CFrame":{"position":[-9.0,1.5,-60.0],"orientation":[[0.97815,0.0,-0.20791],[0.0,1.0,0.0],[0.20791,0.0,0.97815]]}},"Color":[0.633,0.631,0.696],"Material":"SmoothPlastic"}}]}
+{
+  "className": "Folder",
+  "children": [
+    {
+      "name": "Rock",
+      "className": "Part",
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "Anchored": true,
+        "Color": {
+          "Color3uint8": [
+            160,
+            161,
+            176
+          ]
+        },
+        "Material": "SmoothPlastic",
+        "Size": [
+          9.600000381469727,
+          16.0,
+          22.0
+        ],
+        "CFrame": [
+          2.4000000953674316,
+          7.0,
+          -62.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      }
+    },
+    {
+      "name": "Rock",
+      "className": "Part",
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "Anchored": true,
+        "Color": {
+          "Color3uint8": [
+            159,
+            159,
+            171
+          ]
+        },
+        "Material": "SmoothPlastic",
+        "Size": [
+          7.0,
+          11.0,
+          10.0
+        ],
+        "CFrame": [
+          0.5,
+          4.5,
+          -57.0,
+          0.9781500101089478,
+          0.0,
+          0.20791000127792358,
+          0.0,
+          1.0,
+          0.0,
+          -0.20791000127792358,
+          0.0,
+          0.9781500101089478
+        ]
+      }
+    },
+    {
+      "name": "Rock",
+      "className": "Part",
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "Anchored": true,
+        "Color": {
+          "Color3uint8": [
+            163,
+            166,
+            178
+          ]
+        },
+        "Material": "SmoothPlastic",
+        "Size": [
+          8.0,
+          18.0,
+          9.0
+        ],
+        "CFrame": [
+          1.5,
+          8.0,
+          -68.0,
+          0.9902700185775757,
+          0.0,
+          -0.13917000591754913,
+          0.0,
+          1.0,
+          0.0,
+          0.13917000591754913,
+          0.0,
+          0.9902700185775757
+        ]
+      }
+    },
+    {
+      "name": "Rock",
+      "className": "Part",
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "Anchored": true,
+        "Color": {
+          "Color3uint8": [
+            111,
+            111,
+            132
+          ]
+        },
+        "Material": "SmoothPlastic",
+        "Size": [
+          6.0,
+          14.0,
+          6.0
+        ],
+        "CFrame": [
+          3.4000000953674316,
+          6.0,
+          -53.599998474121094,
+          0.9612600207328796,
+          0.0,
+          0.27564001083374023,
+          0.0,
+          1.0,
+          0.0,
+          -0.27564001083374023,
+          0.0,
+          0.9612600207328796
+        ]
+      }
+    },
+    {
+      "name": "Rock",
+      "className": "Part",
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "Anchored": true,
+        "Color": {
+          "Color3uint8": [
+            136,
+            137,
+            159
+          ]
+        },
+        "Material": "SmoothPlastic",
+        "Size": [
+          9.600000381469727,
+          17.0,
+          22.0
+        ],
+        "CFrame": [
+          21.600000381469727,
+          7.5,
+          -62.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      }
+    },
+    {
+      "name": "Rock",
+      "className": "Part",
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "Anchored": true,
+        "Color": {
+          "Color3uint8": [
+            103,
+            103,
+            125
+          ]
+        },
+        "Material": "SmoothPlastic",
+        "Size": [
+          7.0,
+          12.0,
+          9.0
+        ],
+        "CFrame": [
+          23.799999237060547,
+          5.0,
+          -56.0,
+          0.9659299850463867,
+          0.0,
+          -0.2588199973106384,
+          0.0,
+          1.0,
+          0.0,
+          0.2588199973106384,
+          0.0,
+          0.9659299850463867
+        ]
+      }
+    },
+    {
+      "name": "Rock",
+      "className": "Part",
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "Anchored": true,
+        "Color": {
+          "Color3uint8": [
+            104,
+            105,
+            132
+          ]
+        },
+        "Material": "SmoothPlastic",
+        "Size": [
+          8.0,
+          19.0,
+          10.0
+        ],
+        "CFrame": [
+          22.799999237060547,
+          8.5,
+          -68.0,
+          0.9848099946975708,
+          0.0,
+          0.17364999651908875,
+          0.0,
+          1.0,
+          0.0,
+          -0.17364999651908875,
+          0.0,
+          0.9848099946975708
+        ]
+      }
+    },
+    {
+      "name": "Rock",
+      "className": "Part",
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "Anchored": true,
+        "Color": {
+          "Color3uint8": [
+            137,
+            138,
+            155
+          ]
+        },
+        "Material": "SmoothPlastic",
+        "Size": [
+          6.0,
+          14.600000381469727,
+          6.0
+        ],
+        "CFrame": [
+          20.799999237060547,
+          6.300000190734863,
+          -53.5,
+          0.970300018787384,
+          0.0,
+          -0.24191999435424805,
+          0.0,
+          1.0,
+          0.0,
+          0.24191999435424805,
+          0.0,
+          0.970300018787384
+        ]
+      }
+    },
+    {
+      "name": "Rock",
+      "className": "Part",
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "Anchored": true,
+        "Color": {
+          "Color3uint8": [
+            143,
+            142,
+            159
+          ]
+        },
+        "Material": "SmoothPlastic",
+        "Size": [
+          12.0,
+          6.5,
+          20.0
+        ],
+        "CFrame": [
+          12.0,
+          14.25,
+          -61.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      }
+    },
+    {
+      "name": "Rock",
+      "className": "Part",
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "Anchored": true,
+        "Color": {
+          "Color3uint8": [
+            100,
+            101,
+            126
+          ]
+        },
+        "Material": "SmoothPlastic",
+        "Size": [
+          14.5,
+          4.599999904632568,
+          6.0
+        ],
+        "CFrame": [
+          12.0,
+          13.699999809265137,
+          -54.400001525878906,
+          0.9975600242614746,
+          0.0,
+          0.06976000219583511,
+          0.0,
+          1.0,
+          0.0,
+          -0.06976000219583511,
+          0.0,
+          0.9975600242614746
+        ]
+      }
+    },
+    {
+      "name": "Rock",
+      "className": "Part",
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "Anchored": true,
+        "Color": {
+          "Color3uint8": [
+            130,
+            127,
+            148
+          ]
+        },
+        "Material": "SmoothPlastic",
+        "Size": [
+          9.0,
+          4.0,
+          12.0
+        ],
+        "CFrame": [
+          9.0,
+          17.0,
+          -64.0,
+          0.970300018787384,
+          0.0,
+          0.24191999435424805,
+          0.0,
+          1.0,
+          0.0,
+          -0.24191999435424805,
+          0.0,
+          0.970300018787384
+        ]
+      }
+    },
+    {
+      "name": "Rock",
+      "className": "Part",
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "Anchored": true,
+        "Color": {
+          "Color3uint8": [
+            133,
+            135,
+            157
+          ]
+        },
+        "Material": "SmoothPlastic",
+        "Size": [
+          10.0,
+          3.4000000953674316,
+          11.0
+        ],
+        "CFrame": [
+          16.0,
+          16.700000762939453,
+          -65.0,
+          0.9848099946975708,
+          0.0,
+          -0.17364999651908875,
+          0.0,
+          1.0,
+          0.0,
+          0.17364999651908875,
+          0.0,
+          0.9848099946975708
+        ]
+      }
+    },
+    {
+      "name": "Rock",
+      "className": "Part",
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "Anchored": true,
+        "Color": {
+          "Color3uint8": [
+            111,
+            110,
+            131
+          ]
+        },
+        "Material": "SmoothPlastic",
+        "Size": [
+          22.0,
+          17.0,
+          7.0
+        ],
+        "CFrame": [
+          12.0,
+          7.5,
+          -70.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      }
+    },
+    {
+      "name": "Rock",
+      "className": "Part",
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "Anchored": true,
+        "Color": {
+          "Color3uint8": [
+            125,
+            129,
+            145
+          ]
+        },
+        "Material": "SmoothPlastic",
+        "Size": [
+          5.0,
+          7.0,
+          8.0
+        ],
+        "CFrame": [
+          -1.5,
+          2.5,
+          -63.0,
+          0.9063100218772888,
+          0.0,
+          0.4226199984550476,
+          0.0,
+          1.0,
+          0.0,
+          -0.4226199984550476,
+          0.0,
+          0.9063100218772888
+        ]
+      }
+    },
+    {
+      "name": "Rock",
+      "className": "Part",
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "Anchored": true,
+        "Color": {
+          "Color3uint8": [
+            109,
+            109,
+            132
+          ]
+        },
+        "Material": "SmoothPlastic",
+        "Size": [
+          5.0,
+          8.0,
+          9.0
+        ],
+        "CFrame": [
+          26.0,
+          3.0,
+          -63.5,
+          0.9396899938583374,
+          0.0,
+          -0.3420200049877167,
+          0.0,
+          1.0,
+          0.0,
+          0.3420200049877167,
+          0.0,
+          0.9396899938583374
+        ]
+      }
+    },
+    {
+      "name": "Rock",
+      "className": "Part",
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "Anchored": true,
+        "Color": {
+          "Color3uint8": [
+            137,
+            138,
+            158
+          ]
+        },
+        "Material": "SmoothPlastic",
+        "Size": [
+          9.0,
+          12.0,
+          5.0
+        ],
+        "CFrame": [
+          6.5,
+          5.0,
+          -73.5,
+          0.9902700185775757,
+          0.0,
+          0.13917000591754913,
+          0.0,
+          1.0,
+          0.0,
+          -0.13917000591754913,
+          0.0,
+          0.9902700185775757
+        ]
+      }
+    },
+    {
+      "name": "Rock",
+      "className": "Part",
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "Anchored": true,
+        "Color": {
+          "Color3uint8": [
+            135,
+            137,
+            154
+          ]
+        },
+        "Material": "SmoothPlastic",
+        "Size": [
+          10.0,
+          13.5,
+          5.0
+        ],
+        "CFrame": [
+          18.0,
+          5.75,
+          -73.5,
+          0.9945200085639954,
+          0.0,
+          -0.10452999919652939,
+          0.0,
+          1.0,
+          0.0,
+          0.10452999919652939,
+          0.0,
+          0.9945200085639954
+        ]
+      }
+    },
+    {
+      "name": "Rock",
+      "className": "Part",
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "Anchored": true,
+        "Color": {
+          "Color3uint8": [
+            138,
+            136,
+            156
+          ]
+        },
+        "Material": "SmoothPlastic",
+        "Size": [
+          2.9230000972747803,
+          2.380000114440918,
+          2.878000020980835
+        ],
+        "CFrame": [
+          -1.0,
+          0.7139999866485596,
+          -52.5,
+          -0.4746600091457367,
+          0.05623999983072281,
+          -0.8783699870109558,
+          -0.10926000028848648,
+          0.9864699840545654,
+          0.12221000343561172,
+          0.8733599781990051,
+          0.15398000180721283,
+          -0.46208998560905457
+        ]
+      }
+    },
+    {
+      "name": "Rock",
+      "className": "Part",
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "Anchored": true,
+        "Color": {
+          "Color3uint8": [
+            135,
+            138,
+            159
+          ]
+        },
+        "Material": "SmoothPlastic",
+        "Size": [
+          2.5859999656677246,
+          1.8170000314712524,
+          2.996999979019165
+        ],
+        "CFrame": [
+          25.5,
+          0.5450000166893005,
+          -52.0,
+          0.8633900284767151,
+          -0.050609998404979706,
+          0.501990020275116,
+          -0.05601999908685684,
+          0.9791899919509888,
+          0.19506999850273132,
+          -0.5014200210571289,
+          -0.1965399980545044,
+          0.8425899744033813
+        ]
+      }
+    },
+    {
+      "name": "Rock",
+      "className": "Part",
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "Anchored": true,
+        "Color": {
+          "Color3uint8": [
+            133,
+            135,
+            154
+          ]
+        },
+        "Material": "SmoothPlastic",
+        "Size": [
+          2.447000026702881,
+          1.3600000143051147,
+          2.503000020980835
+        ],
+        "CFrame": [
+          -3.5,
+          0.40799999237060547,
+          -59.0,
+          -0.9876999855041504,
+          0.1110600009560585,
+          -0.11009000241756439,
+          0.1089399978518486,
+          0.9937300086021423,
+          0.025119999423623085,
+          0.11219000071287155,
+          0.01281999982893467,
+          -0.9936000108718872
+        ]
+      }
+    },
+    {
+      "name": "Rock",
+      "className": "Part",
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "Anchored": true,
+        "Color": {
+          "Color3uint8": [
+            131,
+            132,
+            155
+          ]
+        },
+        "Material": "SmoothPlastic",
+        "Size": [
+          2.5460000038146973,
+          1.809000015258789,
+          2.884999990463257
+        ],
+        "CFrame": [
+          28.0,
+          0.5429999828338623,
+          -58.0,
+          -0.8500400185585022,
+          0.06414999812841415,
+          0.5228000283241272,
+          0.0022100000642240047,
+          0.9929800033569336,
+          -0.11824999749660492,
+          -0.5267199873924255,
+          -0.09935999661684036,
+          -0.8442100286483765
+        ]
+      }
+    },
+    {
+      "name": "Rock",
+      "className": "Part",
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "Anchored": true,
+        "Color": {
+          "Color3uint8": [
+            144,
+            143,
+            165
+          ]
+        },
+        "Material": "SmoothPlastic",
+        "Size": [
+          1.4910000562667847,
+          1.1699999570846558,
+          1.8480000495910645
+        ],
+        "CFrame": [
+          5.5,
+          0.35100001096725464,
+          -49.70000076293945,
+          0.26342999935150146,
+          0.13756999373435974,
+          0.9548199772834778,
+          0.04548000171780586,
+          0.9869099855422974,
+          -0.15474000573158264,
+          -0.9636099934577942,
+          0.0841900035738945,
+          0.2537199854850769
+        ]
+      }
+    },
+    {
+      "name": "Rock",
+      "className": "Part",
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "Anchored": true,
+        "Color": {
+          "Color3uint8": [
+            134,
+            134,
+            158
+          ]
+        },
+        "Material": "SmoothPlastic",
+        "Size": [
+          2.0869998931884766,
+          1.2860000133514404,
+          2.1429998874664307
+        ],
+        "CFrame": [
+          18.799999237060547,
+          0.38600000739097595,
+          -49.5,
+          0.8746799826622009,
+          0.17949999868869781,
+          -0.4502300024032593,
+          -0.09933999925851822,
+          0.975570023059845,
+          0.19596000015735626,
+          0.4744099974632263,
+          -0.12668000161647797,
+          0.8711400032043457
+        ]
+      }
+    },
+    {
+      "name": "Rock",
+      "className": "Part",
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "Anchored": true,
+        "Color": {
+          "Color3uint8": [
+            133,
+            132,
+            154
+          ]
+        },
+        "Material": "SmoothPlastic",
+        "Size": [
+          11.0,
+          8.0,
+          12.0
+        ],
+        "CFrame": [
+          -7.0,
+          3.0,
+          -66.0,
+          0.9396899938583374,
+          0.0,
+          0.3420200049877167,
+          0.0,
+          1.0,
+          0.0,
+          -0.3420200049877167,
+          0.0,
+          0.9396899938583374
+        ]
+      }
+    },
+    {
+      "name": "Rock",
+      "className": "Part",
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "Anchored": true,
+        "Color": {
+          "Color3uint8": [
+            161,
+            160,
+            177
+          ]
+        },
+        "Material": "SmoothPlastic",
+        "Size": [
+          8.0,
+          5.0,
+          8.0
+        ],
+        "CFrame": [
+          -9.0,
+          1.5,
+          -60.0,
+          0.9781500101089478,
+          0.0,
+          -0.20791000127792358,
+          0.0,
+          1.0,
+          0.0,
+          0.20791000127792358,
+          0.0,
+          0.9781500101089478
+        ]
+      }
+    }
+  ],
+  "properties": {
+    "SerializedOverrides": {
+      "BinaryString": ""
+    }
+  }
+}

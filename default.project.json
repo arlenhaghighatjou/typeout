@@ -2,66 +2,239 @@
   "name": "typeout",
   "tree": {
     "$className": "DataModel",
-
-    "ReplicatedStorage": {
-      "Shared": {
-        "$path": "src/shared"
-      }
-    },
-
-    "ServerScriptService": {
-      "Server": {
-        "$path": "src/server"
-      }
-    },
-
-    "StarterPlayer": {
-      "$properties": {
-        "CameraMode": "LockFirstPerson",
-        "EnableMouseLockOption": false
-      },
-      "StarterPlayerScripts": {
-        "Client": {
-          "$path": "src/client"
-        }
-      }
-    },
-
-    "Workspace": {
-      "$className": "Workspace",
-      "$path": "workspace",
-      "$ignoreUnknownInstances": true,
-      "$properties": {
-        "FilteringEnabled": true
-      }
-    },
     "Lighting": {
-      "$properties": {
-        "Ambient": [0.3, 0.32, 0.38],
-        "OutdoorAmbient": [0.55, 0.6, 0.68],
-        "Brightness": 2.5,
-        "ClockTime": 14,
-        "GeographicLatitude": 30,
-        "GlobalShadows": true,
-        "Outlines": false,
-        "Technology": "Voxel"
-      },
       "Atmosphere": {
         "$className": "Atmosphere",
         "$properties": {
-          "Density": 0.25,
+          "Color": [
+            0.7799999713897705,
+            0.8700000047683716,
+            1.0
+          ],
+          "Decay": [
+            0.6200000047683716,
+            0.7799999713897705,
+            1.0
+          ],
+          "Density": 0.3,
+          "Haze": 1.6,
           "Offset": 0.25,
-          "Color": [0.78, 0.87, 1],
-          "Decay": [0.62, 0.78, 1],
-          "Glare": 0,
-          "Haze": 1
+          "SerializedOverrides": {
+            "BinaryString": ""
+          },
+          "Glare": 0.25
+        }
+      },
+      "$properties": {
+        "Ambient": [
+          0.30000001192092896,
+          0.3199999928474426,
+          0.3799999952316284
+        ],
+        "Brightness": 3.0,
+        "ClockTime": 15.5,
+        "EnvironmentDiffuseScale": 1.0,
+        "EnvironmentSpecularScale": 1.0,
+        "FogColor": [
+          0.7529412508010864,
+          0.7529412508010864,
+          0.7529412508010864
+        ],
+        "GeographicLatitude": 30.0,
+        "GlobalShadows": true,
+        "OutdoorAmbient": [
+          0.5,
+          0.55,
+          0.66
+        ],
+        "Outlines": false,
+        "PrioritizeLightingQuality": true,
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "ShadowSoftness": 0.35,
+        "Technology": "ShadowMap",
+        "ExposureCompensation": 0.1,
+        "ColorShift_Top": [
+          1.0,
+          0.93,
+          0.8
+        ]
+      },
+      "Bloom": {
+        "$className": "BloomEffect",
+        "$properties": {
+          "Intensity": 0.7,
+          "Size": 28.0,
+          "Threshold": 1.05
+        }
+      },
+      "ColorCorrection": {
+        "$className": "ColorCorrectionEffect",
+        "$properties": {
+          "Brightness": 0.02,
+          "Contrast": 0.1,
+          "Saturation": 0.2,
+          "TintColor": [
+            1.0,
+            0.98,
+            0.94
+          ]
+        }
+      },
+      "SunRays": {
+        "$className": "SunRaysEffect",
+        "$properties": {
+          "Intensity": 0.09,
+          "Spread": 0.65
         }
       }
     },
+    "Players": {
+      "$properties": {
+        "CharacterAutoLoads": false
+      }
+    },
+    "ReplicatedStorage": {
+      "Shared": {
+        "$properties": {
+          "SerializedOverrides": {
+            "BinaryString": ""
+          }
+        },
+        "$path": "src/shared"
+      },
+      "$properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        }
+      }
+    },
+    "ServerScriptService": {
+      "Server": {
+        "$properties": {
+          "SerializedOverrides": {
+            "BinaryString": ""
+          }
+        },
+        "$path": "src/server"
+      },
+      "$properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        }
+      }
+    },
+    "ServerStorage": {
+      "$className": "ServerStorage",
+      "$properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        }
+      },
+      "$ignoreUnknownInstances": true,
+      "$path": "serverstorage"
+    },
     "SoundService": {
       "$properties": {
-        "RespectFilteringEnabled": true
+        "DefaultListenerLocation": "Camera",
+        "RespectFilteringEnabled": true,
+        "SerializedOverrides": {
+          "BinaryString": ""
+        }
       }
+    },
+    "StarterGui": {
+      "$className": "StarterGui",
+      "$properties": {
+        "ScreenOrientation": "Sensor",
+        "SerializedOverrides": {
+          "BinaryString": ""
+        }
+      },
+      "$ignoreUnknownInstances": true,
+      "$path": "startergui"
+    },
+    "StarterPlayer": {
+      "StarterPlayerScripts": {
+        "Client": {
+          "$properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            }
+          },
+          "$path": "src/client"
+        },
+        "$properties": {
+          "SerializedOverrides": {
+            "BinaryString": ""
+          }
+        }
+      },
+      "$properties": {
+        "AvatarJointUpgrade": "Enabled",
+        "CameraMaxZoomDistance": 128.0,
+        "CameraMode": "LockFirstPerson",
+        "CharacterBreakJointsOnDeath": false,
+        "CharacterUseJumpPower": false,
+        "EnableMouseLockOption": false,
+        "GameSettingsAvatar": "R6",
+        "SerializedOverrides": {
+          "BinaryString": ""
+        }
+      }
+    },
+    "Workspace": {
+      "$className": "Workspace",
+      "$properties": {
+        "FilteringEnabled": true,
+        "PlayerCharacterDestroyBehavior": "Enabled",
+        "PlayerScriptsUseInputActionSystem": "Enabled",
+        "ReplicationFrequency": {
+          "Enum": 0
+        },
+        "ReplicationThroughput": {
+          "Enum": 0
+        },
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "SignalBehavior": "Deferred",
+        "StreamOutBehavior": "Opportunistic",
+        "StreamingEnabled": true,
+        "StreamingIntegrityMode": "PauseOutsideLoadedArea",
+        "WorldPivotData": {
+          "OptionalCFrame": {
+            "position": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "orientation": [
+              [
+                1.0,
+                0.0,
+                0.0
+              ],
+              [
+                0.0,
+                1.0,
+                0.0
+              ],
+              [
+                0.0,
+                0.0,
+                1.0
+              ]
+            ]
+          }
+        }
+      },
+      "$attributes": {
+        "Rojo_Target_CurrentCamera": "0003a203819442ff0adbc225000003ec"
+      },
+      "$ignoreUnknownInstances": true,
+      "$path": "workspace"
     }
   }
 }

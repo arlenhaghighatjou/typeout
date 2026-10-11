@@ -1,1 +1,2206 @@
-{"ClassName":"Folder","Children":[{"Name":"Tree","ClassName":"Model","Children":[{"Name":"Trunk","ClassName":"Part","Properties":{"Anchored":true,"Size":[2.6,9.325,2.6],"CFrame":{"CFrame":{"position":[63.0,4.162,-8.0],"orientation":[[0.22765,0.0,0.97374],[0.0,1.0,0.0],[-0.97374,0.0,0.22765]]}},"Color":[0.489,0.313,0.19],"Material":"SmoothPlastic"}},{"Name":"Root","ClassName":"Part","Properties":{"Anchored":true,"Size":[1.3,2.7,1.56],"CFrame":{"CFrame":{"position":[62.246,0.72,-6.785],"orientation":[[-0.46298,-0.25293,-0.84951],[-0.47943,0.87758,0.0],[0.74552,0.40728,-0.52757]]}},"Color":[0.374,0.237,0.144],"Material":"SmoothPlastic"}},{"Name":"Root","ClassName":"Part","Properties":{"Anchored":true,"Size":[1.3,2.7,1.56],"CFrame":{"CFrame":{"position":[61.785,0.72,-8.754],"orientation":[[-0.74552,-0.40728,0.52757],[-0.47943,0.87758,0.0],[-0.46298,-0.25293,-0.84951]]}},"Color":[0.366,0.223,0.129],"Material":"SmoothPlastic"}},{"Name":"Root","ClassName":"Part","Properties":{"Anchored":true,"Size":[1.3,2.7,1.56],"CFrame":{"CFrame":{"position":[63.754,0.72,-9.215],"orientation":[[0.46298,0.25293,0.84951],[-0.47943,0.87758,0.0],[-0.74552,-0.40728,0.52757]]}},"Color":[0.371,0.235,0.145],"Material":"SmoothPlastic"}},{"Name":"Root","ClassName":"Part","Properties":{"Anchored":true,"Size":[1.3,2.7,1.56],"CFrame":{"CFrame":{"position":[64.215,0.72,-7.246],"orientation":[[0.74552,0.40728,-0.52757],[-0.47943,0.87758,0.0],[0.46298,0.25293,0.84951]]}},"Color":[0.359,0.216,0.126],"Material":"SmoothPlastic"}},{"Name":"Leaves","ClassName":"Part","Properties":{"Anchored":true,"Size":[9.5,7.6,9.5],"CFrame":{"CFrame":{"position":[63.0,9.8,-8.0],"orientation":[[0.92366,0.0,0.3832],[0.0,1.0,0.0],[-0.3832,0.0,0.92366]]}},"Color":[0.336,0.607,0.199],"Material":"SmoothPlastic","CanCollide":false}},{"Name":"Leaves","ClassName":"Part","Properties":{"Anchored":true,"Size":[5.634,4.956,5.634],"CFrame":{"CFrame":{"position":[66.884,8.718,-8.914],"orientation":[[0.32208,0.06315,-0.9446],[0.08236,0.99212,0.09441],[0.94312,-0.10821,0.31434]]}},"Color":[0.437,0.693,0.219],"Material":"SmoothPlastic","CanCollide":false}},{"Name":"Leaves","ClassName":"Part","Properties":{"Anchored":true,"Size":[5.099,4.138,5.099],"CFrame":{"CFrame":{"position":[63.497,10.541,-4.041],"orientation":[[-0.71164,0.06371,-0.69964],[0.03218,0.99779,0.05813],[0.7018,0.01886,-0.71212]]}},"Color":[0.314,0.58,0.171],"Material":"SmoothPlastic","CanCollide":false}},{"Name":"Leaves","ClassName":"Part","Properties":{"Anchored":true,"Size":[5.555,5.402,5.555],"CFrame":{"CFrame":{"position":[59.721,8.927,-5.727],"orientation":[[0.12176,-0.11472,-0.98591],[0.09606,0.99,-0.10333],[0.9879,-0.08212,0.13156]]}},"Color":[0.436,0.693,0.224],"Material":"SmoothPlastic","CanCollide":false}},{"Name":"Leaves","ClassName":"Part","Properties":{"Anchored":true,"Size":[4.972,3.982,4.972],"CFrame":{"CFrame":{"position":[59.706,8.284,-10.251],"orientation":[[-0.90439,0.02832,0.42577],[-0.01247,0.99561,-0.09271],[-0.42653,-0.08916,-0.90007]]}},"Color":[0.316,0.582,0.179],"Material":"SmoothPlastic","CanCollide":false}},{"Name":"Leaves","ClassName":"Part","Properties":{"Anchored":true,"Size":[5.814,5.799,5.814],"CFrame":{"CFrame":{"position":[65.082,8.135,-11.404],"orientation":[[-0.64544,0.1165,-0.75487],[0.08171,0.99316,0.0834],[0.75943,-0.00785,-0.65054]]}},"Color":[0.451,0.706,0.23],"Material":"SmoothPlastic","CanCollide":false}},{"Name":"Leaves","ClassName":"Part","Properties":{"Anchored":true,"Size":[5.89,4.75,5.89],"CFrame":{"CFrame":{"position":[63.507,14.55,-8.901],"orientation":[[-0.82743,-0.00682,-0.56153],[0.00535,0.99979,-0.02003],[0.56154,-0.01958,-0.82722]]}},"Color":[0.429,0.68,0.215],"Material":"SmoothPlastic","CanCollide":false}}]},{"Name":"Tree","ClassName":"Model","Children":[{"Name":"Trunk","ClassName":"Part","Properties":{"Anchored":true,"Size":[2.8,10.675,2.8],"CFrame":{"CFrame":{"position":[112.0,4.838,14.0],"orientation":[[0.4457,0.0,0.89518],[0.0,1.0,0.0],[-0.89518,0.0,0.4457]]}},"Color":[0.48,0.316,0.187],"Material":"SmoothPlastic"}},{"Name":"Root","ClassName":"Part","Properties":{"Anchored":true,"Size":[1.4,3.15,1.68],"CFrame":{"CFrame":{"position":[111.511,0.84,15.46],"orientation":[[-0.27893,-0.15238,-0.94815],[-0.47943,0.87758,0.0],[0.83208,0.45457,-0.31784]]}},"Color":[0.353,0.219,0.123],"Material":"SmoothPlastic"}},{"Name":"Root","ClassName":"Part","Properties":{"Anchored":true,"Size":[1.4,3.15,1.68],"CFrame":{"CFrame":{"position":[110.54,0.84,13.511],"orientation":[[-0.83208,-0.45457,0.31784],[-0.47943,0.87758,0.0],[-0.27893,-0.15238,-0.94815]]}},"Color":[0.357,0.208,0.123],"Material":"SmoothPlastic"}},{"Name":"Root","ClassName":"Part","Properties":{"Anchored":true,"Size":[1.4,3.15,1.68],"CFrame":{"CFrame":{"position":[112.489,0.84,12.54],"orientation":[[0.27893,0.15238,0.94815],[-0.47943,0.87758,0.0],[-0.83208,-0.45457,0.31784]]}},"Color":[0.373,0.222,0.134],"Material":"SmoothPlastic"}},{"Name":"Root","ClassName":"Part","Properties":{"Anchored":true,"Size":[1.4,3.15,1.68],"CFrame":{"CFrame":{"position":[113.46,0.84,14.489],"orientation":[[0.83208,0.45457,-0.31784],[-0.47943,0.87758,0.0],[0.27893,0.15238,0.94815]]}},"Color":[0.341,0.199,0.115],"Material":"SmoothPlastic"}},{"Name":"Leaves","ClassName":"Part","Properties":{"Anchored":true,"Size":[10.5,8.4,10.5],"CFrame":{"CFrame":{"position":[112.0,11.2,14.0],"orientation":[[0.99564,0.0,0.09328],[0.0,1.0,0.0],[-0.09328,0.0,0.99564]]}},"Color":[0.321,0.594,0.183],"Material":"SmoothPlastic","CanCollide":false}},{"Name":"Leaves","ClassName":"Part","Properties":{"Anchored":true,"Size":[5.846,5.36,5.846],"CFrame":{"CFrame":{"position":[116.265,10.248,12.878],"orientation":[[0.69031,0.03066,-0.72287],[-0.07738,0.9965,-0.03162],[0.71937,0.07776,0.69026]]}},"Color":[0.427,0.678,0.215],"Material":"SmoothPlastic","CanCollide":false}},{"Name":"Leaves","ClassName":"Part","Properties":{"Anchored":true,"Size":[5.815,5.574,5.815],"CFrame":{"CFrame":{"position":[113.233,8.726,18.234],"orientation":[[-0.08801,-0.10038,0.99105],[-0.07339,0.99286,0.09405],[-0.99341,-0.06445,-0.09475]]}},"Color":[0.341,0.614,0.205],"Material":"SmoothPlastic","CanCollide":false}},{"Name":"Leaves","ClassName":"Part","Properties":{"Anchored":true,"Size":[7.095,6.166,7.095],"CFrame":{"CFrame":{"position":[107.826,10.293,15.423],"orientation":[[-0.06343,-0.04765,-0.99685],[-0.04233,0.99809,-0.04501],[0.99709,0.03935,-0.06533]]}},"Color":[0.35,0.61,0.198],"Material":"SmoothPlastic","CanCollide":false}},{"Name":"Leaves","ClassName":"Part","Properties":{"Anchored":true,"Size":[6.343,5.866,6.343],"CFrame":{"CFrame":{"position":[107.89,10.796,12.4],"orientation":[[0.03409,0.00618,-0.9994],[0.05537,0.99843,0.00807],[0.99788,-0.05561,0.0337]]}},"Color":[0.308,0.575,0.174],"Material":"SmoothPlastic","CanCollide":false}},{"Name":"Leaves","ClassName":"Part","Properties":{"Anchored":true,"Size":[5.43,4.894,5.43],"CFrame":{"CFrame":{"position":[114.065,9.733,10.103],"orientation":[[0.58717,0.09805,-0.8035],[-0.01683,0.9939,0.10899],[0.80929,-0.05047,0.58524]]}},"Color":[0.238,0.473,0.163],"Material":"SmoothPlastic","CanCollide":false}},{"Name":"Leaves","ClassName":"Part","Properties":{"Anchored":true,"Size":[6.51,5.25,6.51],"CFrame":{"CFrame":{"position":[111.587,16.45,14.351],"orientation":[[0.98404,0.0443,-0.17235],[-0.02837,0.99519,0.0938],[0.17568,-0.08742,0.98056]]}},"Color":[0.426,0.691,0.214],"Material":"SmoothPlastic","CanCollide":false}}]},{"Name":"Tree","ClassName":"Model","Children":[{"Name":"Trunk","ClassName":"Part","Properties":{"Anchored":true,"Size":[2.4,5.975,2.4],"CFrame":{"CFrame":{"position":[86.0,2.487,-15.5],"orientation":[[0.99842,0.0,0.05625],[0.0,1.0,0.0],[-0.05625,0.0,0.99842]]}},"Color":[0.489,0.317,0.197],"Material":"SmoothPlastic"}},{"Name":"Root","ClassName":"Part","Properties":{"Anchored":true,"Size":[1.2,1.35,1.44],"CFrame":{"CFrame":{"position":[86.879,0.36,-14.516],"orientation":[[0.58466,0.3194,-0.74576],[-0.47943,0.87758,0.0],[0.65447,0.35754,0.66622]]}},"Color":[0.36,0.213,0.129],"Material":"SmoothPlastic"}},{"Name":"Root","ClassName":"Part","Properties":{"Anchored":true,"Size":[1.2,1.35,1.44],"CFrame":{"CFrame":{"position":[85.016,0.36,-14.621],"orientation":[[-0.65447,-0.35754,-0.66622],[-0.47943,0.87758,0.0],[0.58466,0.3194,-0.74576]]}},"Color":[0.367,0.232,0.143],"Material":"SmoothPlastic"}},{"Name":"Root","ClassName":"Part","Properties":{"Anchored":true,"Size":[1.2,1.35,1.44],"CFrame":{"CFrame":{"position":[85.121,0.36,-16.484],"orientation":[[-0.58466,-0.3194,0.74576],[-0.47943,0.87758,0.0],[-0.65447,-0.35754,-0.66622]]}},"Color":[0.344,0.202,0.115],"Material":"SmoothPlastic"}},{"Name":"Root","ClassName":"Part","Properties":{"Anchored":true,"Size":[1.2,1.35,1.44],"CFrame":{"CFrame":{"position":[86.984,0.36,-16.379],"orientation":[[0.65447,0.35754,0.66622],[-0.47943,0.87758,0.0],[-0.58466,-0.3194,0.74576]]}},"Color":[0.365,0.23,0.141],"Material":"SmoothPlastic"}},{"Name":"Leaves","ClassName":"Part","Properties":{"Anchored":true,"Size":[8.5,6.8,8.5],"CFrame":{"CFrame":{"position":[86.0,6.4,-15.5],"orientation":[[0.13557,0.0,0.99077],[0.0,1.0,0.0],[-0.99077,0.0,0.13557]]}},"Color":[0.309,0.577,0.177],"Material":"SmoothPlastic","CanCollide":false}},{"Name":"Leaves","ClassName":"Part","Properties":{"Anchored":true,"Size":[4.676,4.297,4.676],"CFrame":{"CFrame":{"position":[89.568,4.98,-15.38],"orientation":[[-0.82647,-0.02653,-0.56236],[0.03229,0.99501,-0.0944],[0.56206,-0.09617,-0.82149]]}},"Color":[0.272,0.501,0.189],"Material":"SmoothPlastic","CanCollide":false}},{"Name":"Leaves","ClassName":"Part","Properties":{"Anchored":true,"Size":[4.996,4.94,4.996],"CFrame":{"CFrame":{"position":[85.088,5.507,-12.049],"orientation":[[-0.46437,-0.10211,0.87974],[-0.00882,0.99382,0.11069],[-0.8856,0.04364,-0.4624]]}},"Color":[0.343,0.605,0.205],"Material":"SmoothPlastic","CanCollide":false}},{"Name":"Leaves","ClassName":"Part","Properties":{"Anchored":true,"Size":[4.901,4.043,4.901],"CFrame":{"CFrame":{"position":[82.44,5.884,-15.238],"orientation":[[-0.06866,0.02571,0.99731],[-0.01209,0.99957,-0.0266],[-0.99757,-0.01389,-0.06832]]}},"Color":[0.244,0.475,0.167],"Material":"SmoothPlastic","CanCollide":false}},{"Name":"Leaves","ClassName":"Part","Properties":{"Anchored":true,"Size":[5.605,5.074,5.605],"CFrame":{"CFrame":{"position":[85.281,6.679,-18.997],"orientation":[[-0.40381,0.02262,0.91456],[0.03434,0.99936,-0.00955],[-0.9142,0.02754,-0.40433]]}},"Color":[0.329,0.6,0.197],"Material":"SmoothPlastic","CanCollide":false}},{"Name":"Leaves","ClassName":"Part","Properties":{"Anchored":true,"Size":[5.27,4.25,5.27],"CFrame":{"CFrame":{"position":[86.607,10.65,-15.511],"orientation":[[0.90164,0.0478,0.42983],[-0.03443,0.99865,-0.03884],[-0.43111,0.02022,0.90207]]}},"Color":[0.455,0.716,0.239],"Material":"SmoothPlastic","CanCollide":false}}]},{"Name":"Tree","ClassName":"Model","Children":[{"Name":"Trunk","ClassName":"Part","Properties":{"Anchored":true,"Size":[2.4,6.125,2.4],"CFrame":{"CFrame":{"position":[97.0,2.562,-11.5],"orientation":[[0.0228,0.0,0.99974],[0.0,1.0,0.0],[-0.99974,0.0,0.0228]]}},"Color":[0.47,0.303,0.185],"Material":"SmoothPlastic"}},{"Name":"Root","ClassName":"Part","Properties":{"Anchored":true,"Size":[1.2,1.575,1.44],"CFrame":{"CFrame":{"position":[96.088,0.42,-10.546],"orientation":[[-0.60623,-0.33119,-0.72305],[-0.47943,0.87758,0.0],[0.63453,0.34665,-0.6908]]}},"Color":[0.381,0.229,0.141],"Material":"SmoothPlastic"}},{"Name":"Root","ClassName":"Part","Properties":{"Anchored":true,"Size":[1.2,1.575,1.44],"CFrame":{"CFrame":{"position":[96.046,0.42,-12.412],"orientation":[[-0.63453,-0.34665,0.6908],[-0.47943,0.87758,0.0],[-0.60623,-0.33119,-0.72305]]}},"Color":[0.349,0.205,0.114],"Material":"SmoothPlastic"}},{"Name":"Root","ClassName":"Part","Properties":{"Anchored":true,"Size":[1.2,1.575,1.44],"CFrame":{"CFrame":{"position":[97.912,0.42,-12.454],"orientation":[[0.60623,0.33119,0.72305],[-0.47943,0.87758,0.0],[-0.63453,-0.34665,0.6908]]}},"Color":[0.355,0.215,0.124],"Material":"SmoothPlastic"}},{"Name":"Root","ClassName":"Part","Properties":{"Anchored":true,"Size":[1.2,1.575,1.44],"CFrame":{"CFrame":{"position":[97.954,0.42,-10.588],"orientation":[[0.63453,0.34665,-0.6908],[-0.47943,0.87758,0.0],[0.60623,0.33119,0.72305]]}},"Color":[0.355,0.211,0.117],"Material":"SmoothPlastic"}},{"Name":"Leaves","ClassName":"Part","Properties":{"Anchored":true,"Size":[7.5,6.0,7.5],"CFrame":{"CFrame":{"position":[97.0,6.5,-11.5],"orientation":[[0.28137,0.0,0.9596],[0.0,1.0,0.0],[-0.9596,0.0,0.28137]]}},"Color":[0.307,0.583,0.173],"Material":"SmoothPlastic","CanCollide":false}},{"Name":"Leaves","ClassName":"Part","Properties":{"Anchored":true,"Size":[4.542,4.028,4.542],"CFrame":{"CFrame":{"position":[100.094,7.587,-10.909],"orientation":[[0.44329,-0.06459,0.89405],[-0.03447,0.99543,0.08901],[-0.89571,-0.07027,0.43904]]}},"Color":[0.451,0.711,0.239],"Material":"SmoothPlastic","CanCollide":false}},{"Name":"Leaves","ClassName":"Part","Properties":{"Anchored":true,"Size":[5.07,5.04,5.07],"CFrame":{"CFrame":{"position":[96.468,4.442,-8.395],"orientation":[[-0.62018,0.07236,-0.78112],[0.07368,0.99671,0.03383],[0.781,-0.03657,-0.62347]]}},"Color":[0.331,0.605,0.193],"Material":"SmoothPlastic","CanCollide":false}},{"Name":"Leaves","ClassName":"Part","Properties":{"Anchored":true,"Size":[4.468,4.09,4.468],"CFrame":{"CFrame":{"position":[93.895,6.481,-10.968],"orientation":[[-0.9881,-0.03927,-0.14871],[-0.02286,0.99362,-0.11048],[0.1521,-0.10576,-0.98269]]}},"Color":[0.345,0.618,0.203],"Material":"SmoothPlastic","CanCollide":false}},{"Name":"Leaves","ClassName":"Part","Properties":{"Anchored":true,"Size":[4.925,4.271,4.925],"CFrame":{"CFrame":{"position":[96.174,5.252,-14.54],"orientation":[[-0.70907,0.09094,-0.69925],[0.06334,0.99585,0.06529],[0.70229,0.00201,-0.71189]]}},"Color":[0.448,0.711,0.24],"Material":"SmoothPlastic","CanCollide":false}},{"Name":"Leaves","ClassName":"Part","Properties":{"Anchored":true,"Size":[4.65,3.75,4.65],"CFrame":{"CFrame":{"position":[96.956,10.25,-10.786],"orientation":[[-0.8279,0.08385,0.55457],[0.0415,0.99521,-0.08852],[-0.55934,-0.05027,-0.82741]]}},"Color":[0.45,0.719,0.247],"Material":"SmoothPlastic","CanCollide":false}}]},{"Name":"Tree","ClassName":"Model","Children":[{"Name":"Trunk","ClassName":"Part","Properties":{"Anchored":true,"Size":[2.0,4.775,2.0],"CFrame":{"CFrame":{"position":[73.0,1.888,-15.0],"orientation":[[0.66254,0.0,0.74903],[0.0,1.0,0.0],[-0.74903,0.0,0.66254]]}},"Color":[0.468,0.299,0.182],"Material":"SmoothPlastic"}},{"Name":"Root","ClassName":"Part","Properties":{"Anchored":true,"Size":[1.0,1.125,1.2],"CFrame":{"CFrame":{"position":[72.933,0.3,-13.902],"orientation":[[-0.05367,-0.02932,-0.99813],[-0.47943,0.87758,0.0],[0.87594,0.47853,-0.06116]]}},"Color":[0.355,0.218,0.122],"Material":"SmoothPlastic"}},{"Name":"Root","ClassName":"Part","Properties":{"Anchored":true,"Size":[1.0,1.125,1.2],"CFrame":{"CFrame":{"position":[71.902,0.3,-15.067],"orientation":[[-0.87594,-0.47853,0.06116],[-0.47943,0.87758,0.0],[-0.05367,-0.02932,-0.99813]]}},"Color":[0.37,0.237,0.148],"Material":"SmoothPlastic"}},{"Name":"Root","ClassName":"Part","Properties":{"Anchored":true,"Size":[1.0,1.125,1.2],"CFrame":{"CFrame":{"position":[73.067,0.3,-16.098],"orientation":[[0.05367,0.02932,0.99813],[-0.47943,0.87758,0.0],[-0.87594,-0.47853,0.06116]]}},"Color":[0.354,0.214,0.123],"Material":"SmoothPlastic"}},{"Name":"Root","ClassName":"Part","Properties":{"Anchored":true,"Size":[1.0,1.125,1.2],"CFrame":{"CFrame":{"position":[74.098,0.3,-14.933],"orientation":[[0.87594,0.47853,-0.06116],[-0.47943,0.87758,0.0],[0.05367,0.02932,0.99813]]}},"Color":[0.37,0.233,0.136],"Material":"SmoothPlastic"}},{"Name":"Leaves","ClassName":"Part","Properties":{"Anchored":true,"Size":[6.5,5.2,6.5],"CFrame":{"CFrame":{"position":[73.0,5.1,-15.0],"orientation":[[0.97074,0.0,0.24013],[0.0,1.0,0.0],[-0.24013,0.0,0.97074]]}},"Color":[0.313,0.586,0.172],"Material":"SmoothPlastic","CanCollide":false}},{"Name":"Leaves","ClassName":"Part","Properties":{"Anchored":true,"Size":[3.25,3.082,3.25],"CFrame":{"CFrame":{"position":[75.7,4.987,-14.6],"orientation":[[0.99033,0.02081,-0.13714],[-0.01604,0.99923,0.03576],[0.13778,-0.03322,0.98991]]}},"Color":[0.257,0.491,0.175],"Material":"SmoothPlastic","CanCollide":false}},{"Name":"Leaves","ClassName":"Part","Properties":{"Anchored":true,"Size":[3.265,3.058,3.265],"CFrame":{"CFrame":{"position":[73.468,5.144,-12.31],"orientation":[[0.99168,0.02822,-0.1256],[-0.02323,0.99889,0.04102],[0.12662,-0.03776,0.99123]]}},"Color":[0.341,0.61,0.207],"Material":"SmoothPlastic","CanCollide":false}},{"Name":"Leaves","ClassName":"Part","Properties":{"Anchored":true,"Size":[3.479,2.801,3.479],"CFrame":{"CFrame":{"position":[70.304,3.506,-15.43],"orientation":[[0.99768,-0.06006,-0.03212],[0.0576,0.99568,-0.07283],[0.03635,0.07081,0.99683]]}},"Color":[0.323,0.594,0.188],"Material":"SmoothPlastic","CanCollide":false}},{"Name":"Leaves","ClassName":"Part","Properties":{"Anchored":true,"Size":[4.226,3.59,4.226],"CFrame":{"CFrame":{"position":[73.353,3.99,-17.707],"orientation":[[0.98711,0.01275,0.15954],[-0.01611,0.99967,0.01978],[-0.15924,-0.02209,0.98699]]}},"Color":[0.258,0.481,0.168],"Material":"SmoothPlastic","CanCollide":false}},{"Name":"Leaves","ClassName":"Part","Properties":{"Anchored":true,"Size":[4.03,3.25,4.03],"CFrame":{"CFrame":{"position":[73.145,8.35,-15.477],"orientation":[[0.74287,-0.00144,0.66944],[-0.02143,0.99943,0.02593],[-0.6691,-0.03361,0.74241]]}},"Color":[0.424,0.688,0.225],"Material":"SmoothPlastic","CanCollide":false}}]}]}
+{
+  "className": "Folder",
+  "children": [
+    {
+      "name": "Tree",
+      "className": "Model",
+      "children": [
+        {
+          "name": "Trunk",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                119,
+                76,
+                46
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              2.0,
+              4.775000095367432,
+              2.0
+            ],
+            "CFrame": [
+              73.0,
+              1.8880000114440918,
+              -15.0,
+              0.6625400185585022,
+              0.0,
+              0.7490299940109253,
+              0.0,
+              1.0,
+              0.0,
+              -0.7490299940109253,
+              0.0,
+              0.6625400185585022
+            ]
+          }
+        },
+        {
+          "name": "Root",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                90,
+                54,
+                31
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              1.0,
+              1.125,
+              1.2000000476837158
+            ],
+            "CFrame": [
+              73.06700134277344,
+              0.30000001192092896,
+              -16.097999572753906,
+              0.0536700002849102,
+              0.029319999739527702,
+              0.9981300234794617,
+              -0.4794299900531769,
+              0.8775799870491028,
+              0.0,
+              -0.8759400248527527,
+              -0.47852998971939087,
+              0.061159998178482056
+            ]
+          }
+        },
+        {
+          "name": "Root",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                94,
+                59,
+                34
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              1.0,
+              1.125,
+              1.2000000476837158
+            ],
+            "CFrame": [
+              74.0979995727539,
+              0.30000001192092896,
+              -14.932999610900879,
+              0.8759400248527527,
+              0.47852998971939087,
+              -0.061159998178482056,
+              -0.4794299900531769,
+              0.8775799870491028,
+              0.0,
+              0.0536700002849102,
+              0.029319999739527702,
+              0.9981300234794617
+            ]
+          }
+        },
+        {
+          "name": "Root",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                94,
+                60,
+                37
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              1.0,
+              1.125,
+              1.2000000476837158
+            ],
+            "CFrame": [
+              71.9020004272461,
+              0.30000001192092896,
+              -15.067000389099121,
+              -0.8759400248527527,
+              -0.47852998971939087,
+              0.061159998178482056,
+              -0.4794299900531769,
+              0.8775799870491028,
+              0.0,
+              -0.0536700002849102,
+              -0.029319999739527702,
+              -0.9981300234794617
+            ]
+          }
+        },
+        {
+          "name": "Root",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                90,
+                55,
+                31
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              1.0,
+              1.125,
+              1.2000000476837158
+            ],
+            "CFrame": [
+              72.93299865722656,
+              0.30000001192092896,
+              -13.902000427246094,
+              -0.0536700002849102,
+              -0.029319999739527702,
+              -0.9981300234794617,
+              -0.4794299900531769,
+              0.8775799870491028,
+              0.0,
+              0.8759400248527527,
+              0.47852998971939087,
+              -0.061159998178482056
+            ]
+          }
+        },
+        {
+          "name": "Leaves",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                86,
+                155,
+                52
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              3.265000104904175,
+              3.058000087738037,
+              3.265000104904175
+            ],
+            "CFrame": [
+              73.46800231933594,
+              5.144000053405762,
+              -12.3100004196167,
+              0.9916800260543823,
+              0.028219999745488167,
+              -0.12559999525547028,
+              -0.023229999467730522,
+              0.9988899827003479,
+              0.041019998490810394,
+              0.12661999464035034,
+              -0.03776000067591667,
+              0.9912300109863281
+            ],
+            "CanCollide": false
+          }
+        },
+        {
+          "name": "Leaves",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                79,
+                149,
+                43
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              6.5,
+              5.199999809265137,
+              6.5
+            ],
+            "CFrame": [
+              73.0,
+              5.099999904632568,
+              -15.0,
+              0.970740020275116,
+              0.0,
+              0.2401300072669983,
+              0.0,
+              1.0,
+              0.0,
+              -0.2401300072669983,
+              0.0,
+              0.970740020275116
+            ],
+            "CanCollide": false
+          }
+        },
+        {
+          "name": "Leaves",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                65,
+                122,
+                42
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              4.22599983215332,
+              3.5899999141693115,
+              4.22599983215332
+            ],
+            "CFrame": [
+              73.35299682617188,
+              3.990000009536743,
+              -17.707000732421875,
+              0.9871100187301636,
+              0.012749999761581421,
+              0.15953999757766724,
+              -0.016109999269247055,
+              0.9996700286865234,
+              0.019780000671744347,
+              -0.1592400074005127,
+              -0.022089999169111252,
+              0.9869899749755859
+            ],
+            "CanCollide": false
+          }
+        },
+        {
+          "name": "Leaves",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                82,
+                151,
+                47
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              3.4790000915527344,
+              2.8010001182556152,
+              3.4790000915527344
+            ],
+            "CFrame": [
+              70.30400085449219,
+              3.50600004196167,
+              -15.430000305175781,
+              0.9976800084114075,
+              -0.06005999818444252,
+              -0.0321200005710125,
+              0.0575999990105629,
+              0.9956799745559692,
+              -0.07282999902963638,
+              0.03635000064969063,
+              0.0708099976181984,
+              0.9968299865722656
+            ],
+            "CanCollide": false
+          }
+        },
+        {
+          "name": "Leaves",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                108,
+                175,
+                57
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              4.03000020980835,
+              3.25,
+              4.03000020980835
+            ],
+            "CFrame": [
+              73.1449966430664,
+              8.350000381469727,
+              -15.47700023651123,
+              0.7428699731826782,
+              -0.0014400000218302011,
+              0.669439971446991,
+              -0.02143000066280365,
+              0.9994300007820129,
+              0.025930000469088554,
+              -0.6690999865531921,
+              -0.03361000120639801,
+              0.7424100041389465
+            ],
+            "CanCollide": false
+          }
+        },
+        {
+          "name": "Leaves",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                65,
+                125,
+                44
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              3.25,
+              3.0820000171661377,
+              3.25
+            ],
+            "CFrame": [
+              75.69999694824219,
+              4.986999988555908,
+              -14.600000381469727,
+              0.9903299808502197,
+              0.020810000598430634,
+              -0.13714000582695007,
+              -0.016039999201893806,
+              0.9992300271987915,
+              0.035760000348091125,
+              0.13777999579906464,
+              -0.03322000056505203,
+              0.9899100065231323
+            ],
+            "CanCollide": false
+          }
+        }
+      ],
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        }
+      }
+    },
+    {
+      "name": "Tree",
+      "className": "Model",
+      "children": [
+        {
+          "name": "Trunk",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                119,
+                77,
+                47
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              2.4000000953674316,
+              6.125,
+              2.4000000953674316
+            ],
+            "CFrame": [
+              97.0,
+              2.562000036239624,
+              -11.5,
+              0.02280000038444996,
+              0.0,
+              0.9997400045394897,
+              0.0,
+              1.0,
+              0.0,
+              -0.9997400045394897,
+              0.0,
+              0.02280000038444996
+            ]
+          }
+        },
+        {
+          "name": "Root",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                90,
+                54,
+                31
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              1.2000000476837158,
+              1.5750000476837158,
+              1.440000057220459
+            ],
+            "CFrame": [
+              97.91200256347656,
+              0.41999998688697815,
+              -12.454000473022461,
+              0.6062300205230713,
+              0.33118999004364014,
+              0.7230499982833862,
+              -0.4794299900531769,
+              0.8775799870491028,
+              0.0,
+              -0.6345300078392029,
+              -0.34665000438690186,
+              0.6908000111579895
+            ]
+          }
+        },
+        {
+          "name": "Root",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                88,
+                52,
+                29
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              1.2000000476837158,
+              1.5750000476837158,
+              1.440000057220459
+            ],
+            "CFrame": [
+              96.0459976196289,
+              0.41999998688697815,
+              -12.411999702453613,
+              -0.6345300078392029,
+              -0.34665000438690186,
+              0.6908000111579895,
+              -0.4794299900531769,
+              0.8775799870491028,
+              0.0,
+              -0.6062300205230713,
+              -0.33118999004364014,
+              -0.7230499982833862
+            ]
+          }
+        },
+        {
+          "name": "Root",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                97,
+                58,
+                35
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              1.2000000476837158,
+              1.5750000476837158,
+              1.440000057220459
+            ],
+            "CFrame": [
+              96.08799743652344,
+              0.41999998688697815,
+              -10.545999526977539,
+              -0.6062300205230713,
+              -0.33118999004364014,
+              -0.7230499982833862,
+              -0.4794299900531769,
+              0.8775799870491028,
+              0.0,
+              0.6345300078392029,
+              0.34665000438690186,
+              -0.6908000111579895
+            ]
+          }
+        },
+        {
+          "name": "Root",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                90,
+                53,
+                29
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              1.2000000476837158,
+              1.5750000476837158,
+              1.440000057220459
+            ],
+            "CFrame": [
+              97.9540023803711,
+              0.41999998688697815,
+              -10.588000297546387,
+              0.6345300078392029,
+              0.34665000438690186,
+              -0.6908000111579895,
+              -0.4794299900531769,
+              0.8775799870491028,
+              0.0,
+              0.6062300205230713,
+              0.33118999004364014,
+              0.7230499982833862
+            ]
+          }
+        },
+        {
+          "name": "Leaves",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                114,
+                183,
+                62
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              4.650000095367432,
+              3.75,
+              4.650000095367432
+            ],
+            "CFrame": [
+              96.95600128173828,
+              10.25,
+              -10.78600025177002,
+              -0.8278999924659729,
+              0.08384999632835388,
+              0.5545700192451477,
+              0.04149999842047691,
+              0.9952099919319153,
+              -0.08851999789476395,
+              -0.5593400001525879,
+              -0.050269998610019684,
+              -0.8274099826812744
+            ],
+            "CanCollide": false
+          }
+        },
+        {
+          "name": "Leaves",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                114,
+                181,
+                61
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              4.925000190734863,
+              4.270999908447266,
+              4.925000190734863
+            ],
+            "CFrame": [
+              96.17400360107422,
+              5.251999855041504,
+              -14.539999961853027,
+              -0.7090700268745422,
+              0.09093999862670898,
+              -0.6992499828338623,
+              0.06334000080823898,
+              0.9958500266075134,
+              0.06528999656438828,
+              0.7022899985313416,
+              0.0020099999383091927,
+              -0.7118899822235107
+            ],
+            "CanCollide": false
+          }
+        },
+        {
+          "name": "Leaves",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                84,
+                154,
+                49
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              5.070000171661377,
+              5.039999961853027,
+              5.070000171661377
+            ],
+            "CFrame": [
+              96.46800231933594,
+              4.441999912261963,
+              -8.395000457763672,
+              -0.6201760172843933,
+              0.07235997170209885,
+              -0.7811183929443359,
+              0.07367952167987823,
+              0.9967079758644104,
+              0.033832889050245285,
+              0.7809950113296509,
+              -0.036570075899362564,
+              -0.6234657764434814
+            ],
+            "CanCollide": false
+          }
+        },
+        {
+          "name": "Leaves",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                115,
+                181,
+                60
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              4.541999816894531,
+              4.0279998779296875,
+              4.541999816894531
+            ],
+            "CFrame": [
+              100.09400177001953,
+              7.586999893188477,
+              -10.909000396728516,
+              0.44328999519348145,
+              -0.06458999961614609,
+              0.8940500020980835,
+              -0.03446999937295914,
+              0.9954299926757812,
+              0.08901000022888184,
+              -0.8957099914550781,
+              -0.07027000188827515,
+              0.43904000520706177
+            ],
+            "CanCollide": false
+          }
+        },
+        {
+          "name": "Leaves",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                78,
+                148,
+                44
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              7.5,
+              6.0,
+              7.5
+            ],
+            "CFrame": [
+              97.0,
+              6.5,
+              -11.5,
+              0.28137001395225525,
+              0.0,
+              0.9595999717712402,
+              0.0,
+              1.0,
+              0.0,
+              -0.9595999717712402,
+              0.0,
+              0.28137001395225525
+            ],
+            "CanCollide": false
+          }
+        },
+        {
+          "name": "Leaves",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                87,
+                157,
+                51
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              4.4679999351501465,
+              4.090000152587891,
+              4.4679999351501465
+            ],
+            "CFrame": [
+              93.8949966430664,
+              6.480999946594238,
+              -10.968000411987305,
+              -0.988099992275238,
+              -0.03926999866962433,
+              -0.1487099975347519,
+              -0.022859999909996986,
+              0.993619978427887,
+              -0.11048000305891037,
+              0.15209999680519104,
+              -0.10576000064611435,
+              -0.9826899766921997
+            ],
+            "CanCollide": false
+          }
+        }
+      ],
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        }
+      }
+    },
+    {
+      "name": "Tree",
+      "className": "Model",
+      "children": [
+        {
+          "name": "Trunk",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                122,
+                80,
+                47
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              2.799999952316284,
+              10.675000190734863,
+              2.799999952316284
+            ],
+            "CFrame": [
+              112.0,
+              4.8379998207092285,
+              14.0,
+              0.4456999897956848,
+              0.0,
+              0.8951799869537354,
+              0.0,
+              1.0,
+              0.0,
+              -0.8951799869537354,
+              0.0,
+              0.4456999897956848
+            ]
+          }
+        },
+        {
+          "name": "Root",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                91,
+                53,
+                31
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              1.399999976158142,
+              3.1500000953674316,
+              1.6799999475479126
+            ],
+            "CFrame": [
+              110.54000091552734,
+              0.8399999737739563,
+              13.51099967956543,
+              -0.8320749402046204,
+              -0.4545667767524719,
+              0.3178369700908661,
+              -0.4794270694255829,
+              0.8775817155838013,
+              8.553210477657558e-7,
+              -0.27892830967903137,
+              -0.15237893164157867,
+              -0.9481453895568848
+            ]
+          }
+        },
+        {
+          "name": "Root",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                90,
+                55,
+                31
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              1.399999976158142,
+              3.1500000953674316,
+              1.6799999475479126
+            ],
+            "CFrame": [
+              111.51100158691406,
+              0.8399999737739563,
+              15.460000038146973,
+              -0.27892830967903137,
+              -0.15237894654273987,
+              -0.9481453895568848,
+              -0.4794270694255829,
+              0.877581775188446,
+              8.553210477657558e-7,
+              0.8320749402046204,
+              0.4545668363571167,
+              -0.3178369700908661
+            ]
+          }
+        },
+        {
+          "name": "Root",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                95,
+                56,
+                34
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              1.399999976158142,
+              3.1500000953674316,
+              1.6799999475479126
+            ],
+            "CFrame": [
+              112.48899841308594,
+              0.8399999737739563,
+              12.539999961853027,
+              0.27892830967903137,
+              0.15237894654273987,
+              0.9481453895568848,
+              -0.4794270694255829,
+              0.877581775188446,
+              8.553210477657558e-7,
+              -0.8320749402046204,
+              -0.4545668363571167,
+              0.3178369700908661
+            ]
+          }
+        },
+        {
+          "name": "Root",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                86,
+                50,
+                29
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              1.399999976158142,
+              3.1500000953674316,
+              1.6799999475479126
+            ],
+            "CFrame": [
+              113.45999908447266,
+              0.8399999737739563,
+              14.48900032043457,
+              0.8320749402046204,
+              0.4545667767524719,
+              -0.3178369700908661,
+              -0.4794270694255829,
+              0.8775817155838013,
+              8.553210477657558e-7,
+              0.27892830967903137,
+              0.15237893164157867,
+              0.9481453895568848
+            ]
+          }
+        },
+        {
+          "name": "Leaves",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                81,
+                151,
+                46
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              10.5,
+              8.399999618530273,
+              10.5
+            ],
+            "CFrame": [
+              112.0,
+              11.199999809265137,
+              14.0,
+              0.995639979839325,
+              0.0,
+              0.09328000247478485,
+              0.0,
+              1.0,
+              0.0,
+              -0.09328000247478485,
+              0.0,
+              0.995639979839325
+            ],
+            "CanCollide": false
+          }
+        },
+        {
+          "name": "Leaves",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                60,
+                120,
+                41
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              5.429999828338623,
+              4.894000053405762,
+              5.429999828338623
+            ],
+            "CFrame": [
+              114.06500244140625,
+              9.732999801635742,
+              10.102999687194824,
+              0.5871700048446655,
+              0.09804999828338623,
+              -0.8034999966621399,
+              -0.016829999163746834,
+              0.9939000010490417,
+              0.10898999869823456,
+              0.8092899918556213,
+              -0.05046999827027321,
+              0.5852400064468384
+            ],
+            "CanCollide": false
+          }
+        },
+        {
+          "name": "Leaves",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                78,
+                146,
+                44
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              6.3429999351501465,
+              5.866000175476074,
+              6.3429999351501465
+            ],
+            "CFrame": [
+              107.88999938964844,
+              10.795999526977539,
+              12.399999618530273,
+              0.03409000113606453,
+              0.006180000025779009,
+              -0.9994000196456909,
+              0.05536999925971031,
+              0.9984300136566162,
+              0.008070000447332859,
+              0.9978799819946289,
+              -0.05561000108718872,
+              0.03370000049471855
+            ],
+            "CanCollide": false
+          }
+        },
+        {
+          "name": "Leaves",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                86,
+                156,
+                52
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              5.815000057220459,
+              5.573999881744385,
+              5.815000057220459
+            ],
+            "CFrame": [
+              113.23300170898438,
+              8.72599983215332,
+              18.233999252319336,
+              -0.08800999820232391,
+              -0.10038000345230103,
+              0.9910500049591064,
+              -0.07338999956846237,
+              0.9928600192070007,
+              0.09404999762773514,
+              -0.9934099912643433,
+              -0.06445000320672989,
+              -0.09475000202655792
+            ],
+            "CanCollide": false
+          }
+        },
+        {
+          "name": "Leaves",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                89,
+                155,
+                50
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              7.09499979019165,
+              6.165999889373779,
+              7.09499979019165
+            ],
+            "CFrame": [
+              107.82599639892578,
+              10.293000221252441,
+              15.42300033569336,
+              -0.06342999637126923,
+              -0.04764999821782112,
+              -0.9968500137329102,
+              -0.042330000549554825,
+              0.9980900287628174,
+              -0.045010000467300415,
+              0.9970899820327759,
+              0.0393499992787838,
+              -0.06532999873161316
+            ],
+            "CanCollide": false
+          }
+        },
+        {
+          "name": "Leaves",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                108,
+                172,
+                54
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              5.8460001945495605,
+              5.360000133514404,
+              5.8460001945495605
+            ],
+            "CFrame": [
+              116.26499938964844,
+              10.248000144958496,
+              12.878000259399414,
+              0.690310001373291,
+              0.030659999698400497,
+              -0.7228699922561646,
+              -0.07738000154495239,
+              0.9965000152587891,
+              -0.031619999557733536,
+              0.7193700075149536,
+              0.0777600035071373,
+              0.6902599930763245
+            ],
+            "CanCollide": false
+          }
+        },
+        {
+          "name": "Leaves",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                108,
+                176,
+                54
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              6.510000228881836,
+              5.25,
+              6.510000228881836
+            ],
+            "CFrame": [
+              111.58699798583984,
+              16.450000762939453,
+              14.35099983215332,
+              0.9840400218963623,
+              0.04430000111460686,
+              -0.17235000431537628,
+              -0.028370000422000885,
+              0.9951900243759155,
+              0.09380000084638596,
+              0.1756799966096878,
+              -0.08742000162601471,
+              0.9805600047111511
+            ],
+            "CanCollide": false
+          }
+        }
+      ],
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        }
+      }
+    },
+    {
+      "name": "Tree",
+      "className": "Model",
+      "children": [
+        {
+          "name": "Trunk",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                124,
+                80,
+                50
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              2.4000000953674316,
+              5.974999904632568,
+              2.4000000953674316
+            ],
+            "CFrame": [
+              86.0,
+              2.486999988555908,
+              -15.5,
+              0.998420000076294,
+              0.0,
+              0.05624999850988388,
+              0.0,
+              1.0,
+              0.0,
+              -0.05624999850988388,
+              0.0,
+              0.998420000076294
+            ]
+          }
+        },
+        {
+          "name": "Root",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                93,
+                58,
+                35
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              1.2000000476837158,
+              1.350000023841858,
+              1.440000057220459
+            ],
+            "CFrame": [
+              86.98400115966797,
+              0.36000001430511475,
+              -16.378999710083008,
+              0.6544662714004517,
+              0.35753947496414185,
+              0.6662127375602722,
+              -0.4794272482395172,
+              0.877581775188446,
+              -1.602371867193142e-6,
+              -0.5846566557884216,
+              -0.31939953565597534,
+              0.7457616925239563
+            ]
+          }
+        },
+        {
+          "name": "Root",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                93,
+                59,
+                36
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              1.2000000476837158,
+              1.350000023841858,
+              1.440000057220459
+            ],
+            "CFrame": [
+              85.01599884033203,
+              0.36000001430511475,
+              -14.621000289916992,
+              -0.6544662714004517,
+              -0.35753947496414185,
+              -0.6662127375602722,
+              -0.4794272482395172,
+              0.877581775188446,
+              -1.602371867193142e-6,
+              0.5846566557884216,
+              0.31939953565597534,
+              -0.7457616925239563
+            ]
+          }
+        },
+        {
+          "name": "Root",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                87,
+                51,
+                29
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              1.2000000476837158,
+              1.350000023841858,
+              1.440000057220459
+            ],
+            "CFrame": [
+              85.12100219726562,
+              0.36000001430511475,
+              -16.483999252319336,
+              -0.5846566557884216,
+              -0.31939947605133057,
+              0.7457616925239563,
+              -0.4794272482395172,
+              0.8775816559791565,
+              -1.6285251831504866e-6,
+              -0.6544662714004517,
+              -0.35753944516181946,
+              -0.6662127375602722
+            ]
+          }
+        },
+        {
+          "name": "Root",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                91,
+                54,
+                32
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              1.2000000476837158,
+              1.350000023841858,
+              1.440000057220459
+            ],
+            "CFrame": [
+              86.87899780273438,
+              0.36000001430511475,
+              -14.515999794006348,
+              0.5846566557884216,
+              0.31939947605133057,
+              -0.7457616925239563,
+              -0.4794272482395172,
+              0.8775816559791565,
+              -1.6285251831504866e-6,
+              0.6544662714004517,
+              0.35753944516181946,
+              0.6662127375602722
+            ]
+          }
+        },
+        {
+          "name": "Leaves",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                116,
+                182,
+                60
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              5.269999980926514,
+              4.25,
+              5.269999980926514
+            ],
+            "CFrame": [
+              86.60700225830078,
+              10.649999618530273,
+              -15.51099967956543,
+              0.901639997959137,
+              0.04780000075697899,
+              0.42983001470565796,
+              -0.03443000093102455,
+              0.9986500144004822,
+              -0.038839999586343765,
+              -0.4311099946498871,
+              0.02022000029683113,
+              0.9020699858665466
+            ],
+            "CanCollide": false
+          }
+        },
+        {
+          "name": "Leaves",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                78,
+                147,
+                45
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              8.5,
+              6.800000190734863,
+              8.5
+            ],
+            "CFrame": [
+              86.0,
+              6.400000095367432,
+              -15.5,
+              0.1355700045824051,
+              0.0,
+              0.9907699823379517,
+              0.0,
+              1.0,
+              0.0,
+              -0.9907699823379517,
+              0.0,
+              0.1355700045824051
+            ],
+            "CanCollide": false
+          }
+        },
+        {
+          "name": "Leaves",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                87,
+                154,
+                52
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              4.995999813079834,
+              4.940000057220459,
+              4.995999813079834
+            ],
+            "CFrame": [
+              85.08799743652344,
+              5.506999969482422,
+              -12.048999786376953,
+              -0.4643700122833252,
+              -0.10210999846458435,
+              0.8797399997711182,
+              -0.008820000104606152,
+              0.9938200116157532,
+              0.11068999767303467,
+              -0.8855999708175659,
+              0.04363999888300896,
+              -0.46239998936653137
+            ],
+            "CanCollide": false
+          }
+        },
+        {
+          "name": "Leaves",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                83,
+                153,
+                50
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              5.605000019073486,
+              5.073999881744385,
+              5.605000019073486
+            ],
+            "CFrame": [
+              85.28099822998047,
+              6.678999900817871,
+              -18.996999740600586,
+              -0.4038099944591522,
+              0.022619999945163727,
+              0.9145600199699402,
+              0.03434000164270401,
+              0.9993600249290466,
+              -0.009549999609589577,
+              -0.9142000079154968,
+              0.027540000155568123,
+              -0.40432998538017273
+            ],
+            "CanCollide": false
+          }
+        },
+        {
+          "name": "Leaves",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                62,
+                121,
+                42
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              4.901000022888184,
+              4.043000221252441,
+              4.901000022888184
+            ],
+            "CFrame": [
+              82.44000244140625,
+              5.883999824523926,
+              -15.23799991607666,
+              -0.06865999847650528,
+              0.025709999725222588,
+              0.9973099827766418,
+              -0.012090000323951244,
+              0.9995700120925903,
+              -0.026599999517202377,
+              -0.9975699782371521,
+              -0.013890000060200691,
+              -0.06831999868154526
+            ],
+            "CanCollide": false
+          }
+        },
+        {
+          "name": "Leaves",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                69,
+                127,
+                48
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              4.676000118255615,
+              4.296999931335449,
+              4.676000118255615
+            ],
+            "CFrame": [
+              89.56800079345703,
+              4.980000019073486,
+              -15.380000114440918,
+              -0.8264700174331665,
+              -0.02652999944984913,
+              -0.5623599886894226,
+              0.03229000046849251,
+              0.9950100183486938,
+              -0.09440000355243683,
+              0.5620599985122681,
+              -0.09617000073194504,
+              -0.8214899897575378
+            ],
+            "CanCollide": false
+          }
+        }
+      ],
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        }
+      }
+    },
+    {
+      "name": "Tree",
+      "className": "Model",
+      "children": [
+        {
+          "name": "Trunk",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                124,
+                79,
+                48
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              2.5999999046325684,
+              9.324999809265137,
+              2.5999999046325684
+            ],
+            "CFrame": [
+              63.0,
+              4.1620001792907715,
+              -8.0,
+              0.2276500016450882,
+              0.0,
+              0.9737399816513062,
+              0.0,
+              1.0,
+              0.0,
+              -0.9737399816513062,
+              0.0,
+              0.2276500016450882
+            ]
+          }
+        },
+        {
+          "name": "Root",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                93,
+                56,
+                32
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              1.2999999523162842,
+              2.700000047683716,
+              1.559999942779541
+            ],
+            "CFrame": [
+              61.78499984741211,
+              0.7200000286102295,
+              -8.753999710083008,
+              -0.7455199956893921,
+              -0.40727999806404114,
+              0.5275700092315674,
+              -0.4794299900531769,
+              0.8775799870491028,
+              0.0,
+              -0.4629800021648407,
+              -0.2529299855232239,
+              -0.8495100140571594
+            ]
+          }
+        },
+        {
+          "name": "Root",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                94,
+                59,
+                36
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              1.2999999523162842,
+              2.700000047683716,
+              1.559999942779541
+            ],
+            "CFrame": [
+              63.75400161743164,
+              0.7200000286102295,
+              -9.21500015258789,
+              0.4629800021648407,
+              0.2529299855232239,
+              0.8495100140571594,
+              -0.4794299900531769,
+              0.8775799870491028,
+              0.0,
+              -0.7455199956893921,
+              -0.40727999806404114,
+              0.5275700092315674
+            ]
+          }
+        },
+        {
+          "name": "Root",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                91,
+                55,
+                32
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              1.2999999523162842,
+              2.700000047683716,
+              1.559999942779541
+            ],
+            "CFrame": [
+              64.21499633789062,
+              0.7200000286102295,
+              -7.245999813079834,
+              0.7455199956893921,
+              0.40727999806404114,
+              -0.5275700092315674,
+              -0.4794299900531769,
+              0.8775799870491028,
+              0.0,
+              0.4629800021648407,
+              0.2529299855232239,
+              0.8495100140571594
+            ]
+          }
+        },
+        {
+          "name": "Root",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                95,
+                60,
+                36
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              1.2999999523162842,
+              2.700000047683716,
+              1.559999942779541
+            ],
+            "CFrame": [
+              62.24599838256836,
+              0.7200000286102295,
+              -6.784999847412109,
+              -0.4629800021648407,
+              -0.2529299855232239,
+              -0.8495100140571594,
+              -0.4794299900531769,
+              0.8775799870491028,
+              0.0,
+              0.7455199956893921,
+              0.40727999806404114,
+              -0.5275700092315674
+            ]
+          }
+        },
+        {
+          "name": "Leaves",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                80,
+                148,
+                45
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              4.9720001220703125,
+              3.9820001125335693,
+              4.9720001220703125
+            ],
+            "CFrame": [
+              59.70600128173828,
+              8.284000396728516,
+              -10.25100040435791,
+              -0.9043899774551392,
+              0.02831999957561493,
+              0.42577001452445984,
+              -0.012470000423491001,
+              0.9956099987030029,
+              -0.09271000325679779,
+              -0.42653000354766846,
+              -0.0891600027680397,
+              -0.9000700116157532
+            ],
+            "CanCollide": false
+          }
+        },
+        {
+          "name": "Leaves",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                80,
+                147,
+                43
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              5.098999977111816,
+              4.138000011444092,
+              5.098999977111816
+            ],
+            "CFrame": [
+              63.49700164794922,
+              10.541000366210938,
+              -4.040999889373779,
+              -0.7116400003433228,
+              0.06370999664068222,
+              -0.6996399760246277,
+              0.032180000096559525,
+              0.9977899789810181,
+              0.05812999978661537,
+              0.7017999887466431,
+              0.018859999254345894,
+              -0.712119996547699
+            ],
+            "CanCollide": false
+          }
+        },
+        {
+          "name": "Leaves",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                115,
+                180,
+                58
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              5.814000129699707,
+              5.798999786376953,
+              5.814000129699707
+            ],
+            "CFrame": [
+              65.08200073242188,
+              8.135000228881836,
+              -11.404000282287598,
+              -0.6454389691352844,
+              0.11649725586175919,
+              -0.7548755407333374,
+              0.08170987665653229,
+              0.9931600093841553,
+              0.0834067240357399,
+              0.7594287991523743,
+              -0.007846827618777752,
+              -0.6505431532859802
+            ],
+            "CanCollide": false
+          }
+        },
+        {
+          "name": "Leaves",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                85,
+                154,
+                50
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              9.5,
+              7.599999904632568,
+              9.5
+            ],
+            "CFrame": [
+              63.0,
+              9.800000190734863,
+              -8.0,
+              0.9236646294593811,
+              0.0,
+              0.3832018971443176,
+              0.0,
+              1.0,
+              0.0,
+              -0.3832018971443176,
+              0.0,
+              0.9236646294593811
+            ],
+            "CanCollide": false
+          }
+        },
+        {
+          "name": "Leaves",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                111,
+                176,
+                57
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              5.554999828338623,
+              5.4019999504089355,
+              5.554999828338623
+            ],
+            "CFrame": [
+              59.72100067138672,
+              8.927000045776367,
+              -5.7270002365112305,
+              0.12176000326871872,
+              -0.11472000181674957,
+              -0.9859099984169006,
+              0.09606000036001205,
+              0.9900000095367432,
+              -0.10333000123500824,
+              0.9879000186920166,
+              -0.08212000131607056,
+              0.13155999779701233
+            ],
+            "CanCollide": false
+          }
+        },
+        {
+          "name": "Leaves",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                111,
+                176,
+                55
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              5.633999824523926,
+              4.955999851226807,
+              5.633999824523926
+            ],
+            "CFrame": [
+              66.88400268554688,
+              8.718000411987305,
+              -8.913999557495117,
+              0.32207998633384705,
+              0.06315000355243683,
+              -0.944599986076355,
+              0.08235999941825867,
+              0.9921200275421143,
+              0.0944100022315979,
+              0.943120002746582,
+              -0.1082099974155426,
+              0.3143399953842163
+            ],
+            "CanCollide": false
+          }
+        },
+        {
+          "name": "Leaves",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                109,
+                173,
+                54
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              5.889999866485596,
+              4.75,
+              5.889999866485596
+            ],
+            "CFrame": [
+              63.50699996948242,
+              14.550000190734863,
+              -8.901000022888184,
+              -0.8274315595626831,
+              -0.0068224514834582806,
+              -0.5615251660346985,
+              0.005350010469555855,
+              0.9997851252555847,
+              -0.02003072388470173,
+              0.5615410804748535,
+              -0.019578218460083008,
+              -0.8272172808647156
+            ],
+            "CanCollide": false
+          }
+        }
+      ],
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        }
+      }
+    }
+  ],
+  "properties": {
+    "SerializedOverrides": {
+      "BinaryString": ""
+    }
+  }
+}

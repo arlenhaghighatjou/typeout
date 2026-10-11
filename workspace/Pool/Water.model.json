@@ -1,1 +1,930 @@
-{"ClassName":"Folder","Children":[{"Name":"Water","ClassName":"Part","Properties":{"Anchored":true,"Size":[34.0,1.6,10.0],"CFrame":{"CFrame":{"position":[-31.0,-6.8,-3.5],"orientation":[[1.0,0.0,0.0],[0.0,1.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.29,0.62,0.93],"Material":"SmoothPlastic","Transparency":0.3,"CanCollide":false,"CastShadow":false}},{"Name":"Water","ClassName":"Part","Properties":{"Anchored":true,"Size":[20.0,1.6,6.0],"CFrame":{"CFrame":{"position":[-36.0,-6.8,-11.5],"orientation":[[1.0,0.0,0.0],[0.0,1.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.29,0.62,0.93],"Material":"SmoothPlastic","Transparency":0.3,"CanCollide":false,"CastShadow":false}},{"Name":"Water","ClassName":"Part","Properties":{"Anchored":true,"Size":[54.0,1.6,4.0],"CFrame":{"CFrame":{"position":[-19.0,-6.8,3.5],"orientation":[[1.0,0.0,0.0],[0.0,1.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.29,0.62,0.93],"Material":"SmoothPlastic","Transparency":0.3,"CanCollide":false,"CastShadow":false}},{"Name":"Water","ClassName":"Part","Properties":{"Anchored":true,"Size":[14.0,1.6,2.0],"CFrame":{"CFrame":{"position":[-37.0,-6.8,-15.5],"orientation":[[1.0,0.0,0.0],[0.0,1.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.29,0.62,0.93],"Material":"SmoothPlastic","Transparency":0.3,"CanCollide":false,"CastShadow":false}},{"Name":"Water","ClassName":"Part","Properties":{"Anchored":true,"Size":[52.0,1.6,4.0],"CFrame":{"CFrame":{"position":[-18.0,-6.8,7.5],"orientation":[[1.0,0.0,0.0],[0.0,1.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.29,0.62,0.93],"Material":"SmoothPlastic","Transparency":0.3,"CanCollide":false,"CastShadow":false}},{"Name":"Water","ClassName":"Part","Properties":{"Anchored":true,"Size":[50.0,1.6,4.0],"CFrame":{"CFrame":{"position":[-17.0,-6.8,11.5],"orientation":[[1.0,0.0,0.0],[0.0,1.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.29,0.62,0.93],"Material":"SmoothPlastic","Transparency":0.3,"CanCollide":false,"CastShadow":false}},{"Name":"Water","ClassName":"Part","Properties":{"Anchored":true,"Size":[4.0,1.6,2.0],"CFrame":{"CFrame":{"position":[-38.0,-6.8,-17.5],"orientation":[[1.0,0.0,0.0],[0.0,1.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.29,0.62,0.93],"Material":"SmoothPlastic","Transparency":0.3,"CanCollide":false,"CastShadow":false}},{"Name":"Water","ClassName":"Part","Properties":{"Anchored":true,"Size":[48.0,1.6,4.0],"CFrame":{"CFrame":{"position":[-16.0,-6.8,15.5],"orientation":[[1.0,0.0,0.0],[0.0,1.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.29,0.62,0.93],"Material":"SmoothPlastic","Transparency":0.3,"CanCollide":false,"CastShadow":false}},{"Name":"Water","ClassName":"Part","Properties":{"Anchored":true,"Size":[46.0,1.6,4.0],"CFrame":{"CFrame":{"position":[-15.0,-6.8,19.5],"orientation":[[1.0,0.0,0.0],[0.0,1.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.29,0.62,0.93],"Material":"SmoothPlastic","Transparency":0.3,"CanCollide":false,"CastShadow":false}},{"Name":"Water","ClassName":"Part","Properties":{"Anchored":true,"Size":[44.0,1.6,4.0],"CFrame":{"CFrame":{"position":[-14.0,-6.8,23.5],"orientation":[[1.0,0.0,0.0],[0.0,1.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.29,0.62,0.93],"Material":"SmoothPlastic","Transparency":0.3,"CanCollide":false,"CastShadow":false}},{"Name":"Water","ClassName":"Part","Properties":{"Anchored":true,"Size":[40.0,1.6,2.0],"CFrame":{"CFrame":{"position":[-14.0,-6.8,26.5],"orientation":[[1.0,0.0,0.0],[0.0,1.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.29,0.62,0.93],"Material":"SmoothPlastic","Transparency":0.3,"CanCollide":false,"CastShadow":false}},{"Name":"Water","ClassName":"Part","Properties":{"Anchored":true,"Size":[38.0,1.6,4.0],"CFrame":{"CFrame":{"position":[-13.0,-6.8,29.5],"orientation":[[1.0,0.0,0.0],[0.0,1.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.29,0.62,0.93],"Material":"SmoothPlastic","Transparency":0.3,"CanCollide":false,"CastShadow":false}},{"Name":"Water","ClassName":"Part","Properties":{"Anchored":true,"Size":[34.0,1.6,2.0],"CFrame":{"CFrame":{"position":[-13.0,-6.8,32.5],"orientation":[[1.0,0.0,0.0],[0.0,1.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.29,0.62,0.93],"Material":"SmoothPlastic","Transparency":0.3,"CanCollide":false,"CastShadow":false}},{"Name":"Water","ClassName":"Part","Properties":{"Anchored":true,"Size":[28.0,1.6,4.0],"CFrame":{"CFrame":{"position":[-14.0,-6.8,35.5],"orientation":[[1.0,0.0,0.0],[0.0,1.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.29,0.62,0.93],"Material":"SmoothPlastic","Transparency":0.3,"CanCollide":false,"CastShadow":false}},{"Name":"Water","ClassName":"Part","Properties":{"Anchored":true,"Size":[6.0,1.6,4.0],"CFrame":{"CFrame":{"position":[-23.0,-6.8,-10.5],"orientation":[[1.0,0.0,0.0],[0.0,1.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.29,0.62,0.93],"Material":"SmoothPlastic","Transparency":0.3,"CanCollide":false,"CastShadow":false}},{"Name":"Water","ClassName":"Part","Properties":{"Anchored":true,"Size":[20.0,1.6,2.0],"CFrame":{"CFrame":{"position":[-14.0,-6.8,38.5],"orientation":[[1.0,0.0,0.0],[0.0,1.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.29,0.62,0.93],"Material":"SmoothPlastic","Transparency":0.3,"CanCollide":false,"CastShadow":false}},{"Name":"Water","ClassName":"Part","Properties":{"Anchored":true,"Size":[14.0,1.6,2.0],"CFrame":{"CFrame":{"position":[-15.0,-6.8,40.5],"orientation":[[1.0,0.0,0.0],[0.0,1.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.29,0.62,0.93],"Material":"SmoothPlastic","Transparency":0.3,"CanCollide":false,"CastShadow":false}},{"Name":"Water","ClassName":"Part","Properties":{"Anchored":true,"Size":[4.0,1.6,2.0],"CFrame":{"CFrame":{"position":[-18.0,-6.8,-9.5],"orientation":[[1.0,0.0,0.0],[0.0,1.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.29,0.62,0.93],"Material":"SmoothPlastic","Transparency":0.3,"CanCollide":false,"CastShadow":false}},{"Name":"Water","ClassName":"Part","Properties":{"Anchored":true,"Size":[6.0,1.6,8.0],"CFrame":{"CFrame":{"position":[-11.0,-6.8,-2.5],"orientation":[[1.0,0.0,0.0],[0.0,1.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.29,0.62,0.93],"Material":"SmoothPlastic","Transparency":0.3,"CanCollide":false,"CastShadow":false}},{"Name":"Water","ClassName":"Part","Properties":{"Anchored":true,"Size":[4.0,1.6,6.0],"CFrame":{"CFrame":{"position":[-6.0,-6.8,-1.5],"orientation":[[1.0,0.0,0.0],[0.0,1.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.29,0.62,0.93],"Material":"SmoothPlastic","Transparency":0.3,"CanCollide":false,"CastShadow":false}},{"Name":"Water","ClassName":"Part","Properties":{"Anchored":true,"Size":[6.0,1.6,4.0],"CFrame":{"CFrame":{"position":[-1.0,-6.8,-0.5],"orientation":[[1.0,0.0,0.0],[0.0,1.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.29,0.62,0.93],"Material":"SmoothPlastic","Transparency":0.3,"CanCollide":false,"CastShadow":false}},{"Name":"Water","ClassName":"Part","Properties":{"Anchored":true,"Size":[2.0,1.6,2.0],"CFrame":{"CFrame":{"position":[1.0,-6.8,34.5],"orientation":[[1.0,0.0,0.0],[0.0,1.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.29,0.62,0.93],"Material":"SmoothPlastic","Transparency":0.3,"CanCollide":false,"CastShadow":false}},{"Name":"Water","ClassName":"Part","Properties":{"Anchored":true,"Size":[4.0,1.6,2.0],"CFrame":{"CFrame":{"position":[4.0,-6.8,0.5],"orientation":[[1.0,0.0,0.0],[0.0,1.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.29,0.62,0.93],"Material":"SmoothPlastic","Transparency":0.3,"CanCollide":false,"CastShadow":false}}]}
+{
+  "className": "Folder",
+  "children": [
+    {
+      "name": "Water",
+      "className": "Part",
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "Anchored": true,
+        "Color": {
+          "Color3uint8": [
+            73,
+            158,
+            237
+          ]
+        },
+        "Material": "SmoothPlastic",
+        "Transparency": 0.30000001192092896,
+        "Size": [
+          34.0,
+          1.600000023841858,
+          10.0
+        ],
+        "CFrame": [
+          -31.0,
+          -6.800000190734863,
+          -3.5,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "CanCollide": false,
+        "CastShadow": false
+      }
+    },
+    {
+      "name": "Water",
+      "className": "Part",
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "Anchored": true,
+        "Color": {
+          "Color3uint8": [
+            73,
+            158,
+            237
+          ]
+        },
+        "Material": "SmoothPlastic",
+        "Transparency": 0.30000001192092896,
+        "Size": [
+          20.0,
+          1.600000023841858,
+          6.0
+        ],
+        "CFrame": [
+          -36.0,
+          -6.800000190734863,
+          -11.5,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "CanCollide": false,
+        "CastShadow": false
+      }
+    },
+    {
+      "name": "Water",
+      "className": "Part",
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "Anchored": true,
+        "Color": {
+          "Color3uint8": [
+            73,
+            158,
+            237
+          ]
+        },
+        "Material": "SmoothPlastic",
+        "Transparency": 0.30000001192092896,
+        "Size": [
+          54.0,
+          1.600000023841858,
+          4.0
+        ],
+        "CFrame": [
+          -19.0,
+          -6.800000190734863,
+          3.5,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "CanCollide": false,
+        "CastShadow": false
+      }
+    },
+    {
+      "name": "Water",
+      "className": "Part",
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "Anchored": true,
+        "Color": {
+          "Color3uint8": [
+            73,
+            158,
+            237
+          ]
+        },
+        "Material": "SmoothPlastic",
+        "Transparency": 0.30000001192092896,
+        "Size": [
+          14.0,
+          1.600000023841858,
+          2.0
+        ],
+        "CFrame": [
+          -37.0,
+          -6.800000190734863,
+          -15.5,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "CanCollide": false,
+        "CastShadow": false
+      }
+    },
+    {
+      "name": "Water",
+      "className": "Part",
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "Anchored": true,
+        "Color": {
+          "Color3uint8": [
+            73,
+            158,
+            237
+          ]
+        },
+        "Material": "SmoothPlastic",
+        "Transparency": 0.30000001192092896,
+        "Size": [
+          52.0,
+          1.600000023841858,
+          4.0
+        ],
+        "CFrame": [
+          -18.0,
+          -6.800000190734863,
+          7.5,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "CanCollide": false,
+        "CastShadow": false
+      }
+    },
+    {
+      "name": "Water",
+      "className": "Part",
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "Anchored": true,
+        "Color": {
+          "Color3uint8": [
+            73,
+            158,
+            237
+          ]
+        },
+        "Material": "SmoothPlastic",
+        "Transparency": 0.30000001192092896,
+        "Size": [
+          50.0,
+          1.600000023841858,
+          4.0
+        ],
+        "CFrame": [
+          -17.0,
+          -6.800000190734863,
+          11.5,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "CanCollide": false,
+        "CastShadow": false
+      }
+    },
+    {
+      "name": "Water",
+      "className": "Part",
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "Anchored": true,
+        "Color": {
+          "Color3uint8": [
+            73,
+            158,
+            237
+          ]
+        },
+        "Material": "SmoothPlastic",
+        "Transparency": 0.30000001192092896,
+        "Size": [
+          4.0,
+          1.600000023841858,
+          2.0
+        ],
+        "CFrame": [
+          -38.0,
+          -6.800000190734863,
+          -17.5,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "CanCollide": false,
+        "CastShadow": false
+      }
+    },
+    {
+      "name": "Water",
+      "className": "Part",
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "Anchored": true,
+        "Color": {
+          "Color3uint8": [
+            73,
+            158,
+            237
+          ]
+        },
+        "Material": "SmoothPlastic",
+        "Transparency": 0.30000001192092896,
+        "Size": [
+          48.0,
+          1.600000023841858,
+          4.0
+        ],
+        "CFrame": [
+          -16.0,
+          -6.800000190734863,
+          15.5,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "CanCollide": false,
+        "CastShadow": false
+      }
+    },
+    {
+      "name": "Water",
+      "className": "Part",
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "Anchored": true,
+        "Color": {
+          "Color3uint8": [
+            73,
+            158,
+            237
+          ]
+        },
+        "Material": "SmoothPlastic",
+        "Transparency": 0.30000001192092896,
+        "Size": [
+          46.0,
+          1.600000023841858,
+          4.0
+        ],
+        "CFrame": [
+          -15.0,
+          -6.800000190734863,
+          19.5,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "CanCollide": false,
+        "CastShadow": false
+      }
+    },
+    {
+      "name": "Water",
+      "className": "Part",
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "Anchored": true,
+        "Color": {
+          "Color3uint8": [
+            73,
+            158,
+            237
+          ]
+        },
+        "Material": "SmoothPlastic",
+        "Transparency": 0.30000001192092896,
+        "Size": [
+          44.0,
+          1.600000023841858,
+          4.0
+        ],
+        "CFrame": [
+          -14.0,
+          -6.800000190734863,
+          23.5,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "CanCollide": false,
+        "CastShadow": false
+      }
+    },
+    {
+      "name": "Water",
+      "className": "Part",
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "Anchored": true,
+        "Color": {
+          "Color3uint8": [
+            73,
+            158,
+            237
+          ]
+        },
+        "Material": "SmoothPlastic",
+        "Transparency": 0.30000001192092896,
+        "Size": [
+          40.0,
+          1.600000023841858,
+          2.0
+        ],
+        "CFrame": [
+          -14.0,
+          -6.800000190734863,
+          26.5,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "CanCollide": false,
+        "CastShadow": false
+      }
+    },
+    {
+      "name": "Water",
+      "className": "Part",
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "Anchored": true,
+        "Color": {
+          "Color3uint8": [
+            73,
+            158,
+            237
+          ]
+        },
+        "Material": "SmoothPlastic",
+        "Transparency": 0.30000001192092896,
+        "Size": [
+          38.0,
+          1.600000023841858,
+          4.0
+        ],
+        "CFrame": [
+          -13.0,
+          -6.800000190734863,
+          29.5,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "CanCollide": false,
+        "CastShadow": false
+      }
+    },
+    {
+      "name": "Water",
+      "className": "Part",
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "Anchored": true,
+        "Color": {
+          "Color3uint8": [
+            73,
+            158,
+            237
+          ]
+        },
+        "Material": "SmoothPlastic",
+        "Transparency": 0.30000001192092896,
+        "Size": [
+          34.0,
+          1.600000023841858,
+          2.0
+        ],
+        "CFrame": [
+          -13.0,
+          -6.800000190734863,
+          32.5,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "CanCollide": false,
+        "CastShadow": false
+      }
+    },
+    {
+      "name": "Water",
+      "className": "Part",
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "Anchored": true,
+        "Color": {
+          "Color3uint8": [
+            73,
+            158,
+            237
+          ]
+        },
+        "Material": "SmoothPlastic",
+        "Transparency": 0.30000001192092896,
+        "Size": [
+          28.0,
+          1.600000023841858,
+          4.0
+        ],
+        "CFrame": [
+          -14.0,
+          -6.800000190734863,
+          35.5,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "CanCollide": false,
+        "CastShadow": false
+      }
+    },
+    {
+      "name": "Water",
+      "className": "Part",
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "Anchored": true,
+        "Color": {
+          "Color3uint8": [
+            73,
+            158,
+            237
+          ]
+        },
+        "Material": "SmoothPlastic",
+        "Transparency": 0.30000001192092896,
+        "Size": [
+          6.0,
+          1.600000023841858,
+          4.0
+        ],
+        "CFrame": [
+          -23.0,
+          -6.800000190734863,
+          -10.5,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "CanCollide": false,
+        "CastShadow": false
+      }
+    },
+    {
+      "name": "Water",
+      "className": "Part",
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "Anchored": true,
+        "Color": {
+          "Color3uint8": [
+            73,
+            158,
+            237
+          ]
+        },
+        "Material": "SmoothPlastic",
+        "Transparency": 0.30000001192092896,
+        "Size": [
+          20.0,
+          1.600000023841858,
+          2.0
+        ],
+        "CFrame": [
+          -14.0,
+          -6.800000190734863,
+          38.5,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "CanCollide": false,
+        "CastShadow": false
+      }
+    },
+    {
+      "name": "Water",
+      "className": "Part",
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "Anchored": true,
+        "Color": {
+          "Color3uint8": [
+            73,
+            158,
+            237
+          ]
+        },
+        "Material": "SmoothPlastic",
+        "Transparency": 0.30000001192092896,
+        "Size": [
+          14.0,
+          1.600000023841858,
+          2.0
+        ],
+        "CFrame": [
+          -15.0,
+          -6.800000190734863,
+          40.5,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "CanCollide": false,
+        "CastShadow": false
+      }
+    },
+    {
+      "name": "Water",
+      "className": "Part",
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "Anchored": true,
+        "Color": {
+          "Color3uint8": [
+            73,
+            158,
+            237
+          ]
+        },
+        "Material": "SmoothPlastic",
+        "Transparency": 0.30000001192092896,
+        "Size": [
+          4.0,
+          1.600000023841858,
+          2.0
+        ],
+        "CFrame": [
+          -18.0,
+          -6.800000190734863,
+          -9.5,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "CanCollide": false,
+        "CastShadow": false
+      }
+    },
+    {
+      "name": "Water",
+      "className": "Part",
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "Anchored": true,
+        "Color": {
+          "Color3uint8": [
+            73,
+            158,
+            237
+          ]
+        },
+        "Material": "SmoothPlastic",
+        "Transparency": 0.30000001192092896,
+        "Size": [
+          6.0,
+          1.600000023841858,
+          8.0
+        ],
+        "CFrame": [
+          -11.0,
+          -6.800000190734863,
+          -2.5,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "CanCollide": false,
+        "CastShadow": false
+      }
+    },
+    {
+      "name": "Water",
+      "className": "Part",
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "Anchored": true,
+        "Color": {
+          "Color3uint8": [
+            73,
+            158,
+            237
+          ]
+        },
+        "Material": "SmoothPlastic",
+        "Transparency": 0.30000001192092896,
+        "Size": [
+          4.0,
+          1.600000023841858,
+          6.0
+        ],
+        "CFrame": [
+          -6.0,
+          -6.800000190734863,
+          -1.5,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "CanCollide": false,
+        "CastShadow": false
+      }
+    },
+    {
+      "name": "Water",
+      "className": "Part",
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "Anchored": true,
+        "Color": {
+          "Color3uint8": [
+            73,
+            158,
+            237
+          ]
+        },
+        "Material": "SmoothPlastic",
+        "Transparency": 0.30000001192092896,
+        "Size": [
+          6.0,
+          1.600000023841858,
+          4.0
+        ],
+        "CFrame": [
+          -1.0,
+          -6.800000190734863,
+          -0.5,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "CanCollide": false,
+        "CastShadow": false
+      }
+    },
+    {
+      "name": "Water",
+      "className": "Part",
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "Anchored": true,
+        "Color": {
+          "Color3uint8": [
+            73,
+            158,
+            237
+          ]
+        },
+        "Material": "SmoothPlastic",
+        "Transparency": 0.30000001192092896,
+        "Size": [
+          2.0,
+          1.600000023841858,
+          2.0
+        ],
+        "CFrame": [
+          1.0,
+          -6.800000190734863,
+          34.5,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "CanCollide": false,
+        "CastShadow": false
+      }
+    },
+    {
+      "name": "Water",
+      "className": "Part",
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "Anchored": true,
+        "Color": {
+          "Color3uint8": [
+            73,
+            158,
+            237
+          ]
+        },
+        "Material": "SmoothPlastic",
+        "Transparency": 0.30000001192092896,
+        "Size": [
+          4.0,
+          1.600000023841858,
+          2.0
+        ],
+        "CFrame": [
+          4.0,
+          -6.800000190734863,
+          0.5,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "CanCollide": false,
+        "CastShadow": false
+      }
+    }
+  ],
+  "properties": {
+    "SerializedOverrides": {
+      "BinaryString": ""
+    }
+  }
+}

@@ -1,1 +1,380 @@
-{"ClassName":"Folder","Children":[{"Name":"Stringer","ClassName":"Part","Properties":{"Anchored":true,"Size":[37.878,0.7,0.8],"CFrame":{"CFrame":{"position":[-17.952,-0.25,11.722],"orientation":[[0.75926,0.0,0.65079],[0.0,1.0,0.0],[-0.65079,0.0,0.75926]]}},"Color":[0.36,0.22,0.13],"Material":"SmoothPlastic"}},{"Name":"Stringer","ClassName":"Part","Properties":{"Anchored":true,"Size":[37.878,0.7,0.8],"CFrame":{"CFrame":{"position":[-14.048,-0.25,16.278],"orientation":[[0.75926,0.0,0.65079],[0.0,1.0,0.0],[-0.65079,0.0,0.75926]]}},"Color":[0.36,0.22,0.13],"Material":"SmoothPlastic"}},{"Name":"Pile","ClassName":"Part","Properties":{"Anchored":true,"Size":[0.9,9.1,0.9],"CFrame":{"CFrame":{"position":[-25.512,-4.05,18.202],"orientation":[[0.75926,0.0,0.65079],[0.0,1.0,0.0],[-0.65079,0.0,0.75926]]}},"Color":[0.36,0.22,0.13],"Material":"SmoothPlastic"}},{"Name":"Pile","ClassName":"Part","Properties":{"Anchored":true,"Size":[0.9,9.1,0.9],"CFrame":{"CFrame":{"position":[-21.608,-4.05,22.758],"orientation":[[0.75926,0.0,0.65079],[0.0,1.0,0.0],[-0.65079,0.0,0.75926]]}},"Color":[0.36,0.22,0.13],"Material":"SmoothPlastic"}},{"Name":"Crossbeam","ClassName":"Part","Properties":{"Anchored":true,"Size":[0.6,0.6,7.0],"CFrame":{"CFrame":{"position":[-23.56,-3.0,20.48],"orientation":[[0.75926,0.0,0.65079],[0.0,1.0,0.0],[-0.65079,0.0,0.75926]]}},"Color":[0.36,0.22,0.13],"Material":"SmoothPlastic"}},{"Name":"Brace","ClassName":"Part","Properties":{"Anchored":true,"Size":[0.45,0.45,7.84],"CFrame":{"CFrame":{"position":[-23.56,-4.6,20.48],"orientation":[[0.75926,0.26537,0.59423],[0.0,0.91309,-0.40776],[-0.65079,0.30959,0.69327]]}},"Color":[0.324,0.198,0.117],"Material":"SmoothPlastic"}},{"Name":"Pile","ClassName":"Part","Properties":{"Anchored":true,"Size":[0.9,9.1,0.9],"CFrame":{"CFrame":{"position":[-10.392,-4.05,5.242],"orientation":[[0.75926,0.0,0.65079],[0.0,1.0,0.0],[-0.65079,0.0,0.75926]]}},"Color":[0.36,0.22,0.13],"Material":"SmoothPlastic"}},{"Name":"Pile","ClassName":"Part","Properties":{"Anchored":true,"Size":[0.9,9.1,0.9],"CFrame":{"CFrame":{"position":[-6.488,-4.05,9.798],"orientation":[[0.75926,0.0,0.65079],[0.0,1.0,0.0],[-0.65079,0.0,0.75926]]}},"Color":[0.36,0.22,0.13],"Material":"SmoothPlastic"}},{"Name":"Crossbeam","ClassName":"Part","Properties":{"Anchored":true,"Size":[0.6,0.6,7.0],"CFrame":{"CFrame":{"position":[-8.44,-3.0,7.52],"orientation":[[0.75926,0.0,0.65079],[0.0,1.0,0.0],[-0.65079,0.0,0.75926]]}},"Color":[0.36,0.22,0.13],"Material":"SmoothPlastic"}},{"Name":"Brace","ClassName":"Part","Properties":{"Anchored":true,"Size":[0.45,0.45,7.84],"CFrame":{"CFrame":{"position":[-8.44,-4.6,7.52],"orientation":[[0.75926,0.26537,0.59423],[0.0,0.91309,-0.40776],[-0.65079,0.30959,0.69327]]}},"Color":[0.324,0.198,0.117],"Material":"SmoothPlastic"}}]}
+{
+  "className": "Folder",
+  "children": [
+    {
+      "name": "Stringer",
+      "className": "Part",
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "Anchored": true,
+        "Color": {
+          "Color3uint8": [
+            91,
+            56,
+            33
+          ]
+        },
+        "Material": "SmoothPlastic",
+        "Size": [
+          37.87799835205078,
+          0.699999988079071,
+          0.800000011920929
+        ],
+        "CFrame": [
+          -17.95199966430664,
+          -0.25,
+          11.722000122070312,
+          0.7592599987983704,
+          0.0,
+          0.6507899761199951,
+          0.0,
+          1.0,
+          0.0,
+          -0.6507899761199951,
+          0.0,
+          0.7592599987983704
+        ]
+      }
+    },
+    {
+      "name": "Stringer",
+      "className": "Part",
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "Anchored": true,
+        "Color": {
+          "Color3uint8": [
+            91,
+            56,
+            33
+          ]
+        },
+        "Material": "SmoothPlastic",
+        "Size": [
+          37.87799835205078,
+          0.699999988079071,
+          0.800000011920929
+        ],
+        "CFrame": [
+          -14.04800033569336,
+          -0.25,
+          16.277999877929688,
+          0.7592599987983704,
+          0.0,
+          0.6507899761199951,
+          0.0,
+          1.0,
+          0.0,
+          -0.6507899761199951,
+          0.0,
+          0.7592599987983704
+        ]
+      }
+    },
+    {
+      "name": "Pile",
+      "className": "Part",
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "Anchored": true,
+        "Color": {
+          "Color3uint8": [
+            91,
+            56,
+            33
+          ]
+        },
+        "Material": "SmoothPlastic",
+        "Size": [
+          0.8999999761581421,
+          9.100000381469727,
+          0.8999999761581421
+        ],
+        "CFrame": [
+          -25.511999130249023,
+          -4.050000190734863,
+          18.20199966430664,
+          0.7592599987983704,
+          0.0,
+          0.6507899761199951,
+          0.0,
+          1.0,
+          0.0,
+          -0.6507899761199951,
+          0.0,
+          0.7592599987983704
+        ]
+      }
+    },
+    {
+      "name": "Pile",
+      "className": "Part",
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "Anchored": true,
+        "Color": {
+          "Color3uint8": [
+            91,
+            56,
+            33
+          ]
+        },
+        "Material": "SmoothPlastic",
+        "Size": [
+          0.8999999761581421,
+          9.100000381469727,
+          0.8999999761581421
+        ],
+        "CFrame": [
+          -21.607999801635742,
+          -4.050000190734863,
+          22.757999420166016,
+          0.7592599987983704,
+          0.0,
+          0.6507899761199951,
+          0.0,
+          1.0,
+          0.0,
+          -0.6507899761199951,
+          0.0,
+          0.7592599987983704
+        ]
+      }
+    },
+    {
+      "name": "Crossbeam",
+      "className": "Part",
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "Anchored": true,
+        "Color": {
+          "Color3uint8": [
+            91,
+            56,
+            33
+          ]
+        },
+        "Material": "SmoothPlastic",
+        "Size": [
+          0.6000000238418579,
+          0.6000000238418579,
+          7.0
+        ],
+        "CFrame": [
+          -23.559999465942383,
+          -3.0,
+          20.479999542236328,
+          0.7592599987983704,
+          0.0,
+          0.6507899761199951,
+          0.0,
+          1.0,
+          0.0,
+          -0.6507899761199951,
+          0.0,
+          0.7592599987983704
+        ]
+      }
+    },
+    {
+      "name": "Brace",
+      "className": "Part",
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "Anchored": true,
+        "Color": {
+          "Color3uint8": [
+            82,
+            50,
+            29
+          ]
+        },
+        "Material": "SmoothPlastic",
+        "Size": [
+          0.44999998807907104,
+          0.44999998807907104,
+          7.840000152587891
+        ],
+        "CFrame": [
+          -23.559999465942383,
+          -4.599999904632568,
+          20.479999542236328,
+          0.7592599987983704,
+          0.2653700113296509,
+          0.5942299962043762,
+          0.0,
+          0.9130899906158447,
+          -0.40775999426841736,
+          -0.6507899761199951,
+          0.30959001183509827,
+          0.6932700276374817
+        ]
+      }
+    },
+    {
+      "name": "Pile",
+      "className": "Part",
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "Anchored": true,
+        "Color": {
+          "Color3uint8": [
+            91,
+            56,
+            33
+          ]
+        },
+        "Material": "SmoothPlastic",
+        "Size": [
+          0.8999999761581421,
+          9.100000381469727,
+          0.8999999761581421
+        ],
+        "CFrame": [
+          -10.392000198364258,
+          -4.050000190734863,
+          5.242000102996826,
+          0.7592599987983704,
+          0.0,
+          0.6507899761199951,
+          0.0,
+          1.0,
+          0.0,
+          -0.6507899761199951,
+          0.0,
+          0.7592599987983704
+        ]
+      }
+    },
+    {
+      "name": "Pile",
+      "className": "Part",
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "Anchored": true,
+        "Color": {
+          "Color3uint8": [
+            91,
+            56,
+            33
+          ]
+        },
+        "Material": "SmoothPlastic",
+        "Size": [
+          0.8999999761581421,
+          9.100000381469727,
+          0.8999999761581421
+        ],
+        "CFrame": [
+          -6.48799991607666,
+          -4.050000190734863,
+          9.79800033569336,
+          0.7592599987983704,
+          0.0,
+          0.6507899761199951,
+          0.0,
+          1.0,
+          0.0,
+          -0.6507899761199951,
+          0.0,
+          0.7592599987983704
+        ]
+      }
+    },
+    {
+      "name": "Crossbeam",
+      "className": "Part",
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "Anchored": true,
+        "Color": {
+          "Color3uint8": [
+            91,
+            56,
+            33
+          ]
+        },
+        "Material": "SmoothPlastic",
+        "Size": [
+          0.6000000238418579,
+          0.6000000238418579,
+          7.0
+        ],
+        "CFrame": [
+          -8.4399995803833,
+          -3.0,
+          7.519999980926514,
+          0.7592599987983704,
+          0.0,
+          0.6507899761199951,
+          0.0,
+          1.0,
+          0.0,
+          -0.6507899761199951,
+          0.0,
+          0.7592599987983704
+        ]
+      }
+    },
+    {
+      "name": "Brace",
+      "className": "Part",
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "Anchored": true,
+        "Color": {
+          "Color3uint8": [
+            82,
+            50,
+            29
+          ]
+        },
+        "Material": "SmoothPlastic",
+        "Size": [
+          0.44999998807907104,
+          0.44999998807907104,
+          7.840000152587891
+        ],
+        "CFrame": [
+          -8.4399995803833,
+          -4.599999904632568,
+          7.519999980926514,
+          0.7592599987983704,
+          0.2653700113296509,
+          0.5942299962043762,
+          0.0,
+          0.9130899906158447,
+          -0.40775999426841736,
+          -0.6507899761199951,
+          0.30959001183509827,
+          0.6932700276374817
+        ]
+      }
+    }
+  ],
+  "properties": {
+    "SerializedOverrides": {
+      "BinaryString": ""
+    }
+  }
+}

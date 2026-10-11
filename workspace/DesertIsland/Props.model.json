@@ -1,1 +1,4317 @@
-{"ClassName":"Folder","Children":[{"Name":"Arch","ClassName":"Model","Children":[{"Name":"Footing","ClassName":"Part","Properties":{"Anchored":true,"Size":[2.6,1.2,2.6],"CFrame":{"CFrame":{"position":[-82.0,0.2,-9.0],"orientation":[[0.99805,0.0,0.06238],[0.0,1.0,0.0],[-0.06238,0.0,0.99805]]}},"Color":[0.806,0.56,0.356],"Material":"SmoothPlastic"}},{"Name":"Post","ClassName":"Part","Properties":{"Anchored":true,"Size":[1.5,15.0,1.5],"CFrame":{"CFrame":{"position":[-82.0,7.5,-9.0],"orientation":[[0.99805,0.0,0.06238],[0.0,1.0,0.0],[-0.06238,0.0,0.99805]]}},"Color":[0.466,0.287,0.169],"Material":"SmoothPlastic"}},{"Name":"Brace","ClassName":"Part","Properties":{"Anchored":true,"Size":[0.8,5.4,0.8],"CFrame":{"CFrame":{"position":[-80.104,12.7,-9.119],"orientation":[[0.70573,0.70573,0.06238],[-0.70711,0.70711,0.0],[-0.04411,-0.04411,0.99805]]}},"Color":[0.396,0.244,0.144],"Material":"SmoothPlastic"}},{"Name":"Footing","ClassName":"Part","Properties":{"Anchored":true,"Size":[2.6,1.2,2.6],"CFrame":{"CFrame":{"position":[-66.0,0.2,-10.0],"orientation":[[0.99805,0.0,0.06238],[0.0,1.0,0.0],[-0.06238,0.0,0.99805]]}},"Color":[0.812,0.578,0.371],"Material":"SmoothPlastic"}},{"Name":"Post","ClassName":"Part","Properties":{"Anchored":true,"Size":[1.5,15.0,1.5],"CFrame":{"CFrame":{"position":[-66.0,7.5,-10.0],"orientation":[[0.99805,0.0,0.06238],[0.0,1.0,0.0],[-0.06238,0.0,0.99805]]}},"Color":[0.466,0.287,0.169],"Material":"SmoothPlastic"}},{"Name":"Brace","ClassName":"Part","Properties":{"Anchored":true,"Size":[0.8,5.4,0.8],"CFrame":{"CFrame":{"position":[-67.896,12.7,-9.881],"orientation":[[0.70573,-0.70573,0.06238],[0.70711,0.70711,0.0],[-0.04411,0.04411,0.99805]]}},"Color":[0.396,0.244,0.144],"Material":"SmoothPlastic"}},{"Name":"Beam","ClassName":"Part","Properties":{"Anchored":true,"Size":[21.031,1.5,1.7],"CFrame":{"CFrame":{"position":[-74.0,15.2,-9.5],"orientation":[[0.99805,0.0,0.06238],[0.0,1.0,0.0],[-0.06238,0.0,0.99805]]}},"Color":[0.429,0.264,0.156],"Material":"SmoothPlastic"}},{"Name":"Beam","ClassName":"Part","Properties":{"Anchored":true,"Size":[18.531,0.6,1.1],"CFrame":{"CFrame":{"position":[-74.0,16.2,-9.5],"orientation":[[0.99805,0.0,0.06238],[0.0,1.0,0.0],[-0.06238,0.0,0.99805]]}},"Color":[0.373,0.229,0.135],"Material":"SmoothPlastic"}},{"Name":"Lantern","ClassName":"Model","Children":[{"Name":"Chain","ClassName":"Part","Properties":{"Anchored":true,"Size":[0.14,1.8,0.14],"CFrame":{"CFrame":{"position":[-77.52,13.55,-9.28],"orientation":[[1.0,0.0,0.0],[0.0,1.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.17,0.15,0.15],"Material":"SmoothPlastic","CanCollide":false}},{"Name":"Cap","ClassName":"Part","Properties":{"Anchored":true,"Size":[1.56,0.24,1.56],"CFrame":{"CFrame":{"position":[-77.52,12.53,-9.28],"orientation":[[1.0,0.0,0.0],[0.0,1.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.17,0.15,0.15],"Material":"SmoothPlastic","CanCollide":false}},{"Name":"Glow","ClassName":"Part","Properties":{"Anchored":true,"Size":[1.04,1.43,1.04],"CFrame":{"CFrame":{"position":[-77.52,11.695,-9.28],"orientation":[[1.0,0.0,0.0],[0.0,1.0,0.0],[0.0,0.0,1.0]]}},"Color":[1.0,0.76,0.33],"Material":"Neon","CanCollide":false,"CastShadow":false},"Children":[{"Name":"Light","ClassName":"PointLight","Properties":{"Brightness":1.4,"Range":16,"Color":[1.0,0.76,0.33]}}]},{"Name":"Bar","ClassName":"Part","Properties":{"Anchored":true,"Size":[0.14,1.43,0.14],"CFrame":{"CFrame":{"position":[-78.118,11.695,-9.878],"orientation":[[1.0,0.0,0.0],[0.0,1.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.17,0.15,0.15],"Material":"SmoothPlastic","CanCollide":false}},{"Name":"Bar","ClassName":"Part","Properties":{"Anchored":true,"Size":[0.14,1.43,0.14],"CFrame":{"CFrame":{"position":[-78.118,11.695,-8.682],"orientation":[[1.0,0.0,0.0],[0.0,1.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.17,0.15,0.15],"Material":"SmoothPlastic","CanCollide":false}},{"Name":"Bar","ClassName":"Part","Properties":{"Anchored":true,"Size":[0.14,1.43,0.14],"CFrame":{"CFrame":{"position":[-76.922,11.695,-9.878],"orientation":[[1.0,0.0,0.0],[0.0,1.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.17,0.15,0.15],"Material":"SmoothPlastic","CanCollide":false}},{"Name":"Bar","ClassName":"Part","Properties":{"Anchored":true,"Size":[0.14,1.43,0.14],"CFrame":{"CFrame":{"position":[-76.922,11.695,-8.682],"orientation":[[1.0,0.0,0.0],[0.0,1.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.17,0.15,0.15],"Material":"SmoothPlastic","CanCollide":false}},{"Name":"Base","ClassName":"Part","Properties":{"Anchored":true,"Size":[1.56,0.24,1.56],"CFrame":{"CFrame":{"position":[-77.52,10.86,-9.28],"orientation":[[1.0,0.0,0.0],[0.0,1.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.17,0.15,0.15],"Material":"SmoothPlastic","CanCollide":false}}]},{"Name":"Lantern","ClassName":"Model","Children":[{"Name":"Chain","ClassName":"Part","Properties":{"Anchored":true,"Size":[0.14,1.8,0.14],"CFrame":{"CFrame":{"position":[-70.48,13.55,-9.72],"orientation":[[1.0,0.0,0.0],[0.0,1.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.17,0.15,0.15],"Material":"SmoothPlastic","CanCollide":false}},{"Name":"Cap","ClassName":"Part","Properties":{"Anchored":true,"Size":[1.56,0.24,1.56],"CFrame":{"CFrame":{"position":[-70.48,12.53,-9.72],"orientation":[[1.0,0.0,0.0],[0.0,1.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.17,0.15,0.15],"Material":"SmoothPlastic","CanCollide":false}},{"Name":"Glow","ClassName":"Part","Properties":{"Anchored":true,"Size":[1.04,1.43,1.04],"CFrame":{"CFrame":{"position":[-70.48,11.695,-9.72],"orientation":[[1.0,0.0,0.0],[0.0,1.0,0.0],[0.0,0.0,1.0]]}},"Color":[1.0,0.76,0.33],"Material":"Neon","CanCollide":false,"CastShadow":false},"Children":[{"Name":"Light","ClassName":"PointLight","Properties":{"Brightness":1.4,"Range":16,"Color":[1.0,0.76,0.33]}}]},{"Name":"Bar","ClassName":"Part","Properties":{"Anchored":true,"Size":[0.14,1.43,0.14],"CFrame":{"CFrame":{"position":[-71.078,11.695,-10.318],"orientation":[[1.0,0.0,0.0],[0.0,1.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.17,0.15,0.15],"Material":"SmoothPlastic","CanCollide":false}},{"Name":"Bar","ClassName":"Part","Properties":{"Anchored":true,"Size":[0.14,1.43,0.14],"CFrame":{"CFrame":{"position":[-71.078,11.695,-9.122],"orientation":[[1.0,0.0,0.0],[0.0,1.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.17,0.15,0.15],"Material":"SmoothPlastic","CanCollide":false}},{"Name":"Bar","ClassName":"Part","Properties":{"Anchored":true,"Size":[0.14,1.43,0.14],"CFrame":{"CFrame":{"position":[-69.882,11.695,-10.318],"orientation":[[1.0,0.0,0.0],[0.0,1.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.17,0.15,0.15],"Material":"SmoothPlastic","CanCollide":false}},{"Name":"Bar","ClassName":"Part","Properties":{"Anchored":true,"Size":[0.14,1.43,0.14],"CFrame":{"CFrame":{"position":[-69.882,11.695,-9.122],"orientation":[[1.0,0.0,0.0],[0.0,1.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.17,0.15,0.15],"Material":"SmoothPlastic","CanCollide":false}},{"Name":"Base","ClassName":"Part","Properties":{"Anchored":true,"Size":[1.56,0.24,1.56],"CFrame":{"CFrame":{"position":[-70.48,10.86,-9.72],"orientation":[[1.0,0.0,0.0],[0.0,1.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.17,0.15,0.15],"Material":"SmoothPlastic","CanCollide":false}}]}]},{"Name":"Crate","ClassName":"Model","Children":[{"Name":"Body","ClassName":"Part","Properties":{"Anchored":true,"Size":[4.65,4.65,4.65],"CFrame":{"CFrame":{"position":[-78.0,2.5,5.0],"orientation":[[0.93969,0.0,0.34202],[0.0,1.0,0.0],[-0.34202,0.0,0.93969]]}},"Color":[0.621,0.427,0.263],"Material":"SmoothPlastic"}},{"Name":"Trim","ClassName":"Part","Properties":{"Anchored":true,"Size":[0.65,5.0,0.65],"CFrame":{"CFrame":{"position":[-80.788,2.5,3.7],"orientation":[[0.93969,0.0,0.34202],[0.0,1.0,0.0],[-0.34202,0.0,0.93969]]}},"Color":[0.453,0.284,0.172],"Material":"SmoothPlastic"}},{"Name":"Trim","ClassName":"Part","Properties":{"Anchored":true,"Size":[0.65,5.0,0.65],"CFrame":{"CFrame":{"position":[-79.3,2.5,7.788],"orientation":[[0.93969,0.0,0.34202],[0.0,1.0,0.0],[-0.34202,0.0,0.93969]]}},"Color":[0.453,0.284,0.172],"Material":"SmoothPlastic"}},{"Name":"Trim","ClassName":"Part","Properties":{"Anchored":true,"Size":[0.65,5.0,0.65],"CFrame":{"CFrame":{"position":[-76.7,2.5,2.212],"orientation":[[0.93969,0.0,0.34202],[0.0,1.0,0.0],[-0.34202,0.0,0.93969]]}},"Color":[0.453,0.284,0.172],"Material":"SmoothPlastic"}},{"Name":"Trim","ClassName":"Part","Properties":{"Anchored":true,"Size":[0.65,5.0,0.65],"CFrame":{"CFrame":{"position":[-75.212,2.5,6.3],"orientation":[[0.93969,0.0,0.34202],[0.0,1.0,0.0],[-0.34202,0.0,0.93969]]}},"Color":[0.453,0.284,0.172],"Material":"SmoothPlastic"}},{"Name":"Trim","ClassName":"Part","Properties":{"Anchored":true,"Size":[5.0,0.65,0.65],"CFrame":{"CFrame":{"position":[-78.744,0.325,2.956],"orientation":[[0.93969,0.0,0.34202],[0.0,1.0,0.0],[-0.34202,0.0,0.93969]]}},"Color":[0.453,0.284,0.172],"Material":"SmoothPlastic"}},{"Name":"Trim","ClassName":"Part","Properties":{"Anchored":true,"Size":[0.65,0.65,5.0],"CFrame":{"CFrame":{"position":[-80.044,0.325,5.744],"orientation":[[0.93969,0.0,0.34202],[0.0,1.0,0.0],[-0.34202,0.0,0.93969]]}},"Color":[0.453,0.284,0.172],"Material":"SmoothPlastic"}},{"Name":"Trim","ClassName":"Part","Properties":{"Anchored":true,"Size":[5.0,0.65,0.65],"CFrame":{"CFrame":{"position":[-77.256,0.325,7.044],"orientation":[[0.93969,0.0,0.34202],[0.0,1.0,0.0],[-0.34202,0.0,0.93969]]}},"Color":[0.453,0.284,0.172],"Material":"SmoothPlastic"}},{"Name":"Trim","ClassName":"Part","Properties":{"Anchored":true,"Size":[0.65,0.65,5.0],"CFrame":{"CFrame":{"position":[-75.956,0.325,4.256],"orientation":[[0.93969,0.0,0.34202],[0.0,1.0,0.0],[-0.34202,0.0,0.93969]]}},"Color":[0.453,0.284,0.172],"Material":"SmoothPlastic"}},{"Name":"Trim","ClassName":"Part","Properties":{"Anchored":true,"Size":[5.0,0.65,0.65],"CFrame":{"CFrame":{"position":[-78.744,4.675,2.956],"orientation":[[0.93969,0.0,0.34202],[0.0,1.0,0.0],[-0.34202,0.0,0.93969]]}},"Color":[0.453,0.284,0.172],"Material":"SmoothPlastic"}},{"Name":"Trim","ClassName":"Part","Properties":{"Anchored":true,"Size":[0.65,0.65,5.0],"CFrame":{"CFrame":{"position":[-80.044,4.675,5.744],"orientation":[[0.93969,0.0,0.34202],[0.0,1.0,0.0],[-0.34202,0.0,0.93969]]}},"Color":[0.453,0.284,0.172],"Material":"SmoothPlastic"}},{"Name":"Trim","ClassName":"Part","Properties":{"Anchored":true,"Size":[5.0,0.65,0.65],"CFrame":{"CFrame":{"position":[-77.256,4.675,7.044],"orientation":[[0.93969,0.0,0.34202],[0.0,1.0,0.0],[-0.34202,0.0,0.93969]]}},"Color":[0.453,0.284,0.172],"Material":"SmoothPlastic"}},{"Name":"Trim","ClassName":"Part","Properties":{"Anchored":true,"Size":[0.65,0.65,5.0],"CFrame":{"CFrame":{"position":[-75.956,4.675,4.256],"orientation":[[0.93969,0.0,0.34202],[0.0,1.0,0.0],[-0.34202,0.0,0.93969]]}},"Color":[0.453,0.284,0.172],"Material":"SmoothPlastic"}},{"Name":"Brace","ClassName":"Part","Properties":{"Anchored":true,"Size":[0.52,6.0,0.325],"CFrame":{"CFrame":{"position":[-78.804,2.5,2.792],"orientation":[[0.66446,0.66446,0.34202],[-0.70711,0.70711,0.0],[-0.24184,-0.24184,0.93969]]}},"Color":[0.453,0.284,0.172],"Material":"SmoothPlastic"}},{"Name":"Brace","ClassName":"Part","Properties":{"Anchored":true,"Size":[0.325,6.0,0.52],"CFrame":{"CFrame":{"position":[-80.208,2.5,5.804],"orientation":[[0.93969,-0.24184,0.24184],[0.0,0.70711,0.70711],[-0.34202,-0.66446,0.66446]]}},"Color":[0.453,0.284,0.172],"Material":"SmoothPlastic"}},{"Name":"Brace","ClassName":"Part","Properties":{"Anchored":true,"Size":[0.52,6.0,0.325],"CFrame":{"CFrame":{"position":[-77.196,2.5,7.208],"orientation":[[0.66446,-0.66446,0.34202],[0.70711,0.70711,0.0],[-0.24184,0.24184,0.93969]]}},"Color":[0.453,0.284,0.172],"Material":"SmoothPlastic"}},{"Name":"Brace","ClassName":"Part","Properties":{"Anchored":true,"Size":[0.325,6.0,0.52],"CFrame":{"CFrame":{"position":[-75.792,2.5,4.196],"orientation":[[0.93969,0.24184,0.24184],[0.0,0.70711,-0.70711],[-0.34202,0.66446,0.66446]]}},"Color":[0.453,0.284,0.172],"Material":"SmoothPlastic"}}]},{"Name":"Crate","ClassName":"Model","Children":[{"Name":"Body","ClassName":"Part","Properties":{"Anchored":true,"Size":[2.976,2.976,2.976],"CFrame":{"CFrame":{"position":[-72.5,1.6,8.5],"orientation":[[0.57358,0.0,0.81915],[0.0,1.0,0.0],[-0.81915,0.0,0.57358]]}},"Color":[0.605,0.414,0.25],"Material":"SmoothPlastic"}},{"Name":"Trim","ClassName":"Part","Properties":{"Anchored":true,"Size":[0.416,3.2,0.416],"CFrame":{"CFrame":{"position":[-74.439,1.6,8.842],"orientation":[[0.57358,0.0,0.81915],[0.0,1.0,0.0],[-0.81915,0.0,0.57358]]}},"Color":[0.446,0.28,0.162],"Material":"SmoothPlastic"}},{"Name":"Trim","ClassName":"Part","Properties":{"Anchored":true,"Size":[0.416,3.2,0.416],"CFrame":{"CFrame":{"position":[-72.158,1.6,10.439],"orientation":[[0.57358,0.0,0.81915],[0.0,1.0,0.0],[-0.81915,0.0,0.57358]]}},"Color":[0.446,0.28,0.162],"Material":"SmoothPlastic"}},{"Name":"Trim","ClassName":"Part","Properties":{"Anchored":true,"Size":[0.416,3.2,0.416],"CFrame":{"CFrame":{"position":[-72.842,1.6,6.561],"orientation":[[0.57358,0.0,0.81915],[0.0,1.0,0.0],[-0.81915,0.0,0.57358]]}},"Color":[0.446,0.28,0.162],"Material":"SmoothPlastic"}},{"Name":"Trim","ClassName":"Part","Properties":{"Anchored":true,"Size":[0.416,3.2,0.416],"CFrame":{"CFrame":{"position":[-70.561,1.6,8.158],"orientation":[[0.57358,0.0,0.81915],[0.0,1.0,0.0],[-0.81915,0.0,0.57358]]}},"Color":[0.446,0.28,0.162],"Material":"SmoothPlastic"}},{"Name":"Trim","ClassName":"Part","Properties":{"Anchored":true,"Size":[3.2,0.416,0.416],"CFrame":{"CFrame":{"position":[-73.64,0.208,7.702],"orientation":[[0.57358,0.0,0.81915],[0.0,1.0,0.0],[-0.81915,0.0,0.57358]]}},"Color":[0.446,0.28,0.162],"Material":"SmoothPlastic"}},{"Name":"Trim","ClassName":"Part","Properties":{"Anchored":true,"Size":[0.416,0.416,3.2],"CFrame":{"CFrame":{"position":[-73.298,0.208,9.64],"orientation":[[0.57358,0.0,0.81915],[0.0,1.0,0.0],[-0.81915,0.0,0.57358]]}},"Color":[0.446,0.28,0.162],"Material":"SmoothPlastic"}},{"Name":"Trim","ClassName":"Part","Properties":{"Anchored":true,"Size":[3.2,0.416,0.416],"CFrame":{"CFrame":{"position":[-71.36,0.208,9.298],"orientation":[[0.57358,0.0,0.81915],[0.0,1.0,0.0],[-0.81915,0.0,0.57358]]}},"Color":[0.446,0.28,0.162],"Material":"SmoothPlastic"}},{"Name":"Trim","ClassName":"Part","Properties":{"Anchored":true,"Size":[0.416,0.416,3.2],"CFrame":{"CFrame":{"position":[-71.702,0.208,7.36],"orientation":[[0.57358,0.0,0.81915],[0.0,1.0,0.0],[-0.81915,0.0,0.57358]]}},"Color":[0.446,0.28,0.162],"Material":"SmoothPlastic"}},{"Name":"Trim","ClassName":"Part","Properties":{"Anchored":true,"Size":[3.2,0.416,0.416],"CFrame":{"CFrame":{"position":[-73.64,2.992,7.702],"orientation":[[0.57358,0.0,0.81915],[0.0,1.0,0.0],[-0.81915,0.0,0.57358]]}},"Color":[0.446,0.28,0.162],"Material":"SmoothPlastic"}},{"Name":"Trim","ClassName":"Part","Properties":{"Anchored":true,"Size":[0.416,0.416,3.2],"CFrame":{"CFrame":{"position":[-73.298,2.992,9.64],"orientation":[[0.57358,0.0,0.81915],[0.0,1.0,0.0],[-0.81915,0.0,0.57358]]}},"Color":[0.446,0.28,0.162],"Material":"SmoothPlastic"}},{"Name":"Trim","ClassName":"Part","Properties":{"Anchored":true,"Size":[3.2,0.416,0.416],"CFrame":{"CFrame":{"position":[-71.36,2.992,9.298],"orientation":[[0.57358,0.0,0.81915],[0.0,1.0,0.0],[-0.81915,0.0,0.57358]]}},"Color":[0.446,0.28,0.162],"Material":"SmoothPlastic"}},{"Name":"Trim","ClassName":"Part","Properties":{"Anchored":true,"Size":[0.416,0.416,3.2],"CFrame":{"CFrame":{"position":[-71.702,2.992,7.36],"orientation":[[0.57358,0.0,0.81915],[0.0,1.0,0.0],[-0.81915,0.0,0.57358]]}},"Color":[0.446,0.28,0.162],"Material":"SmoothPlastic"}},{"Name":"Brace","ClassName":"Part","Properties":{"Anchored":true,"Size":[0.333,3.84,0.208],"CFrame":{"CFrame":{"position":[-73.732,1.6,7.637],"orientation":[[0.40558,0.40558,0.81915],[-0.70711,0.70711,0.0],[-0.57923,-0.57923,0.57358]]}},"Color":[0.446,0.28,0.162],"Material":"SmoothPlastic"}},{"Name":"Brace","ClassName":"Part","Properties":{"Anchored":true,"Size":[0.208,3.84,0.333],"CFrame":{"CFrame":{"position":[-73.363,1.6,9.732],"orientation":[[0.57358,-0.57923,0.57923],[0.0,0.70711,0.70711],[-0.81915,-0.40558,0.40558]]}},"Color":[0.446,0.28,0.162],"Material":"SmoothPlastic"}},{"Name":"Brace","ClassName":"Part","Properties":{"Anchored":true,"Size":[0.333,3.84,0.208],"CFrame":{"CFrame":{"position":[-71.268,1.6,9.363],"orientation":[[0.40558,-0.40558,0.81915],[0.70711,0.70711,0.0],[-0.57923,0.57923,0.57358]]}},"Color":[0.446,0.28,0.162],"Material":"SmoothPlastic"}},{"Name":"Brace","ClassName":"Part","Properties":{"Anchored":true,"Size":[0.208,3.84,0.333],"CFrame":{"CFrame":{"position":[-71.637,1.6,7.268],"orientation":[[0.57358,0.57923,0.57923],[0.0,0.70711,-0.70711],[-0.81915,0.40558,0.40558]]}},"Color":[0.446,0.28,0.162],"Material":"SmoothPlastic"}}]},{"Name":"Crate","ClassName":"Model","Children":[{"Name":"Body","ClassName":"Part","Properties":{"Anchored":true,"Size":[4.278,4.278,4.278],"CFrame":{"CFrame":{"position":[-33.0,2.3,39.0],"orientation":[[0.96593,0.0,-0.25882],[0.0,1.0,0.0],[0.25882,0.0,0.96593]]}},"Color":[0.619,0.43,0.259],"Material":"SmoothPlastic"}},{"Name":"Trim","ClassName":"Part","Properties":{"Anchored":true,"Size":[0.598,4.6,0.598],"CFrame":{"CFrame":{"position":[-34.415,2.3,36.549],"orientation":[[0.96593,0.0,-0.25882],[0.0,1.0,0.0],[0.25882,0.0,0.96593]]}},"Color":[0.47,0.303,0.177],"Material":"SmoothPlastic"}},{"Name":"Trim","ClassName":"Part","Properties":{"Anchored":true,"Size":[0.598,4.6,0.598],"CFrame":{"CFrame":{"position":[-35.451,2.3,40.415],"orientation":[[0.96593,0.0,-0.25882],[0.0,1.0,0.0],[0.25882,0.0,0.96593]]}},"Color":[0.47,0.303,0.177],"Material":"SmoothPlastic"}},{"Name":"Trim","ClassName":"Part","Properties":{"Anchored":true,"Size":[0.598,4.6,0.598],"CFrame":{"CFrame":{"position":[-30.549,2.3,37.585],"orientation":[[0.96593,0.0,-0.25882],[0.0,1.0,0.0],[0.25882,0.0,0.96593]]}},"Color":[0.47,0.303,0.177],"Material":"SmoothPlastic"}},{"Name":"Trim","ClassName":"Part","Properties":{"Anchored":true,"Size":[0.598,4.6,0.598],"CFrame":{"CFrame":{"position":[-31.585,2.3,41.451],"orientation":[[0.96593,0.0,-0.25882],[0.0,1.0,0.0],[0.25882,0.0,0.96593]]}},"Color":[0.47,0.303,0.177],"Material":"SmoothPlastic"}},{"Name":"Trim","ClassName":"Part","Properties":{"Anchored":true,"Size":[4.6,0.598,0.598],"CFrame":{"CFrame":{"position":[-32.482,0.299,37.067],"orientation":[[0.96593,0.0,-0.25882],[0.0,1.0,0.0],[0.25882,0.0,0.96593]]}},"Color":[0.47,0.303,0.177],"Material":"SmoothPlastic"}},{"Name":"Trim","ClassName":"Part","Properties":{"Anchored":true,"Size":[0.598,0.598,4.6],"CFrame":{"CFrame":{"position":[-34.933,0.299,38.482],"orientation":[[0.96593,0.0,-0.25882],[0.0,1.0,0.0],[0.25882,0.0,0.96593]]}},"Color":[0.47,0.303,0.177],"Material":"SmoothPlastic"}},{"Name":"Trim","ClassName":"Part","Properties":{"Anchored":true,"Size":[4.6,0.598,0.598],"CFrame":{"CFrame":{"position":[-33.518,0.299,40.933],"orientation":[[0.96593,0.0,-0.25882],[0.0,1.0,0.0],[0.25882,0.0,0.96593]]}},"Color":[0.47,0.303,0.177],"Material":"SmoothPlastic"}},{"Name":"Trim","ClassName":"Part","Properties":{"Anchored":true,"Size":[0.598,0.598,4.6],"CFrame":{"CFrame":{"position":[-31.067,0.299,39.518],"orientation":[[0.96593,0.0,-0.25882],[0.0,1.0,0.0],[0.25882,0.0,0.96593]]}},"Color":[0.47,0.303,0.177],"Material":"SmoothPlastic"}},{"Name":"Trim","ClassName":"Part","Properties":{"Anchored":true,"Size":[4.6,0.598,0.598],"CFrame":{"CFrame":{"position":[-32.482,4.301,37.067],"orientation":[[0.96593,0.0,-0.25882],[0.0,1.0,0.0],[0.25882,0.0,0.96593]]}},"Color":[0.47,0.303,0.177],"Material":"SmoothPlastic"}},{"Name":"Trim","ClassName":"Part","Properties":{"Anchored":true,"Size":[0.598,0.598,4.6],"CFrame":{"CFrame":{"position":[-34.933,4.301,38.482],"orientation":[[0.96593,0.0,-0.25882],[0.0,1.0,0.0],[0.25882,0.0,0.96593]]}},"Color":[0.47,0.303,0.177],"Material":"SmoothPlastic"}},{"Name":"Trim","ClassName":"Part","Properties":{"Anchored":true,"Size":[4.6,0.598,0.598],"CFrame":{"CFrame":{"position":[-33.518,4.301,40.933],"orientation":[[0.96593,0.0,-0.25882],[0.0,1.0,0.0],[0.25882,0.0,0.96593]]}},"Color":[0.47,0.303,0.177],"Material":"SmoothPlastic"}},{"Name":"Trim","ClassName":"Part","Properties":{"Anchored":true,"Size":[0.598,0.598,4.6],"CFrame":{"CFrame":{"position":[-31.067,4.301,39.518],"orientation":[[0.96593,0.0,-0.25882],[0.0,1.0,0.0],[0.25882,0.0,0.96593]]}},"Color":[0.47,0.303,0.177],"Material":"SmoothPlastic"}},{"Name":"Brace","ClassName":"Part","Properties":{"Anchored":true,"Size":[0.478,5.52,0.299],"CFrame":{"CFrame":{"position":[-32.44,2.3,36.912],"orientation":[[0.68301,0.68301,-0.25882],[-0.70711,0.70711,0.0],[0.18301,0.18301,0.96593]]}},"Color":[0.47,0.303,0.177],"Material":"SmoothPlastic"}},{"Name":"Brace","ClassName":"Part","Properties":{"Anchored":true,"Size":[0.299,5.52,0.478],"CFrame":{"CFrame":{"position":[-35.088,2.3,38.44],"orientation":[[0.96593,0.18301,-0.18301],[0.0,0.70711,0.70711],[0.25882,-0.68301,0.68301]]}},"Color":[0.47,0.303,0.177],"Material":"SmoothPlastic"}},{"Name":"Brace","ClassName":"Part","Properties":{"Anchored":true,"Size":[0.478,5.52,0.299],"CFrame":{"CFrame":{"position":[-33.56,2.3,41.088],"orientation":[[0.68301,-0.68301,-0.25882],[0.70711,0.70711,0.0],[0.18301,-0.18301,0.96593]]}},"Color":[0.47,0.303,0.177],"Material":"SmoothPlastic"}},{"Name":"Brace","ClassName":"Part","Properties":{"Anchored":true,"Size":[0.299,5.52,0.478],"CFrame":{"CFrame":{"position":[-30.912,2.3,39.56],"orientation":[[0.96593,-0.18301,-0.18301],[0.0,0.70711,-0.70711],[0.25882,0.68301,0.68301]]}},"Color":[0.47,0.303,0.177],"Material":"SmoothPlastic"}}]},{"Name":"Cactus","ClassName":"Model","Children":[{"Name":"Trunk","ClassName":"Part","Properties":{"Anchored":true,"Size":[11.1,2.4,2.4],"CFrame":{"CFrame":{"position":[-46.0,4.95,5.0],"orientation":[[0.0,-1.0,0.0],[1.0,0.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.239,0.558,0.273],"Material":"SmoothPlastic","Shape":"Cylinder"}},{"Name":"Top","ClassName":"Part","Properties":{"Anchored":true,"Size":[2.4,2.4,2.4],"CFrame":{"CFrame":{"position":[-46.0,10.5,5.0],"orientation":[[1.0,0.0,0.0],[0.0,1.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.239,0.558,0.273],"Material":"SmoothPlastic","Shape":"Ball"}},{"Name":"Arm","ClassName":"Part","Properties":{"Anchored":true,"Size":[3.0,1.728,1.728],"CFrame":{"CFrame":{"position":[-44.705,4.638,4.243],"orientation":[[0.86344,0.0,0.50444],[0.0,1.0,0.0],[-0.50444,0.0,0.86344]]}},"Color":[0.239,0.558,0.273],"Material":"SmoothPlastic","Shape":"Cylinder"}},{"Name":"Elbow","ClassName":"Part","Properties":{"Anchored":true,"Size":[1.728,1.728,1.728],"CFrame":{"CFrame":{"position":[-43.41,4.638,3.487],"orientation":[[1.0,0.0,0.0],[0.0,1.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.239,0.558,0.273],"Material":"SmoothPlastic","Shape":"Ball"}},{"Name":"Arm","ClassName":"Part","Properties":{"Anchored":true,"Size":[4.299,1.728,1.728],"CFrame":{"CFrame":{"position":[-43.41,6.788,3.487],"orientation":[[0.0,-1.0,0.0],[1.0,0.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.239,0.558,0.273],"Material":"SmoothPlastic","Shape":"Cylinder"}},{"Name":"Top","ClassName":"Part","Properties":{"Anchored":true,"Size":[1.728,1.728,1.728],"CFrame":{"CFrame":{"position":[-43.41,8.938,3.487],"orientation":[[1.0,0.0,0.0],[0.0,1.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.239,0.558,0.273],"Material":"SmoothPlastic","Shape":"Ball"}},{"Name":"Arm","ClassName":"Part","Properties":{"Anchored":true,"Size":[3.0,1.728,1.728],"CFrame":{"CFrame":{"position":[-47.259,4.569,5.815],"orientation":[[-0.8394,0.0,-0.54351],[0.0,1.0,0.0],[0.54351,0.0,-0.8394]]}},"Color":[0.239,0.558,0.273],"Material":"SmoothPlastic","Shape":"Cylinder"}},{"Name":"Elbow","ClassName":"Part","Properties":{"Anchored":true,"Size":[1.728,1.728,1.728],"CFrame":{"CFrame":{"position":[-48.518,4.569,6.631],"orientation":[[1.0,0.0,0.0],[0.0,1.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.239,0.558,0.273],"Material":"SmoothPlastic","Shape":"Ball"}},{"Name":"Arm","ClassName":"Part","Properties":{"Anchored":true,"Size":[4.103,1.728,1.728],"CFrame":{"CFrame":{"position":[-48.518,6.621,6.631],"orientation":[[0.0,-1.0,0.0],[1.0,0.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.239,0.558,0.273],"Material":"SmoothPlastic","Shape":"Cylinder"}},{"Name":"Top","ClassName":"Part","Properties":{"Anchored":true,"Size":[1.728,1.728,1.728],"CFrame":{"CFrame":{"position":[-48.518,8.672,6.631],"orientation":[[1.0,0.0,0.0],[0.0,1.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.239,0.558,0.273],"Material":"SmoothPlastic","Shape":"Ball"}}]},{"Name":"Cactus","ClassName":"Model","Children":[{"Name":"Trunk","ClassName":"Part","Properties":{"Anchored":true,"Size":[10.1,2.3,2.3],"CFrame":{"CFrame":{"position":[-68.0,4.45,42.0],"orientation":[[0.0,-1.0,0.0],[1.0,0.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.254,0.581,0.283],"Material":"SmoothPlastic","Shape":"Cylinder"}},{"Name":"Top","ClassName":"Part","Properties":{"Anchored":true,"Size":[2.3,2.3,2.3],"CFrame":{"CFrame":{"position":[-68.0,9.5,42.0],"orientation":[[1.0,0.0,0.0],[0.0,1.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.254,0.581,0.283],"Material":"SmoothPlastic","Shape":"Ball"}},{"Name":"Arm","ClassName":"Part","Properties":{"Anchored":true,"Size":[2.875,1.656,1.656],"CFrame":{"CFrame":{"position":[-68.963,3.435,40.933],"orientation":[[-0.66978,0.0,0.74256],[0.0,1.0,0.0],[-0.74256,0.0,-0.66978]]}},"Color":[0.254,0.581,0.283],"Material":"SmoothPlastic","Shape":"Cylinder"}},{"Name":"Elbow","ClassName":"Part","Properties":{"Anchored":true,"Size":[1.656,1.656,1.656],"CFrame":{"CFrame":{"position":[-69.926,3.435,39.865],"orientation":[[1.0,0.0,0.0],[0.0,1.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.254,0.581,0.283],"Material":"SmoothPlastic","Shape":"Ball"}},{"Name":"Arm","ClassName":"Part","Properties":{"Anchored":true,"Size":[3.449,1.656,1.656],"CFrame":{"CFrame":{"position":[-69.926,5.16,39.865],"orientation":[[0.0,-1.0,0.0],[1.0,0.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.254,0.581,0.283],"Material":"SmoothPlastic","Shape":"Cylinder"}},{"Name":"Top","ClassName":"Part","Properties":{"Anchored":true,"Size":[1.656,1.656,1.656],"CFrame":{"CFrame":{"position":[-69.926,6.884,39.865],"orientation":[[1.0,0.0,0.0],[0.0,1.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.254,0.581,0.283],"Material":"SmoothPlastic","Shape":"Ball"}},{"Name":"Arm","ClassName":"Part","Properties":{"Anchored":true,"Size":[2.875,1.656,1.656],"CFrame":{"CFrame":{"position":[-66.626,3.51,42.424],"orientation":[[0.95555,0.0,-0.29484],[0.0,1.0,0.0],[0.29484,0.0,0.95555]]}},"Color":[0.254,0.581,0.283],"Material":"SmoothPlastic","Shape":"Cylinder"}},{"Name":"Elbow","ClassName":"Part","Properties":{"Anchored":true,"Size":[1.656,1.656,1.656],"CFrame":{"CFrame":{"position":[-65.253,3.51,42.848],"orientation":[[1.0,0.0,0.0],[0.0,1.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.254,0.581,0.283],"Material":"SmoothPlastic","Shape":"Ball"}},{"Name":"Arm","ClassName":"Part","Properties":{"Anchored":true,"Size":[3.242,1.656,1.656],"CFrame":{"CFrame":{"position":[-65.253,5.131,42.848],"orientation":[[0.0,-1.0,0.0],[1.0,0.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.254,0.581,0.283],"Material":"SmoothPlastic","Shape":"Cylinder"}},{"Name":"Top","ClassName":"Part","Properties":{"Anchored":true,"Size":[1.656,1.656,1.656],"CFrame":{"CFrame":{"position":[-65.253,6.752,42.848],"orientation":[[1.0,0.0,0.0],[0.0,1.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.254,0.581,0.283],"Material":"SmoothPlastic","Shape":"Ball"}}]},{"Name":"Cactus","ClassName":"Model","Children":[{"Name":"Trunk","ClassName":"Part","Properties":{"Anchored":true,"Size":[9.6,2.2,2.2],"CFrame":{"CFrame":{"position":[-96.0,11.2,18.0],"orientation":[[0.0,-1.0,0.0],[1.0,0.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.227,0.549,0.261],"Material":"SmoothPlastic","Shape":"Cylinder"}},{"Name":"Top","ClassName":"Part","Properties":{"Anchored":true,"Size":[2.2,2.2,2.2],"CFrame":{"CFrame":{"position":[-96.0,16.0,18.0],"orientation":[[1.0,0.0,0.0],[0.0,1.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.227,0.549,0.261],"Material":"SmoothPlastic","Shape":"Ball"}},{"Name":"Arm","ClassName":"Part","Properties":{"Anchored":true,"Size":[2.75,1.584,1.584],"CFrame":{"CFrame":{"position":[-94.85,10.55,18.753],"orientation":[[0.83659,0.0,-0.54783],[0.0,1.0,0.0],[0.54783,0.0,0.83659]]}},"Color":[0.227,0.549,0.261],"Material":"SmoothPlastic","Shape":"Cylinder"}},{"Name":"Elbow","ClassName":"Part","Properties":{"Anchored":true,"Size":[1.584,1.584,1.584],"CFrame":{"CFrame":{"position":[-93.699,10.55,19.507],"orientation":[[1.0,0.0,0.0],[0.0,1.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.227,0.549,0.261],"Material":"SmoothPlastic","Shape":"Ball"}},{"Name":"Arm","ClassName":"Part","Properties":{"Anchored":true,"Size":[3.472,1.584,1.584],"CFrame":{"CFrame":{"position":[-93.699,12.286,19.507],"orientation":[[0.0,-1.0,0.0],[1.0,0.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.227,0.549,0.261],"Material":"SmoothPlastic","Shape":"Cylinder"}},{"Name":"Top","ClassName":"Part","Properties":{"Anchored":true,"Size":[1.584,1.584,1.584],"CFrame":{"CFrame":{"position":[-93.699,14.022,19.507],"orientation":[[1.0,0.0,0.0],[0.0,1.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.227,0.549,0.261],"Material":"SmoothPlastic","Shape":"Ball"}},{"Name":"Arm","ClassName":"Part","Properties":{"Anchored":true,"Size":[2.75,1.584,1.584],"CFrame":{"CFrame":{"position":[-97.213,11.056,17.353],"orientation":[[-0.8824,0.0,0.47049],[0.0,1.0,0.0],[-0.47049,0.0,-0.8824]]}},"Color":[0.227,0.549,0.261],"Material":"SmoothPlastic","Shape":"Cylinder"}},{"Name":"Elbow","ClassName":"Part","Properties":{"Anchored":true,"Size":[1.584,1.584,1.584],"CFrame":{"CFrame":{"position":[-98.427,11.056,16.706],"orientation":[[1.0,0.0,0.0],[0.0,1.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.227,0.549,0.261],"Material":"SmoothPlastic","Shape":"Ball"}},{"Name":"Arm","ClassName":"Part","Properties":{"Anchored":true,"Size":[2.888,1.584,1.584],"CFrame":{"CFrame":{"position":[-98.427,12.5,16.706],"orientation":[[0.0,-1.0,0.0],[1.0,0.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.227,0.549,0.261],"Material":"SmoothPlastic","Shape":"Cylinder"}},{"Name":"Top","ClassName":"Part","Properties":{"Anchored":true,"Size":[1.584,1.584,1.584],"CFrame":{"CFrame":{"position":[-98.427,13.944,16.706],"orientation":[[1.0,0.0,0.0],[0.0,1.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.227,0.549,0.261],"Material":"SmoothPlastic","Shape":"Ball"}}]},{"Name":"Cactus","ClassName":"Model","Children":[{"Name":"Trunk","ClassName":"Part","Properties":{"Anchored":true,"Size":[5.6,1.6,1.6],"CFrame":{"CFrame":{"position":[-93.0,2.2,41.0],"orientation":[[0.0,-1.0,0.0],[1.0,0.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.23,0.548,0.261],"Material":"SmoothPlastic","Shape":"Cylinder"}},{"Name":"Top","ClassName":"Part","Properties":{"Anchored":true,"Size":[1.6,1.6,1.6],"CFrame":{"CFrame":{"position":[-93.0,5.0,41.0],"orientation":[[1.0,0.0,0.0],[0.0,1.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.23,0.548,0.261],"Material":"SmoothPlastic","Shape":"Ball"}},{"Name":"Arm","ClassName":"Part","Properties":{"Anchored":true,"Size":[2.0,1.152,1.152],"CFrame":{"CFrame":{"position":[-93.914,1.604,41.405],"orientation":[[-0.91429,0.0,-0.40505],[0.0,1.0,0.0],[0.40505,0.0,-0.91429]]}},"Color":[0.23,0.548,0.261],"Material":"SmoothPlastic","Shape":"Cylinder"}},{"Name":"Elbow","ClassName":"Part","Properties":{"Anchored":true,"Size":[1.152,1.152,1.152],"CFrame":{"CFrame":{"position":[-94.829,1.604,41.81],"orientation":[[1.0,0.0,0.0],[0.0,1.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.23,0.548,0.261],"Material":"SmoothPlastic","Shape":"Ball"}},{"Name":"Arm","ClassName":"Part","Properties":{"Anchored":true,"Size":[1.832,1.152,1.152],"CFrame":{"CFrame":{"position":[-94.829,2.52,41.81],"orientation":[[0.0,-1.0,0.0],[1.0,0.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.23,0.548,0.261],"Material":"SmoothPlastic","Shape":"Cylinder"}},{"Name":"Top","ClassName":"Part","Properties":{"Anchored":true,"Size":[1.152,1.152,1.152],"CFrame":{"CFrame":{"position":[-94.829,3.436,41.81],"orientation":[[1.0,0.0,0.0],[0.0,1.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.23,0.548,0.261],"Material":"SmoothPlastic","Shape":"Ball"}}]}]}
+{
+  "className": "Folder",
+  "children": [
+    {
+      "name": "Arch",
+      "className": "Model",
+      "children": [
+        {
+          "name": "Footing",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                205,
+                142,
+                90
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              2.5999999046325684,
+              1.2000000476837158,
+              2.5999999046325684
+            ],
+            "CFrame": [
+              -82.0,
+              0.20000000298023224,
+              -9.0,
+              0.9980499744415283,
+              0.0,
+              0.062380000948905945,
+              0.0,
+              1.0,
+              0.0,
+              -0.062380000948905945,
+              0.0,
+              0.9980499744415283
+            ]
+          }
+        },
+        {
+          "name": "Post",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                118,
+                73,
+                43
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              1.5,
+              15.0,
+              1.5
+            ],
+            "CFrame": [
+              -82.0,
+              7.5,
+              -9.0,
+              0.9980499744415283,
+              0.0,
+              0.062380000948905945,
+              0.0,
+              1.0,
+              0.0,
+              -0.062380000948905945,
+              0.0,
+              0.9980499744415283
+            ]
+          }
+        },
+        {
+          "name": "Brace",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                100,
+                62,
+                36
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              0.800000011920929,
+              5.400000095367432,
+              0.800000011920929
+            ],
+            "CFrame": [
+              -80.10399627685547,
+              12.699999809265137,
+              -9.119000434875488,
+              0.7057300209999084,
+              0.7057300209999084,
+              0.062380000948905945,
+              -0.7071099877357483,
+              0.7071099877357483,
+              0.0,
+              -0.044110000133514404,
+              -0.044110000133514404,
+              0.9980499744415283
+            ]
+          }
+        },
+        {
+          "name": "Footing",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                207,
+                147,
+                94
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              2.5999999046325684,
+              1.2000000476837158,
+              2.5999999046325684
+            ],
+            "CFrame": [
+              -66.0,
+              0.20000000298023224,
+              -10.0,
+              0.9980499744415283,
+              0.0,
+              0.062380000948905945,
+              0.0,
+              1.0,
+              0.0,
+              -0.062380000948905945,
+              0.0,
+              0.9980499744415283
+            ]
+          }
+        },
+        {
+          "name": "Post",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                118,
+                73,
+                43
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              1.5,
+              15.0,
+              1.5
+            ],
+            "CFrame": [
+              -66.0,
+              7.5,
+              -10.0,
+              0.9980499744415283,
+              0.0,
+              0.062380000948905945,
+              0.0,
+              1.0,
+              0.0,
+              -0.062380000948905945,
+              0.0,
+              0.9980499744415283
+            ]
+          }
+        },
+        {
+          "name": "Brace",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                100,
+                62,
+                36
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              0.800000011920929,
+              5.400000095367432,
+              0.800000011920929
+            ],
+            "CFrame": [
+              -67.89600372314453,
+              12.699999809265137,
+              -9.880999565124512,
+              0.7057300209999084,
+              -0.7057300209999084,
+              0.062380000948905945,
+              0.7071099877357483,
+              0.7071099877357483,
+              0.0,
+              -0.044110000133514404,
+              0.044110000133514404,
+              0.9980499744415283
+            ]
+          }
+        },
+        {
+          "name": "Beam",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                109,
+                67,
+                39
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              21.0310001373291,
+              1.5,
+              1.7000000476837158
+            ],
+            "CFrame": [
+              -74.0,
+              15.199999809265137,
+              -9.5,
+              0.9980499744415283,
+              0.0,
+              0.062380000948905945,
+              0.0,
+              1.0,
+              0.0,
+              -0.062380000948905945,
+              0.0,
+              0.9980499744415283
+            ]
+          }
+        },
+        {
+          "name": "Beam",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                95,
+                58,
+                34
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              18.5310001373291,
+              0.6000000238418579,
+              1.100000023841858
+            ],
+            "CFrame": [
+              -74.0,
+              16.200000762939453,
+              -9.5,
+              0.9980499744415283,
+              0.0,
+              0.062380000948905945,
+              0.0,
+              1.0,
+              0.0,
+              -0.062380000948905945,
+              0.0,
+              0.9980499744415283
+            ]
+          }
+        },
+        {
+          "name": "Lantern",
+          "className": "Model",
+          "children": [
+            {
+              "name": "Chain",
+              "className": "Part",
+              "properties": {
+                "SerializedOverrides": {
+                  "BinaryString": ""
+                },
+                "Anchored": true,
+                "Color": {
+                  "Color3uint8": [
+                    43,
+                    38,
+                    38
+                  ]
+                },
+                "Material": "SmoothPlastic",
+                "Size": [
+                  0.14000000059604645,
+                  1.7999999523162842,
+                  0.14000000059604645
+                ],
+                "CFrame": [
+                  -77.5199966430664,
+                  13.550000190734863,
+                  -9.279999732971191,
+                  1.0,
+                  0.0,
+                  0.0,
+                  0.0,
+                  1.0,
+                  0.0,
+                  0.0,
+                  0.0,
+                  1.0
+                ],
+                "CanCollide": false
+              }
+            },
+            {
+              "name": "Cap",
+              "className": "Part",
+              "properties": {
+                "SerializedOverrides": {
+                  "BinaryString": ""
+                },
+                "Anchored": true,
+                "Color": {
+                  "Color3uint8": [
+                    43,
+                    38,
+                    38
+                  ]
+                },
+                "Material": "SmoothPlastic",
+                "Size": [
+                  1.559999942779541,
+                  0.23999999463558197,
+                  1.559999942779541
+                ],
+                "CFrame": [
+                  -77.5199966430664,
+                  12.529999732971191,
+                  -9.279999732971191,
+                  1.0,
+                  0.0,
+                  0.0,
+                  0.0,
+                  1.0,
+                  0.0,
+                  0.0,
+                  0.0,
+                  1.0
+                ],
+                "CanCollide": false
+              }
+            },
+            {
+              "name": "Glow",
+              "className": "Part",
+              "children": [
+                {
+                  "name": "Light",
+                  "className": "PointLight",
+                  "properties": {
+                    "Color": [
+                      1.0,
+                      0.7599999904632568,
+                      0.33000001311302185
+                    ],
+                    "Range": 16.0,
+                    "SerializedOverrides": {
+                      "BinaryString": ""
+                    },
+                    "Brightness": 1.399999976158142
+                  }
+                }
+              ],
+              "properties": {
+                "SerializedOverrides": {
+                  "BinaryString": ""
+                },
+                "Anchored": true,
+                "Color": {
+                  "Color3uint8": [
+                    255,
+                    193,
+                    84
+                  ]
+                },
+                "Material": "Neon",
+                "Size": [
+                  1.0399999618530273,
+                  1.4299999475479126,
+                  1.0399999618530273
+                ],
+                "CFrame": [
+                  -77.5199966430664,
+                  11.694999694824219,
+                  -9.279999732971191,
+                  1.0,
+                  0.0,
+                  0.0,
+                  0.0,
+                  1.0,
+                  0.0,
+                  0.0,
+                  0.0,
+                  1.0
+                ],
+                "CanCollide": false,
+                "CastShadow": false
+              }
+            },
+            {
+              "name": "Bar",
+              "className": "Part",
+              "properties": {
+                "SerializedOverrides": {
+                  "BinaryString": ""
+                },
+                "Anchored": true,
+                "Color": {
+                  "Color3uint8": [
+                    43,
+                    38,
+                    38
+                  ]
+                },
+                "Material": "SmoothPlastic",
+                "Size": [
+                  0.14000000059604645,
+                  1.4299999475479126,
+                  0.14000000059604645
+                ],
+                "CFrame": [
+                  -78.11799621582031,
+                  11.694999694824219,
+                  -9.878000259399414,
+                  1.0,
+                  0.0,
+                  0.0,
+                  0.0,
+                  1.0,
+                  0.0,
+                  0.0,
+                  0.0,
+                  1.0
+                ],
+                "CanCollide": false
+              }
+            },
+            {
+              "name": "Bar",
+              "className": "Part",
+              "properties": {
+                "SerializedOverrides": {
+                  "BinaryString": ""
+                },
+                "Anchored": true,
+                "Color": {
+                  "Color3uint8": [
+                    43,
+                    38,
+                    38
+                  ]
+                },
+                "Material": "SmoothPlastic",
+                "Size": [
+                  0.14000000059604645,
+                  1.4299999475479126,
+                  0.14000000059604645
+                ],
+                "CFrame": [
+                  -78.11799621582031,
+                  11.694999694824219,
+                  -8.682000160217285,
+                  1.0,
+                  0.0,
+                  0.0,
+                  0.0,
+                  1.0,
+                  0.0,
+                  0.0,
+                  0.0,
+                  1.0
+                ],
+                "CanCollide": false
+              }
+            },
+            {
+              "name": "Bar",
+              "className": "Part",
+              "properties": {
+                "SerializedOverrides": {
+                  "BinaryString": ""
+                },
+                "Anchored": true,
+                "Color": {
+                  "Color3uint8": [
+                    43,
+                    38,
+                    38
+                  ]
+                },
+                "Material": "SmoothPlastic",
+                "Size": [
+                  0.14000000059604645,
+                  1.4299999475479126,
+                  0.14000000059604645
+                ],
+                "CFrame": [
+                  -76.9219970703125,
+                  11.694999694824219,
+                  -9.878000259399414,
+                  1.0,
+                  0.0,
+                  0.0,
+                  0.0,
+                  1.0,
+                  0.0,
+                  0.0,
+                  0.0,
+                  1.0
+                ],
+                "CanCollide": false
+              }
+            },
+            {
+              "name": "Bar",
+              "className": "Part",
+              "properties": {
+                "SerializedOverrides": {
+                  "BinaryString": ""
+                },
+                "Anchored": true,
+                "Color": {
+                  "Color3uint8": [
+                    43,
+                    38,
+                    38
+                  ]
+                },
+                "Material": "SmoothPlastic",
+                "Size": [
+                  0.14000000059604645,
+                  1.4299999475479126,
+                  0.14000000059604645
+                ],
+                "CFrame": [
+                  -76.9219970703125,
+                  11.694999694824219,
+                  -8.682000160217285,
+                  1.0,
+                  0.0,
+                  0.0,
+                  0.0,
+                  1.0,
+                  0.0,
+                  0.0,
+                  0.0,
+                  1.0
+                ],
+                "CanCollide": false
+              }
+            },
+            {
+              "name": "Base",
+              "className": "Part",
+              "properties": {
+                "SerializedOverrides": {
+                  "BinaryString": ""
+                },
+                "Anchored": true,
+                "Color": {
+                  "Color3uint8": [
+                    43,
+                    38,
+                    38
+                  ]
+                },
+                "Material": "SmoothPlastic",
+                "Size": [
+                  1.559999942779541,
+                  0.23999999463558197,
+                  1.559999942779541
+                ],
+                "CFrame": [
+                  -77.5199966430664,
+                  10.859999656677246,
+                  -9.279999732971191,
+                  1.0,
+                  0.0,
+                  0.0,
+                  0.0,
+                  1.0,
+                  0.0,
+                  0.0,
+                  0.0,
+                  1.0
+                ],
+                "CanCollide": false
+              }
+            }
+          ],
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            }
+          }
+        },
+        {
+          "name": "Lantern",
+          "className": "Model",
+          "children": [
+            {
+              "name": "Chain",
+              "className": "Part",
+              "properties": {
+                "SerializedOverrides": {
+                  "BinaryString": ""
+                },
+                "Anchored": true,
+                "Color": {
+                  "Color3uint8": [
+                    43,
+                    38,
+                    38
+                  ]
+                },
+                "Material": "SmoothPlastic",
+                "Size": [
+                  0.14000000059604645,
+                  1.7999999523162842,
+                  0.14000000059604645
+                ],
+                "CFrame": [
+                  -70.4800033569336,
+                  13.550000190734863,
+                  -9.720000267028809,
+                  1.0,
+                  0.0,
+                  0.0,
+                  0.0,
+                  1.0,
+                  0.0,
+                  0.0,
+                  0.0,
+                  1.0
+                ],
+                "CanCollide": false
+              }
+            },
+            {
+              "name": "Cap",
+              "className": "Part",
+              "properties": {
+                "SerializedOverrides": {
+                  "BinaryString": ""
+                },
+                "Anchored": true,
+                "Color": {
+                  "Color3uint8": [
+                    43,
+                    38,
+                    38
+                  ]
+                },
+                "Material": "SmoothPlastic",
+                "Size": [
+                  1.559999942779541,
+                  0.23999999463558197,
+                  1.559999942779541
+                ],
+                "CFrame": [
+                  -70.4800033569336,
+                  12.529999732971191,
+                  -9.720000267028809,
+                  1.0,
+                  0.0,
+                  0.0,
+                  0.0,
+                  1.0,
+                  0.0,
+                  0.0,
+                  0.0,
+                  1.0
+                ],
+                "CanCollide": false
+              }
+            },
+            {
+              "name": "Glow",
+              "className": "Part",
+              "children": [
+                {
+                  "name": "Light",
+                  "className": "PointLight",
+                  "properties": {
+                    "Color": [
+                      1.0,
+                      0.7599999904632568,
+                      0.33000001311302185
+                    ],
+                    "Range": 16.0,
+                    "SerializedOverrides": {
+                      "BinaryString": ""
+                    },
+                    "Brightness": 1.399999976158142
+                  }
+                }
+              ],
+              "properties": {
+                "SerializedOverrides": {
+                  "BinaryString": ""
+                },
+                "Anchored": true,
+                "Color": {
+                  "Color3uint8": [
+                    255,
+                    193,
+                    84
+                  ]
+                },
+                "Material": "Neon",
+                "Size": [
+                  1.0399999618530273,
+                  1.4299999475479126,
+                  1.0399999618530273
+                ],
+                "CFrame": [
+                  -70.4800033569336,
+                  11.694999694824219,
+                  -9.720000267028809,
+                  1.0,
+                  0.0,
+                  0.0,
+                  0.0,
+                  1.0,
+                  0.0,
+                  0.0,
+                  0.0,
+                  1.0
+                ],
+                "CanCollide": false,
+                "CastShadow": false
+              }
+            },
+            {
+              "name": "Bar",
+              "className": "Part",
+              "properties": {
+                "SerializedOverrides": {
+                  "BinaryString": ""
+                },
+                "Anchored": true,
+                "Color": {
+                  "Color3uint8": [
+                    43,
+                    38,
+                    38
+                  ]
+                },
+                "Material": "SmoothPlastic",
+                "Size": [
+                  0.14000000059604645,
+                  1.4299999475479126,
+                  0.14000000059604645
+                ],
+                "CFrame": [
+                  -71.0780029296875,
+                  11.694999694824219,
+                  -10.317999839782715,
+                  1.0,
+                  0.0,
+                  0.0,
+                  0.0,
+                  1.0,
+                  0.0,
+                  0.0,
+                  0.0,
+                  1.0
+                ],
+                "CanCollide": false
+              }
+            },
+            {
+              "name": "Bar",
+              "className": "Part",
+              "properties": {
+                "SerializedOverrides": {
+                  "BinaryString": ""
+                },
+                "Anchored": true,
+                "Color": {
+                  "Color3uint8": [
+                    43,
+                    38,
+                    38
+                  ]
+                },
+                "Material": "SmoothPlastic",
+                "Size": [
+                  0.14000000059604645,
+                  1.4299999475479126,
+                  0.14000000059604645
+                ],
+                "CFrame": [
+                  -71.0780029296875,
+                  11.694999694824219,
+                  -9.121999740600586,
+                  1.0,
+                  0.0,
+                  0.0,
+                  0.0,
+                  1.0,
+                  0.0,
+                  0.0,
+                  0.0,
+                  1.0
+                ],
+                "CanCollide": false
+              }
+            },
+            {
+              "name": "Bar",
+              "className": "Part",
+              "properties": {
+                "SerializedOverrides": {
+                  "BinaryString": ""
+                },
+                "Anchored": true,
+                "Color": {
+                  "Color3uint8": [
+                    43,
+                    38,
+                    38
+                  ]
+                },
+                "Material": "SmoothPlastic",
+                "Size": [
+                  0.14000000059604645,
+                  1.4299999475479126,
+                  0.14000000059604645
+                ],
+                "CFrame": [
+                  -69.88200378417969,
+                  11.694999694824219,
+                  -10.317999839782715,
+                  1.0,
+                  0.0,
+                  0.0,
+                  0.0,
+                  1.0,
+                  0.0,
+                  0.0,
+                  0.0,
+                  1.0
+                ],
+                "CanCollide": false
+              }
+            },
+            {
+              "name": "Bar",
+              "className": "Part",
+              "properties": {
+                "SerializedOverrides": {
+                  "BinaryString": ""
+                },
+                "Anchored": true,
+                "Color": {
+                  "Color3uint8": [
+                    43,
+                    38,
+                    38
+                  ]
+                },
+                "Material": "SmoothPlastic",
+                "Size": [
+                  0.14000000059604645,
+                  1.4299999475479126,
+                  0.14000000059604645
+                ],
+                "CFrame": [
+                  -69.88200378417969,
+                  11.694999694824219,
+                  -9.121999740600586,
+                  1.0,
+                  0.0,
+                  0.0,
+                  0.0,
+                  1.0,
+                  0.0,
+                  0.0,
+                  0.0,
+                  1.0
+                ],
+                "CanCollide": false
+              }
+            },
+            {
+              "name": "Base",
+              "className": "Part",
+              "properties": {
+                "SerializedOverrides": {
+                  "BinaryString": ""
+                },
+                "Anchored": true,
+                "Color": {
+                  "Color3uint8": [
+                    43,
+                    38,
+                    38
+                  ]
+                },
+                "Material": "SmoothPlastic",
+                "Size": [
+                  1.559999942779541,
+                  0.23999999463558197,
+                  1.559999942779541
+                ],
+                "CFrame": [
+                  -70.4800033569336,
+                  10.859999656677246,
+                  -9.720000267028809,
+                  1.0,
+                  0.0,
+                  0.0,
+                  0.0,
+                  1.0,
+                  0.0,
+                  0.0,
+                  0.0,
+                  1.0
+                ],
+                "CanCollide": false
+              }
+            }
+          ],
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            }
+          }
+        }
+      ],
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        }
+      }
+    },
+    {
+      "name": "Crate",
+      "className": "Model",
+      "children": [
+        {
+          "name": "Body",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                154,
+                105,
+                63
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              2.9760000705718994,
+              2.9760000705718994,
+              2.9760000705718994
+            ],
+            "CFrame": [
+              -72.5,
+              1.600000023841858,
+              8.5,
+              0.5735800266265869,
+              0.0,
+              0.8191499710083008,
+              0.0,
+              1.0,
+              0.0,
+              -0.8191499710083008,
+              0.0,
+              0.5735800266265869
+            ]
+          }
+        },
+        {
+          "name": "Trim",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                113,
+                71,
+                41
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              0.41600000858306885,
+              3.200000047683716,
+              0.41600000858306885
+            ],
+            "CFrame": [
+              -72.84200286865234,
+              1.600000023841858,
+              6.560999870300293,
+              0.5735800266265869,
+              0.0,
+              0.8191499710083008,
+              0.0,
+              1.0,
+              0.0,
+              -0.8191499710083008,
+              0.0,
+              0.5735800266265869
+            ]
+          }
+        },
+        {
+          "name": "Trim",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                113,
+                71,
+                41
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              0.41600000858306885,
+              3.200000047683716,
+              0.41600000858306885
+            ],
+            "CFrame": [
+              -74.43900299072266,
+              1.600000023841858,
+              8.842000007629395,
+              0.5735800266265869,
+              0.0,
+              0.8191499710083008,
+              0.0,
+              1.0,
+              0.0,
+              -0.8191499710083008,
+              0.0,
+              0.5735800266265869
+            ]
+          }
+        },
+        {
+          "name": "Trim",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                113,
+                71,
+                41
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              0.41600000858306885,
+              3.200000047683716,
+              0.41600000858306885
+            ],
+            "CFrame": [
+              -72.15799713134766,
+              1.600000023841858,
+              10.439000129699707,
+              0.5735800266265869,
+              0.0,
+              0.8191499710083008,
+              0.0,
+              1.0,
+              0.0,
+              -0.8191499710083008,
+              0.0,
+              0.5735800266265869
+            ]
+          }
+        },
+        {
+          "name": "Trim",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                113,
+                71,
+                41
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              0.41600000858306885,
+              0.41600000858306885,
+              3.200000047683716
+            ],
+            "CFrame": [
+              -71.7020034790039,
+              0.20800000429153442,
+              7.360000133514404,
+              0.5735800266265869,
+              0.0,
+              0.8191499710083008,
+              0.0,
+              1.0,
+              0.0,
+              -0.8191499710083008,
+              0.0,
+              0.5735800266265869
+            ]
+          }
+        },
+        {
+          "name": "Trim",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                113,
+                71,
+                41
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              3.200000047683716,
+              0.41600000858306885,
+              0.41600000858306885
+            ],
+            "CFrame": [
+              -71.36000061035156,
+              2.992000102996826,
+              9.29800033569336,
+              0.5735800266265869,
+              0.0,
+              0.8191499710083008,
+              0.0,
+              1.0,
+              0.0,
+              -0.8191499710083008,
+              0.0,
+              0.5735800266265869
+            ]
+          }
+        },
+        {
+          "name": "Trim",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                113,
+                71,
+                41
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              0.41600000858306885,
+              0.41600000858306885,
+              3.200000047683716
+            ],
+            "CFrame": [
+              -73.2979965209961,
+              0.20800000429153442,
+              9.640000343322754,
+              0.5735800266265869,
+              0.0,
+              0.8191499710083008,
+              0.0,
+              1.0,
+              0.0,
+              -0.8191499710083008,
+              0.0,
+              0.5735800266265869
+            ]
+          }
+        },
+        {
+          "name": "Trim",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                113,
+                71,
+                41
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              0.41600000858306885,
+              0.41600000858306885,
+              3.200000047683716
+            ],
+            "CFrame": [
+              -73.2979965209961,
+              2.992000102996826,
+              9.640000343322754,
+              0.5735800266265869,
+              0.0,
+              0.8191499710083008,
+              0.0,
+              1.0,
+              0.0,
+              -0.8191499710083008,
+              0.0,
+              0.5735800266265869
+            ]
+          }
+        },
+        {
+          "name": "Trim",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                113,
+                71,
+                41
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              0.41600000858306885,
+              3.200000047683716,
+              0.41600000858306885
+            ],
+            "CFrame": [
+              -70.56099700927734,
+              1.600000023841858,
+              8.157999992370605,
+              0.5735800266265869,
+              0.0,
+              0.8191499710083008,
+              0.0,
+              1.0,
+              0.0,
+              -0.8191499710083008,
+              0.0,
+              0.5735800266265869
+            ]
+          }
+        },
+        {
+          "name": "Trim",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                113,
+                71,
+                41
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              0.41600000858306885,
+              0.41600000858306885,
+              3.200000047683716
+            ],
+            "CFrame": [
+              -71.7020034790039,
+              2.992000102996826,
+              7.360000133514404,
+              0.5735800266265869,
+              0.0,
+              0.8191499710083008,
+              0.0,
+              1.0,
+              0.0,
+              -0.8191499710083008,
+              0.0,
+              0.5735800266265869
+            ]
+          }
+        },
+        {
+          "name": "Trim",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                113,
+                71,
+                41
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              3.200000047683716,
+              0.41600000858306885,
+              0.41600000858306885
+            ],
+            "CFrame": [
+              -73.63999938964844,
+              0.20800000429153442,
+              7.702000141143799,
+              0.5735800266265869,
+              0.0,
+              0.8191499710083008,
+              0.0,
+              1.0,
+              0.0,
+              -0.8191499710083008,
+              0.0,
+              0.5735800266265869
+            ]
+          }
+        },
+        {
+          "name": "Trim",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                113,
+                71,
+                41
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              3.200000047683716,
+              0.41600000858306885,
+              0.41600000858306885
+            ],
+            "CFrame": [
+              -71.36000061035156,
+              0.20800000429153442,
+              9.29800033569336,
+              0.5735800266265869,
+              0.0,
+              0.8191499710083008,
+              0.0,
+              1.0,
+              0.0,
+              -0.8191499710083008,
+              0.0,
+              0.5735800266265869
+            ]
+          }
+        },
+        {
+          "name": "Trim",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                113,
+                71,
+                41
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              3.200000047683716,
+              0.41600000858306885,
+              0.41600000858306885
+            ],
+            "CFrame": [
+              -73.63999938964844,
+              2.992000102996826,
+              7.702000141143799,
+              0.5735800266265869,
+              0.0,
+              0.8191499710083008,
+              0.0,
+              1.0,
+              0.0,
+              -0.8191499710083008,
+              0.0,
+              0.5735800266265869
+            ]
+          }
+        },
+        {
+          "name": "Brace",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                113,
+                71,
+                41
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              0.20800000429153442,
+              3.8399999141693115,
+              0.3330000042915344
+            ],
+            "CFrame": [
+              -73.36299896240234,
+              1.600000023841858,
+              9.732000350952148,
+              0.5735800266265869,
+              -0.579230010509491,
+              0.579230010509491,
+              0.0,
+              0.7071099877357483,
+              0.7071099877357483,
+              -0.8191499710083008,
+              -0.4055800139904022,
+              0.4055800139904022
+            ]
+          }
+        },
+        {
+          "name": "Brace",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                113,
+                71,
+                41
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              0.20800000429153442,
+              3.8399999141693115,
+              0.3330000042915344
+            ],
+            "CFrame": [
+              -71.63700103759766,
+              1.600000023841858,
+              7.26800012588501,
+              0.5735800266265869,
+              0.579230010509491,
+              0.579230010509491,
+              0.0,
+              0.7071099877357483,
+              -0.7071099877357483,
+              -0.8191499710083008,
+              0.4055800139904022,
+              0.4055800139904022
+            ]
+          }
+        },
+        {
+          "name": "Brace",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                113,
+                71,
+                41
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              0.3330000042915344,
+              3.8399999141693115,
+              0.20800000429153442
+            ],
+            "CFrame": [
+              -73.73200225830078,
+              1.600000023841858,
+              7.63700008392334,
+              0.4055800139904022,
+              0.4055800139904022,
+              0.8191499710083008,
+              -0.7071099877357483,
+              0.7071099877357483,
+              0.0,
+              -0.579230010509491,
+              -0.579230010509491,
+              0.5735800266265869
+            ]
+          }
+        },
+        {
+          "name": "Brace",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                113,
+                71,
+                41
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              0.3330000042915344,
+              3.8399999141693115,
+              0.20800000429153442
+            ],
+            "CFrame": [
+              -71.26799774169922,
+              1.600000023841858,
+              9.36299991607666,
+              0.4055800139904022,
+              -0.4055800139904022,
+              0.8191499710083008,
+              0.7071099877357483,
+              0.7071099877357483,
+              0.0,
+              -0.579230010509491,
+              0.579230010509491,
+              0.5735800266265869
+            ]
+          }
+        }
+      ],
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        }
+      }
+    },
+    {
+      "name": "Crate",
+      "className": "Model",
+      "children": [
+        {
+          "name": "Body",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                157,
+                109,
+                66
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              4.2779998779296875,
+              4.2779998779296875,
+              4.2779998779296875
+            ],
+            "CFrame": [
+              -33.0,
+              2.299999952316284,
+              39.0,
+              0.9659299850463867,
+              0.0,
+              -0.2588199973106384,
+              0.0,
+              1.0,
+              0.0,
+              0.2588199973106384,
+              0.0,
+              0.9659299850463867
+            ]
+          }
+        },
+        {
+          "name": "Trim",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                119,
+                77,
+                45
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              4.599999904632568,
+              0.5979999899864197,
+              0.5979999899864197
+            ],
+            "CFrame": [
+              -33.518001556396484,
+              4.301000118255615,
+              40.93299865722656,
+              0.9659299850463867,
+              0.0,
+              -0.2588199973106384,
+              0.0,
+              1.0,
+              0.0,
+              0.2588199973106384,
+              0.0,
+              0.9659299850463867
+            ]
+          }
+        },
+        {
+          "name": "Trim",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                119,
+                77,
+                45
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              0.5979999899864197,
+              4.599999904632568,
+              0.5979999899864197
+            ],
+            "CFrame": [
+              -34.415000915527344,
+              2.299999952316284,
+              36.54899978637695,
+              0.9659299850463867,
+              0.0,
+              -0.2588199973106384,
+              0.0,
+              1.0,
+              0.0,
+              0.2588199973106384,
+              0.0,
+              0.9659299850463867
+            ]
+          }
+        },
+        {
+          "name": "Trim",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                119,
+                77,
+                45
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              0.5979999899864197,
+              0.5979999899864197,
+              4.599999904632568
+            ],
+            "CFrame": [
+              -34.93299865722656,
+              0.29899999499320984,
+              38.481998443603516,
+              0.9659299850463867,
+              0.0,
+              -0.2588199973106384,
+              0.0,
+              1.0,
+              0.0,
+              0.2588199973106384,
+              0.0,
+              0.9659299850463867
+            ]
+          }
+        },
+        {
+          "name": "Trim",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                119,
+                77,
+                45
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              4.599999904632568,
+              0.5979999899864197,
+              0.5979999899864197
+            ],
+            "CFrame": [
+              -33.518001556396484,
+              0.29899999499320984,
+              40.93299865722656,
+              0.9659299850463867,
+              0.0,
+              -0.2588199973106384,
+              0.0,
+              1.0,
+              0.0,
+              0.2588199973106384,
+              0.0,
+              0.9659299850463867
+            ]
+          }
+        },
+        {
+          "name": "Trim",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                119,
+                77,
+                45
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              0.5979999899864197,
+              4.599999904632568,
+              0.5979999899864197
+            ],
+            "CFrame": [
+              -31.584999084472656,
+              2.299999952316284,
+              41.45100021362305,
+              0.9659299850463867,
+              0.0,
+              -0.2588199973106384,
+              0.0,
+              1.0,
+              0.0,
+              0.2588199973106384,
+              0.0,
+              0.9659299850463867
+            ]
+          }
+        },
+        {
+          "name": "Trim",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                119,
+                77,
+                45
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              0.5979999899864197,
+              4.599999904632568,
+              0.5979999899864197
+            ],
+            "CFrame": [
+              -30.548999786376953,
+              2.299999952316284,
+              37.584999084472656,
+              0.9659299850463867,
+              0.0,
+              -0.2588199973106384,
+              0.0,
+              1.0,
+              0.0,
+              0.2588199973106384,
+              0.0,
+              0.9659299850463867
+            ]
+          }
+        },
+        {
+          "name": "Trim",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                119,
+                77,
+                45
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              4.599999904632568,
+              0.5979999899864197,
+              0.5979999899864197
+            ],
+            "CFrame": [
+              -32.481998443603516,
+              0.29899999499320984,
+              37.06700134277344,
+              0.9659299850463867,
+              0.0,
+              -0.2588199973106384,
+              0.0,
+              1.0,
+              0.0,
+              0.2588199973106384,
+              0.0,
+              0.9659299850463867
+            ]
+          }
+        },
+        {
+          "name": "Trim",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                119,
+                77,
+                45
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              4.599999904632568,
+              0.5979999899864197,
+              0.5979999899864197
+            ],
+            "CFrame": [
+              -32.481998443603516,
+              4.301000118255615,
+              37.06700134277344,
+              0.9659299850463867,
+              0.0,
+              -0.2588199973106384,
+              0.0,
+              1.0,
+              0.0,
+              0.2588199973106384,
+              0.0,
+              0.9659299850463867
+            ]
+          }
+        },
+        {
+          "name": "Trim",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                119,
+                77,
+                45
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              0.5979999899864197,
+              4.599999904632568,
+              0.5979999899864197
+            ],
+            "CFrame": [
+              -35.45100021362305,
+              2.299999952316284,
+              40.415000915527344,
+              0.9659299850463867,
+              0.0,
+              -0.2588199973106384,
+              0.0,
+              1.0,
+              0.0,
+              0.2588199973106384,
+              0.0,
+              0.9659299850463867
+            ]
+          }
+        },
+        {
+          "name": "Trim",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                119,
+                77,
+                45
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              0.5979999899864197,
+              0.5979999899864197,
+              4.599999904632568
+            ],
+            "CFrame": [
+              -31.066999435424805,
+              0.29899999499320984,
+              39.518001556396484,
+              0.9659299850463867,
+              0.0,
+              -0.2588199973106384,
+              0.0,
+              1.0,
+              0.0,
+              0.2588199973106384,
+              0.0,
+              0.9659299850463867
+            ]
+          }
+        },
+        {
+          "name": "Trim",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                119,
+                77,
+                45
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              0.5979999899864197,
+              0.5979999899864197,
+              4.599999904632568
+            ],
+            "CFrame": [
+              -31.066999435424805,
+              4.301000118255615,
+              39.518001556396484,
+              0.9659299850463867,
+              0.0,
+              -0.2588199973106384,
+              0.0,
+              1.0,
+              0.0,
+              0.2588199973106384,
+              0.0,
+              0.9659299850463867
+            ]
+          }
+        },
+        {
+          "name": "Trim",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                119,
+                77,
+                45
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              0.5979999899864197,
+              0.5979999899864197,
+              4.599999904632568
+            ],
+            "CFrame": [
+              -34.93299865722656,
+              4.301000118255615,
+              38.481998443603516,
+              0.9659299850463867,
+              0.0,
+              -0.2588199973106384,
+              0.0,
+              1.0,
+              0.0,
+              0.2588199973106384,
+              0.0,
+              0.9659299850463867
+            ]
+          }
+        },
+        {
+          "name": "Brace",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                119,
+                77,
+                45
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              0.4779999852180481,
+              5.519999980926514,
+              0.29899999499320984
+            ],
+            "CFrame": [
+              -33.560001373291016,
+              2.299999952316284,
+              41.0880012512207,
+              0.6830099821090698,
+              -0.6830099821090698,
+              -0.2588199973106384,
+              0.7071099877357483,
+              0.7071099877357483,
+              0.0,
+              0.18300999701023102,
+              -0.18300999701023102,
+              0.9659299850463867
+            ]
+          }
+        },
+        {
+          "name": "Brace",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                119,
+                77,
+                45
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              0.4779999852180481,
+              5.519999980926514,
+              0.29899999499320984
+            ],
+            "CFrame": [
+              -32.439998626708984,
+              2.299999952316284,
+              36.9119987487793,
+              0.6830099821090698,
+              0.6830099821090698,
+              -0.2588199973106384,
+              -0.7071099877357483,
+              0.7071099877357483,
+              0.0,
+              0.18300999701023102,
+              0.18300999701023102,
+              0.9659299850463867
+            ]
+          }
+        },
+        {
+          "name": "Brace",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                119,
+                77,
+                45
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              0.29899999499320984,
+              5.519999980926514,
+              0.4779999852180481
+            ],
+            "CFrame": [
+              -30.91200065612793,
+              2.299999952316284,
+              39.560001373291016,
+              0.9659299850463867,
+              -0.18300999701023102,
+              -0.18300999701023102,
+              0.0,
+              0.7071099877357483,
+              -0.7071099877357483,
+              0.2588199973106384,
+              0.6830099821090698,
+              0.6830099821090698
+            ]
+          }
+        },
+        {
+          "name": "Brace",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                119,
+                77,
+                45
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              0.29899999499320984,
+              5.519999980926514,
+              0.4779999852180481
+            ],
+            "CFrame": [
+              -35.0880012512207,
+              2.299999952316284,
+              38.439998626708984,
+              0.9659299850463867,
+              0.18300999701023102,
+              -0.18300999701023102,
+              0.0,
+              0.7071099877357483,
+              0.7071099877357483,
+              0.2588199973106384,
+              -0.6830099821090698,
+              0.6830099821090698
+            ]
+          }
+        }
+      ],
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        }
+      }
+    },
+    {
+      "name": "Crate",
+      "className": "Model",
+      "children": [
+        {
+          "name": "Body",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                158,
+                108,
+                67
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              4.650000095367432,
+              4.650000095367432,
+              4.650000095367432
+            ],
+            "CFrame": [
+              -78.0,
+              2.5,
+              5.0,
+              0.9396899938583374,
+              0.0,
+              0.3420200049877167,
+              0.0,
+              1.0,
+              0.0,
+              -0.3420200049877167,
+              0.0,
+              0.9396899938583374
+            ]
+          }
+        },
+        {
+          "name": "Trim",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                115,
+                72,
+                43
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              0.6499999761581421,
+              5.0,
+              0.6499999761581421
+            ],
+            "CFrame": [
+              -76.69999694824219,
+              2.5,
+              2.2119998931884766,
+              0.9396899938583374,
+              0.0,
+              0.3420200049877167,
+              0.0,
+              1.0,
+              0.0,
+              -0.3420200049877167,
+              0.0,
+              0.9396899938583374
+            ]
+          }
+        },
+        {
+          "name": "Trim",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                115,
+                72,
+                43
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              0.6499999761581421,
+              0.6499999761581421,
+              5.0
+            ],
+            "CFrame": [
+              -80.04399871826172,
+              0.32499998807907104,
+              5.74399995803833,
+              0.9396899938583374,
+              0.0,
+              0.3420200049877167,
+              0.0,
+              1.0,
+              0.0,
+              -0.3420200049877167,
+              0.0,
+              0.9396899938583374
+            ]
+          }
+        },
+        {
+          "name": "Trim",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                115,
+                72,
+                43
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              0.6499999761581421,
+              5.0,
+              0.6499999761581421
+            ],
+            "CFrame": [
+              -75.21199798583984,
+              2.5,
+              6.300000190734863,
+              0.9396899938583374,
+              0.0,
+              0.3420200049877167,
+              0.0,
+              1.0,
+              0.0,
+              -0.3420200049877167,
+              0.0,
+              0.9396899938583374
+            ]
+          }
+        },
+        {
+          "name": "Trim",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                115,
+                72,
+                43
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              0.6499999761581421,
+              5.0,
+              0.6499999761581421
+            ],
+            "CFrame": [
+              -79.30000305175781,
+              2.5,
+              7.788000106811523,
+              0.9396899938583374,
+              0.0,
+              0.3420200049877167,
+              0.0,
+              1.0,
+              0.0,
+              -0.3420200049877167,
+              0.0,
+              0.9396899938583374
+            ]
+          }
+        },
+        {
+          "name": "Trim",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                115,
+                72,
+                43
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              5.0,
+              0.6499999761581421,
+              0.6499999761581421
+            ],
+            "CFrame": [
+              -78.74400329589844,
+              0.32499998807907104,
+              2.9560000896453857,
+              0.9396899938583374,
+              0.0,
+              0.3420200049877167,
+              0.0,
+              1.0,
+              0.0,
+              -0.3420200049877167,
+              0.0,
+              0.9396899938583374
+            ]
+          }
+        },
+        {
+          "name": "Trim",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                115,
+                72,
+                43
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              5.0,
+              0.6499999761581421,
+              0.6499999761581421
+            ],
+            "CFrame": [
+              -77.25599670410156,
+              0.32499998807907104,
+              7.044000148773193,
+              0.9396899938583374,
+              0.0,
+              0.3420200049877167,
+              0.0,
+              1.0,
+              0.0,
+              -0.3420200049877167,
+              0.0,
+              0.9396899938583374
+            ]
+          }
+        },
+        {
+          "name": "Trim",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                115,
+                72,
+                43
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              5.0,
+              0.6499999761581421,
+              0.6499999761581421
+            ],
+            "CFrame": [
+              -78.74400329589844,
+              4.675000190734863,
+              2.9560000896453857,
+              0.9396899938583374,
+              0.0,
+              0.3420200049877167,
+              0.0,
+              1.0,
+              0.0,
+              -0.3420200049877167,
+              0.0,
+              0.9396899938583374
+            ]
+          }
+        },
+        {
+          "name": "Trim",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                115,
+                72,
+                43
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              5.0,
+              0.6499999761581421,
+              0.6499999761581421
+            ],
+            "CFrame": [
+              -77.25599670410156,
+              4.675000190734863,
+              7.044000148773193,
+              0.9396899938583374,
+              0.0,
+              0.3420200049877167,
+              0.0,
+              1.0,
+              0.0,
+              -0.3420200049877167,
+              0.0,
+              0.9396899938583374
+            ]
+          }
+        },
+        {
+          "name": "Trim",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                115,
+                72,
+                43
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              0.6499999761581421,
+              0.6499999761581421,
+              5.0
+            ],
+            "CFrame": [
+              -80.04399871826172,
+              4.675000190734863,
+              5.74399995803833,
+              0.9396899938583374,
+              0.0,
+              0.3420200049877167,
+              0.0,
+              1.0,
+              0.0,
+              -0.3420200049877167,
+              0.0,
+              0.9396899938583374
+            ]
+          }
+        },
+        {
+          "name": "Trim",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                115,
+                72,
+                43
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              0.6499999761581421,
+              5.0,
+              0.6499999761581421
+            ],
+            "CFrame": [
+              -80.78800201416016,
+              2.5,
+              3.700000047683716,
+              0.9396899938583374,
+              0.0,
+              0.3420200049877167,
+              0.0,
+              1.0,
+              0.0,
+              -0.3420200049877167,
+              0.0,
+              0.9396899938583374
+            ]
+          }
+        },
+        {
+          "name": "Trim",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                115,
+                72,
+                43
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              0.6499999761581421,
+              0.6499999761581421,
+              5.0
+            ],
+            "CFrame": [
+              -75.95600128173828,
+              4.675000190734863,
+              4.25600004196167,
+              0.9396899938583374,
+              0.0,
+              0.3420200049877167,
+              0.0,
+              1.0,
+              0.0,
+              -0.3420200049877167,
+              0.0,
+              0.9396899938583374
+            ]
+          }
+        },
+        {
+          "name": "Trim",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                115,
+                72,
+                43
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              0.6499999761581421,
+              0.6499999761581421,
+              5.0
+            ],
+            "CFrame": [
+              -75.95600128173828,
+              0.32499998807907104,
+              4.25600004196167,
+              0.9396899938583374,
+              0.0,
+              0.3420200049877167,
+              0.0,
+              1.0,
+              0.0,
+              -0.3420200049877167,
+              0.0,
+              0.9396899938583374
+            ]
+          }
+        },
+        {
+          "name": "Brace",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                115,
+                72,
+                43
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              0.32499998807907104,
+              6.0,
+              0.5199999809265137
+            ],
+            "CFrame": [
+              -75.79199981689453,
+              2.5,
+              4.196000099182129,
+              0.9396923184394836,
+              0.24184398353099823,
+              0.24184660613536835,
+              0.0,
+              0.7071106433868408,
+              -0.7071029543876648,
+              -0.3420208692550659,
+              0.6644592881202698,
+              0.6644665002822876
+            ]
+          }
+        },
+        {
+          "name": "Brace",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                115,
+                72,
+                43
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              0.32499998807907104,
+              6.0,
+              0.5199999809265137
+            ],
+            "CFrame": [
+              -80.20800018310547,
+              2.5,
+              5.803999900817871,
+              0.9396923184394836,
+              -0.24184398353099823,
+              0.24184660613536835,
+              0.0,
+              0.7071106433868408,
+              0.7071029543876648,
+              -0.3420208692550659,
+              -0.6644592881202698,
+              0.6644665002822876
+            ]
+          }
+        },
+        {
+          "name": "Brace",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                115,
+                72,
+                43
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              0.5199999809265137,
+              6.0,
+              0.32499998807907104
+            ],
+            "CFrame": [
+              -77.19599914550781,
+              2.5,
+              7.208000183105469,
+              0.6644606590270996,
+              -0.6644678711891174,
+              0.3420155942440033,
+              0.7071106433868408,
+              0.7071029543876648,
+              -3.069552598211622e-11,
+              -0.24184022843837738,
+              0.2418428510427475,
+              0.939694344997406
+            ]
+          }
+        },
+        {
+          "name": "Brace",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                115,
+                72,
+                43
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              0.5199999809265137,
+              6.0,
+              0.32499998807907104
+            ],
+            "CFrame": [
+              -78.80400085449219,
+              2.5,
+              2.7920000553131104,
+              0.6644606590270996,
+              0.6644678711891174,
+              0.3420155942440033,
+              -0.7071106433868408,
+              0.7071029543876648,
+              3.069552598211622e-11,
+              -0.24184022843837738,
+              -0.2418428510427475,
+              0.939694344997406
+            ]
+          }
+        }
+      ],
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        }
+      }
+    },
+    {
+      "name": "Cactus",
+      "className": "Model",
+      "children": [
+        {
+          "name": "Trunk",
+          "className": "Part",
+          "properties": {
+            "Shape": "Cylinder",
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                58,
+                139,
+                66
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              5.599999904632568,
+              1.600000023841858,
+              1.600000023841858
+            ],
+            "CFrame": [
+              -93.0,
+              2.200000047683716,
+              41.0,
+              0.0,
+              -1.0,
+              0.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          }
+        },
+        {
+          "name": "Arm",
+          "className": "Part",
+          "properties": {
+            "Shape": "Cylinder",
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                58,
+                139,
+                66
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              2.0,
+              1.1519999504089355,
+              1.1519999504089355
+            ],
+            "CFrame": [
+              -93.91400146484375,
+              1.6039999723434448,
+              41.404998779296875,
+              -0.9142900109291077,
+              0.0,
+              -0.40505000948905945,
+              0.0,
+              1.0,
+              0.0,
+              0.40505000948905945,
+              0.0,
+              -0.9142900109291077
+            ]
+          }
+        },
+        {
+          "name": "Top",
+          "className": "Part",
+          "properties": {
+            "Shape": "Ball",
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                58,
+                139,
+                66
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              1.1519999504089355,
+              1.1519999504089355,
+              1.1519999504089355
+            ],
+            "CFrame": [
+              -94.8290023803711,
+              3.436000108718872,
+              41.810001373291016,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          }
+        },
+        {
+          "name": "Elbow",
+          "className": "Part",
+          "properties": {
+            "Shape": "Ball",
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                58,
+                139,
+                66
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              1.1519999504089355,
+              1.1519999504089355,
+              1.1519999504089355
+            ],
+            "CFrame": [
+              -94.8290023803711,
+              1.6039999723434448,
+              41.810001373291016,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          }
+        },
+        {
+          "name": "Arm",
+          "className": "Part",
+          "properties": {
+            "Shape": "Cylinder",
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                58,
+                139,
+                66
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              1.8320000171661377,
+              1.1519999504089355,
+              1.1519999504089355
+            ],
+            "CFrame": [
+              -94.8290023803711,
+              2.5199999809265137,
+              41.810001373291016,
+              0.0,
+              -1.0,
+              0.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          }
+        },
+        {
+          "name": "Top",
+          "className": "Part",
+          "properties": {
+            "Shape": "Ball",
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                58,
+                139,
+                66
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              1.600000023841858,
+              1.600000023841858,
+              1.600000023841858
+            ],
+            "CFrame": [
+              -93.0,
+              5.0,
+              41.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          }
+        }
+      ],
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        }
+      }
+    },
+    {
+      "name": "Cactus",
+      "className": "Model",
+      "children": [
+        {
+          "name": "Trunk",
+          "className": "Part",
+          "properties": {
+            "Shape": "Cylinder",
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                57,
+                139,
+                66
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              9.600000381469727,
+              2.200000047683716,
+              2.200000047683716
+            ],
+            "CFrame": [
+              -96.0,
+              11.199999809265137,
+              18.0,
+              0.0,
+              -1.0,
+              0.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          }
+        },
+        {
+          "name": "Top",
+          "className": "Part",
+          "properties": {
+            "Shape": "Ball",
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                57,
+                139,
+                66
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              1.5839999914169312,
+              1.5839999914169312,
+              1.5839999914169312
+            ],
+            "CFrame": [
+              -93.6989974975586,
+              14.022000312805176,
+              19.506999969482422,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          }
+        },
+        {
+          "name": "Arm",
+          "className": "Part",
+          "properties": {
+            "Shape": "Cylinder",
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                57,
+                139,
+                66
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              2.75,
+              1.5839999914169312,
+              1.5839999914169312
+            ],
+            "CFrame": [
+              -94.8499984741211,
+              10.550000190734863,
+              18.753000259399414,
+              0.8365899920463562,
+              0.0,
+              -0.5478299856185913,
+              0.0,
+              1.0,
+              0.0,
+              0.5478299856185913,
+              0.0,
+              0.8365899920463562
+            ]
+          }
+        },
+        {
+          "name": "Elbow",
+          "className": "Part",
+          "properties": {
+            "Shape": "Ball",
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                57,
+                139,
+                66
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              1.5839999914169312,
+              1.5839999914169312,
+              1.5839999914169312
+            ],
+            "CFrame": [
+              -93.6989974975586,
+              10.550000190734863,
+              19.506999969482422,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          }
+        },
+        {
+          "name": "Arm",
+          "className": "Part",
+          "properties": {
+            "Shape": "Cylinder",
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                57,
+                139,
+                66
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              2.888000011444092,
+              1.5839999914169312,
+              1.5839999914169312
+            ],
+            "CFrame": [
+              -98.427001953125,
+              12.5,
+              16.70599937438965,
+              0.0,
+              -1.0,
+              0.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          }
+        },
+        {
+          "name": "Top",
+          "className": "Part",
+          "properties": {
+            "Shape": "Ball",
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                57,
+                139,
+                66
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              1.5839999914169312,
+              1.5839999914169312,
+              1.5839999914169312
+            ],
+            "CFrame": [
+              -98.427001953125,
+              13.944000244140625,
+              16.70599937438965,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          }
+        },
+        {
+          "name": "Arm",
+          "className": "Part",
+          "properties": {
+            "Shape": "Cylinder",
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                57,
+                139,
+                66
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              3.4719998836517334,
+              1.5839999914169312,
+              1.5839999914169312
+            ],
+            "CFrame": [
+              -93.6989974975586,
+              12.28600025177002,
+              19.506999969482422,
+              0.0,
+              -1.0,
+              0.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          }
+        },
+        {
+          "name": "Elbow",
+          "className": "Part",
+          "properties": {
+            "Shape": "Ball",
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                57,
+                139,
+                66
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              1.5839999914169312,
+              1.5839999914169312,
+              1.5839999914169312
+            ],
+            "CFrame": [
+              -98.427001953125,
+              11.055999755859375,
+              16.70599937438965,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          }
+        },
+        {
+          "name": "Arm",
+          "className": "Part",
+          "properties": {
+            "Shape": "Cylinder",
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                57,
+                139,
+                66
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              2.75,
+              1.5839999914169312,
+              1.5839999914169312
+            ],
+            "CFrame": [
+              -97.21299743652344,
+              11.055999755859375,
+              17.35300064086914,
+              -0.8823999762535095,
+              0.0,
+              0.4704900085926056,
+              0.0,
+              1.0,
+              0.0,
+              -0.4704900085926056,
+              0.0,
+              -0.8823999762535095
+            ]
+          }
+        },
+        {
+          "name": "Top",
+          "className": "Part",
+          "properties": {
+            "Shape": "Ball",
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                57,
+                139,
+                66
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              2.200000047683716,
+              2.200000047683716,
+              2.200000047683716
+            ],
+            "CFrame": [
+              -96.0,
+              16.0,
+              18.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          }
+        }
+      ],
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        }
+      }
+    },
+    {
+      "name": "Cactus",
+      "className": "Model",
+      "children": [
+        {
+          "name": "Trunk",
+          "className": "Part",
+          "properties": {
+            "Shape": "Cylinder",
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                60,
+                142,
+                69
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              11.100000381469727,
+              2.4000000953674316,
+              2.4000000953674316
+            ],
+            "CFrame": [
+              -46.0,
+              4.949999809265137,
+              5.0,
+              0.0,
+              -1.0,
+              0.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          }
+        },
+        {
+          "name": "Top",
+          "className": "Part",
+          "properties": {
+            "Shape": "Ball",
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                60,
+                142,
+                69
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              2.4000000953674316,
+              2.4000000953674316,
+              2.4000000953674316
+            ],
+            "CFrame": [
+              -46.0,
+              10.5,
+              5.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          }
+        },
+        {
+          "name": "Arm",
+          "className": "Part",
+          "properties": {
+            "Shape": "Cylinder",
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                60,
+                142,
+                69
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              3.0,
+              1.7280000448226929,
+              1.7280000448226929
+            ],
+            "CFrame": [
+              -47.25899887084961,
+              4.568999767303467,
+              5.815000057220459,
+              -0.8393999934196472,
+              0.0,
+              -0.5435100197792053,
+              0.0,
+              1.0,
+              0.0,
+              0.5435100197792053,
+              0.0,
+              -0.8393999934196472
+            ]
+          }
+        },
+        {
+          "name": "Elbow",
+          "className": "Part",
+          "properties": {
+            "Shape": "Ball",
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                60,
+                142,
+                69
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              1.7280000448226929,
+              1.7280000448226929,
+              1.7280000448226929
+            ],
+            "CFrame": [
+              -43.40999984741211,
+              4.638000011444092,
+              3.486999988555908,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          }
+        },
+        {
+          "name": "Arm",
+          "className": "Part",
+          "properties": {
+            "Shape": "Cylinder",
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                60,
+                142,
+                69
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              3.0,
+              1.7280000448226929,
+              1.7280000448226929
+            ],
+            "CFrame": [
+              -44.70500183105469,
+              4.638000011444092,
+              4.243000030517578,
+              0.8634450435638428,
+              0.0,
+              0.5044429302215576,
+              0.0,
+              1.0,
+              0.0,
+              -0.5044429302215576,
+              0.0,
+              0.8634450435638428
+            ]
+          }
+        },
+        {
+          "name": "Top",
+          "className": "Part",
+          "properties": {
+            "Shape": "Ball",
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                60,
+                142,
+                69
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              1.7280000448226929,
+              1.7280000448226929,
+              1.7280000448226929
+            ],
+            "CFrame": [
+              -48.518001556396484,
+              8.67199993133545,
+              6.63100004196167,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          }
+        },
+        {
+          "name": "Arm",
+          "className": "Part",
+          "properties": {
+            "Shape": "Cylinder",
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                60,
+                142,
+                69
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              4.298999786376953,
+              1.7280000448226929,
+              1.7280000448226929
+            ],
+            "CFrame": [
+              -43.40999984741211,
+              6.788000106811523,
+              3.486999988555908,
+              0.0,
+              -1.0,
+              0.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          }
+        },
+        {
+          "name": "Elbow",
+          "className": "Part",
+          "properties": {
+            "Shape": "Ball",
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                60,
+                142,
+                69
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              1.7280000448226929,
+              1.7280000448226929,
+              1.7280000448226929
+            ],
+            "CFrame": [
+              -48.518001556396484,
+              4.568999767303467,
+              6.63100004196167,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          }
+        },
+        {
+          "name": "Arm",
+          "className": "Part",
+          "properties": {
+            "Shape": "Cylinder",
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                60,
+                142,
+                69
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              4.103000164031982,
+              1.7280000448226929,
+              1.7280000448226929
+            ],
+            "CFrame": [
+              -48.518001556396484,
+              6.620999813079834,
+              6.63100004196167,
+              0.0,
+              -1.0,
+              0.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          }
+        },
+        {
+          "name": "Top",
+          "className": "Part",
+          "properties": {
+            "Shape": "Ball",
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                60,
+                142,
+                69
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              1.7280000448226929,
+              1.7280000448226929,
+              1.7280000448226929
+            ],
+            "CFrame": [
+              -43.40999984741211,
+              8.937999725341797,
+              3.486999988555908,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          }
+        }
+      ],
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        }
+      }
+    },
+    {
+      "name": "Cactus",
+      "className": "Model",
+      "children": [
+        {
+          "name": "Trunk",
+          "className": "Part",
+          "properties": {
+            "Shape": "Cylinder",
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                64,
+                148,
+                72
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              10.100000381469727,
+              2.299999952316284,
+              2.299999952316284
+            ],
+            "CFrame": [
+              -68.0,
+              4.449999809265137,
+              42.0,
+              0.0,
+              -1.0,
+              0.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          }
+        },
+        {
+          "name": "Top",
+          "className": "Part",
+          "properties": {
+            "Shape": "Ball",
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                64,
+                148,
+                72
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              2.299999952316284,
+              2.299999952316284,
+              2.299999952316284
+            ],
+            "CFrame": [
+              -68.0,
+              9.5,
+              42.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          }
+        },
+        {
+          "name": "Arm",
+          "className": "Part",
+          "properties": {
+            "Shape": "Cylinder",
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                64,
+                148,
+                72
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              2.875,
+              1.656000018119812,
+              1.656000018119812
+            ],
+            "CFrame": [
+              -68.96299743652344,
+              3.434999942779541,
+              40.93299865722656,
+              -0.6697800159454346,
+              0.0,
+              0.7425600290298462,
+              0.0,
+              1.0,
+              0.0,
+              -0.7425600290298462,
+              0.0,
+              -0.6697800159454346
+            ]
+          }
+        },
+        {
+          "name": "Elbow",
+          "className": "Part",
+          "properties": {
+            "Shape": "Ball",
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                64,
+                148,
+                72
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              1.656000018119812,
+              1.656000018119812,
+              1.656000018119812
+            ],
+            "CFrame": [
+              -69.9260025024414,
+              3.434999942779541,
+              39.8650016784668,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          }
+        },
+        {
+          "name": "Arm",
+          "className": "Part",
+          "properties": {
+            "Shape": "Cylinder",
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                64,
+                148,
+                72
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              3.4489998817443848,
+              1.656000018119812,
+              1.656000018119812
+            ],
+            "CFrame": [
+              -69.9260025024414,
+              5.159999847412109,
+              39.8650016784668,
+              0.0,
+              -1.0,
+              0.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          }
+        },
+        {
+          "name": "Top",
+          "className": "Part",
+          "properties": {
+            "Shape": "Ball",
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                64,
+                148,
+                72
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              1.656000018119812,
+              1.656000018119812,
+              1.656000018119812
+            ],
+            "CFrame": [
+              -69.9260025024414,
+              6.883999824523926,
+              39.8650016784668,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          }
+        },
+        {
+          "name": "Top",
+          "className": "Part",
+          "properties": {
+            "Shape": "Ball",
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                64,
+                148,
+                72
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              1.656000018119812,
+              1.656000018119812,
+              1.656000018119812
+            ],
+            "CFrame": [
+              -65.25299835205078,
+              6.751999855041504,
+              42.847999572753906,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          }
+        },
+        {
+          "name": "Elbow",
+          "className": "Part",
+          "properties": {
+            "Shape": "Ball",
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                64,
+                148,
+                72
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              1.656000018119812,
+              1.656000018119812,
+              1.656000018119812
+            ],
+            "CFrame": [
+              -65.25299835205078,
+              3.509999990463257,
+              42.847999572753906,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          }
+        },
+        {
+          "name": "Arm",
+          "className": "Part",
+          "properties": {
+            "Shape": "Cylinder",
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                64,
+                148,
+                72
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              2.875,
+              1.656000018119812,
+              1.656000018119812
+            ],
+            "CFrame": [
+              -66.6259994506836,
+              3.509999990463257,
+              42.42399978637695,
+              0.9555500149726868,
+              0.0,
+              -0.294840008020401,
+              0.0,
+              1.0,
+              0.0,
+              0.294840008020401,
+              0.0,
+              0.9555500149726868
+            ]
+          }
+        },
+        {
+          "name": "Arm",
+          "className": "Part",
+          "properties": {
+            "Shape": "Cylinder",
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                64,
+                148,
+                72
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              3.242000102996826,
+              1.656000018119812,
+              1.656000018119812
+            ],
+            "CFrame": [
+              -65.25299835205078,
+              5.13100004196167,
+              42.847999572753906,
+              0.0,
+              -1.0,
+              0.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          }
+        }
+      ],
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        }
+      }
+    }
+  ],
+  "properties": {
+    "SerializedOverrides": {
+      "BinaryString": ""
+    }
+  }
+}

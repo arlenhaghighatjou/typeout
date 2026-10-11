@@ -1,1 +1,195 @@
-{"ClassName":"Folder","Children":[{"Name":"Floor","ClassName":"Part","Properties":{"Anchored":true,"Size":[9.4,0.42,14.0],"CFrame":{"CFrame":{"position":[12.0,-0.09,-57.5],"orientation":[[1.0,0.0,0.0],[0.0,1.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.3,0.25,0.24],"Material":"SmoothPlastic"}},{"Name":"Back","ClassName":"Part","Properties":{"Anchored":true,"Size":[9.6,11.2,1.0],"CFrame":{"CFrame":{"position":[12.0,5.6,-64.6],"orientation":[[1.0,0.0,0.0],[0.0,1.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.09,0.08,0.11],"Material":"SmoothPlastic"}},{"Name":"Shadow","ClassName":"Part","Properties":{"Anchored":true,"Size":[0.3,11.2,13.0],"CFrame":{"CFrame":{"position":[7.28,5.6,-58.0],"orientation":[[1.0,0.0,0.0],[0.0,1.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.09,0.08,0.11],"Material":"SmoothPlastic"}},{"Name":"Shadow","ClassName":"Part","Properties":{"Anchored":true,"Size":[0.3,11.2,13.0],"CFrame":{"CFrame":{"position":[16.72,5.6,-58.0],"orientation":[[1.0,0.0,0.0],[0.0,1.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.09,0.08,0.11],"Material":"SmoothPlastic"}},{"Name":"Shadow","ClassName":"Part","Properties":{"Anchored":true,"Size":[9.4,0.3,13.0],"CFrame":{"CFrame":{"position":[12.0,10.95,-58.0],"orientation":[[1.0,0.0,0.0],[0.0,1.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.09,0.08,0.11],"Material":"SmoothPlastic"}}]}
+{
+  "className": "Folder",
+  "children": [
+    {
+      "name": "Floor",
+      "className": "Part",
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "Anchored": true,
+        "Color": {
+          "Color3uint8": [
+            76,
+            63,
+            61
+          ]
+        },
+        "Material": "SmoothPlastic",
+        "Size": [
+          9.399999618530273,
+          0.41999998688697815,
+          14.0
+        ],
+        "CFrame": [
+          12.0,
+          -0.09000000357627869,
+          -57.5,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      }
+    },
+    {
+      "name": "Back",
+      "className": "Part",
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "Anchored": true,
+        "Color": {
+          "Color3uint8": [
+            22,
+            20,
+            28
+          ]
+        },
+        "Material": "SmoothPlastic",
+        "Size": [
+          9.600000381469727,
+          11.199999809265137,
+          1.0
+        ],
+        "CFrame": [
+          12.0,
+          5.599999904632568,
+          -64.5999984741211,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      }
+    },
+    {
+      "name": "Shadow",
+      "className": "Part",
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "Anchored": true,
+        "Color": {
+          "Color3uint8": [
+            22,
+            20,
+            28
+          ]
+        },
+        "Material": "SmoothPlastic",
+        "Size": [
+          0.30000001192092896,
+          11.199999809265137,
+          13.0
+        ],
+        "CFrame": [
+          7.28000020980835,
+          5.599999904632568,
+          -58.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      }
+    },
+    {
+      "name": "Shadow",
+      "className": "Part",
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "Anchored": true,
+        "Color": {
+          "Color3uint8": [
+            22,
+            20,
+            28
+          ]
+        },
+        "Material": "SmoothPlastic",
+        "Size": [
+          0.30000001192092896,
+          11.199999809265137,
+          13.0
+        ],
+        "CFrame": [
+          16.719999313354492,
+          5.599999904632568,
+          -58.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      }
+    },
+    {
+      "name": "Shadow",
+      "className": "Part",
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "Anchored": true,
+        "Color": {
+          "Color3uint8": [
+            22,
+            20,
+            28
+          ]
+        },
+        "Material": "SmoothPlastic",
+        "Size": [
+          9.399999618530273,
+          0.30000001192092896,
+          13.0
+        ],
+        "CFrame": [
+          12.0,
+          10.949999809265137,
+          -58.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      }
+    }
+  ],
+  "properties": {
+    "SerializedOverrides": {
+      "BinaryString": ""
+    }
+  }
+}

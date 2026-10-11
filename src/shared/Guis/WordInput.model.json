@@ -1,0 +1,191 @@
+{
+  "className": "ScreenGui",
+  "children": [
+    {
+      "name": "Backdrop",
+      "className": "TextButton",
+      "properties": {
+        "Modal": true,
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "BackgroundTransparency": 1.0,
+        "Text": "",
+        "Size": {
+          "UDim2": [
+            [
+              1.0,
+              0
+            ],
+            [
+              1.0,
+              0
+            ]
+          ]
+        },
+        "AutoButtonColor": false
+      }
+    },
+    {
+      "name": "Box",
+      "className": "Frame",
+      "children": [
+        {
+          "name": "UICorner",
+          "className": "UICorner",
+          "properties": {
+            "BottomRightRadius": {
+              "UDim": [
+                0.0,
+                10
+              ]
+            },
+            "TopRightRadius": {
+              "UDim": [
+                0.0,
+                10
+              ]
+            },
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "BottomLeftRadius": {
+              "UDim": [
+                0.0,
+                10
+              ]
+            },
+            "TopLeftRadius": {
+              "UDim": [
+                0.0,
+                10
+              ]
+            }
+          }
+        },
+        {
+          "name": "UIStroke",
+          "className": "UIStroke",
+          "properties": {
+            "Color": [
+              0.8159999847412109,
+              0.8270000219345093,
+              0.8709999918937683
+            ],
+            "Thickness": 5.0,
+            "SerializedOverrides": {
+              "BinaryString": ""
+            }
+          }
+        },
+        {
+          "name": "Word",
+          "className": "TextBox",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "BackgroundTransparency": 1.0,
+            "PlaceholderColor3": [
+              0.6669999957084656,
+              0.6779999732971191,
+              0.722000002861023
+            ],
+            "PlaceholderText": "type the word",
+            "Text": "",
+            "ClearTextOnFocus": false,
+            "TextColor3": [
+              0.10999999940395355,
+              0.10999999940395355,
+              0.1289999932050705
+            ],
+            "Size": {
+              "UDim2": [
+                [
+                  1.0,
+                  -40
+                ],
+                [
+                  1.0,
+                  -30
+                ]
+              ]
+            },
+            "FontFace": {
+              "family": "rbxasset://fonts/families/GothamSSm.json",
+              "weight": "Bold",
+              "style": "Normal",
+              "cachedFaceId": "rbxasset://fonts/Montserrat-Bold.ttf"
+            },
+            "Position": {
+              "UDim2": [
+                [
+                  0.5,
+                  0
+                ],
+                [
+                  0.5,
+                  0
+                ]
+              ]
+            },
+            "TextSize": 40.0,
+            "AnchorPoint": [
+              0.5,
+              0.5
+            ]
+          }
+        }
+      ],
+      "properties": {
+        "BorderSizePixel": 0.0,
+        "Position": {
+          "UDim2": [
+            [
+              0.5,
+              0
+            ],
+            [
+              0.5,
+              0
+            ]
+          ]
+        },
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "Active": true,
+        "BackgroundColor3": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "Size": {
+          "UDim2": [
+            [
+              0.0,
+              400
+            ],
+            [
+              0.0,
+              100
+            ]
+          ]
+        },
+        "AnchorPoint": [
+          0.5,
+          0.5
+        ]
+      }
+    }
+  ],
+  "properties": {
+    "DisplayOrder": 10.0,
+    "ResetOnSpawn": false,
+    "SerializedOverrides": {
+      "BinaryString": ""
+    },
+    "ScreenInsets": "DeviceSafeInsets",
+    "Enabled": false
+  }
+}

@@ -1,1 +1,370 @@
-{"ClassName":"Folder","Children":[{"Name":"Spawn","ClassName":"SpawnLocation","Properties":{"Anchored":true,"Size":[8.0,1.0,8.0],"CFrame":{"CFrame":{"position":[-60.0,0.5,22.0],"orientation":[[1.0,0.0,0.0],[0.0,1.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.5,0.5,0.5],"Material":"SmoothPlastic","Transparency":1.0,"CanCollide":false,"CastShadow":false}},{"Name":"Spawn","ClassName":"SpawnLocation","Properties":{"Anchored":true,"Size":[8.0,1.0,8.0],"CFrame":{"CFrame":{"position":[0.0,0.5,-17.0],"orientation":[[1.0,0.0,0.0],[0.0,1.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.5,0.5,0.5],"Material":"SmoothPlastic","Transparency":1.0,"CanCollide":false,"CastShadow":false}},{"Name":"Spawn","ClassName":"SpawnLocation","Properties":{"Anchored":true,"Size":[8.0,1.0,8.0],"CFrame":{"CFrame":{"position":[84.0,0.5,26.0],"orientation":[[1.0,0.0,0.0],[0.0,1.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.5,0.5,0.5],"Material":"SmoothPlastic","Transparency":1.0,"CanCollide":false,"CastShadow":false}}]}
+{
+  "className": "Folder",
+  "children": [
+    {
+      "name": "Spawn",
+      "className": "SpawnLocation",
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "Anchored": true,
+        "Color": {
+          "Color3uint8": [
+            127,
+            127,
+            127
+          ]
+        },
+        "Material": "SmoothPlastic",
+        "Transparency": 1.0,
+        "Size": [
+          8.0,
+          1.0,
+          8.0
+        ],
+        "CFrame": [
+          -60.0,
+          0.5,
+          22.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "CanCollide": false,
+        "CastShadow": false
+      }
+    },
+    {
+      "name": "Spawn",
+      "className": "SpawnLocation",
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "Anchored": true,
+        "Color": {
+          "Color3uint8": [
+            127,
+            127,
+            127
+          ]
+        },
+        "Material": "SmoothPlastic",
+        "Transparency": 1.0,
+        "Size": [
+          8.0,
+          1.0,
+          8.0
+        ],
+        "CFrame": [
+          0.0,
+          0.5,
+          -17.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "CanCollide": false,
+        "CastShadow": false
+      }
+    },
+    {
+      "name": "Spawn",
+      "className": "SpawnLocation",
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "Anchored": true,
+        "Color": {
+          "Color3uint8": [
+            127,
+            127,
+            127
+          ]
+        },
+        "Material": "SmoothPlastic",
+        "Transparency": 1.0,
+        "Size": [
+          8.0,
+          1.0,
+          8.0
+        ],
+        "CFrame": [
+          84.0,
+          0.5,
+          26.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "CanCollide": false,
+        "CastShadow": false
+      }
+    },
+    {
+      "name": "Spawn",
+      "className": "SpawnLocation",
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "Anchored": true,
+        "Color": {
+          "Color3uint8": [
+            127,
+            127,
+            127
+          ]
+        },
+        "Material": "SmoothPlastic",
+        "Transparency": 1.0,
+        "Size": [
+          8.0,
+          1.0,
+          8.0
+        ],
+        "CFrame": [
+          -46.0,
+          0.5,
+          64.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "CanCollide": false,
+        "CastShadow": false
+      }
+    },
+    {
+      "name": "Spawn",
+      "className": "SpawnLocation",
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "Anchored": true,
+        "Color": {
+          "Color3uint8": [
+            127,
+            127,
+            127
+          ]
+        },
+        "Material": "SmoothPlastic",
+        "Transparency": 1.0,
+        "Size": [
+          8.0,
+          1.0,
+          8.0
+        ],
+        "CFrame": [
+          -80.0,
+          0.5,
+          -74.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "CanCollide": false,
+        "CastShadow": false
+      }
+    },
+    {
+      "name": "Spawn",
+      "className": "SpawnLocation",
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "Anchored": true,
+        "Color": {
+          "Color3uint8": [
+            127,
+            127,
+            127
+          ]
+        },
+        "Material": "SmoothPlastic",
+        "Transparency": 1.0,
+        "Size": [
+          8.0,
+          1.0,
+          8.0
+        ],
+        "CFrame": [
+          44.0,
+          0.5,
+          -92.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "CanCollide": false,
+        "CastShadow": false
+      }
+    },
+    {
+      "name": "Spawn",
+      "className": "SpawnLocation",
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "Anchored": true,
+        "Color": {
+          "Color3uint8": [
+            127,
+            127,
+            127
+          ]
+        },
+        "Material": "SmoothPlastic",
+        "Transparency": 1.0,
+        "Size": [
+          8.0,
+          1.0,
+          8.0
+        ],
+        "CFrame": [
+          112.0,
+          0.5,
+          64.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "CanCollide": false,
+        "CastShadow": false
+      }
+    },
+    {
+      "name": "Spawn",
+      "className": "SpawnLocation",
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "Anchored": true,
+        "Color": {
+          "Color3uint8": [
+            127,
+            127,
+            127
+          ]
+        },
+        "Material": "SmoothPlastic",
+        "Transparency": 1.0,
+        "Size": [
+          8.0,
+          1.0,
+          8.0
+        ],
+        "CFrame": [
+          70.0,
+          0.5,
+          78.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "CanCollide": false,
+        "CastShadow": false
+      }
+    },
+    {
+      "name": "Spawn",
+      "className": "SpawnLocation",
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "Anchored": true,
+        "Color": {
+          "Color3uint8": [
+            127,
+            127,
+            127
+          ]
+        },
+        "Material": "SmoothPlastic",
+        "Transparency": 1.0,
+        "Size": [
+          8.0,
+          1.0,
+          8.0
+        ],
+        "CFrame": [
+          -122.0,
+          0.5,
+          8.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "CanCollide": false,
+        "CastShadow": false
+      }
+    }
+  ],
+  "properties": {
+    "SerializedOverrides": {
+      "BinaryString": ""
+    }
+  }
+}

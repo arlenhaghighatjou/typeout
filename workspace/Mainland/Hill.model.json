@@ -1,1 +1,4224 @@
-{"ClassName":"Folder","Children":[{"Name":"Lower","ClassName":"Folder","Children":[{"Name":"Rock","ClassName":"Part","Properties":{"Anchored":true,"Size":[6.917,8.411,7.464],"CFrame":{"CFrame":{"position":[33.481,2.706,-63.554],"orientation":[[-0.99938,0.0,0.03522],[0.0,1.0,0.0],[-0.03522,0.0,-0.99938]]}},"Color":[0.505,0.492,0.575],"Material":"SmoothPlastic"}},{"Name":"Rock","ClassName":"Part","Properties":{"Anchored":true,"Size":[7.069,8.436,6.555],"CFrame":{"CFrame":{"position":[33.325,2.718,-59.068],"orientation":[[-0.11492,0.0,-0.99337],[0.0,1.0,0.0],[0.99337,0.0,-0.11492]]}},"Color":[0.399,0.399,0.501],"Material":"SmoothPlastic"}},{"Name":"Rock","ClassName":"Part","Properties":{"Anchored":true,"Size":[6.863,8.368,6.812],"CFrame":{"CFrame":{"position":[32.727,2.684,-54.0],"orientation":[[0.22068,0.0,-0.97535],[0.0,1.0,0.0],[0.97535,0.0,0.22068]]}},"Color":[0.545,0.528,0.615],"Material":"SmoothPlastic"}},{"Name":"Rock","ClassName":"Part","Properties":{"Anchored":true,"Size":[7.689,8.263,7.798],"CFrame":{"CFrame":{"position":[33.434,2.631,-48.704],"orientation":[[0.42269,0.0,-0.90627],[0.0,1.0,0.0],[0.90627,0.0,0.42269]]}},"Color":[0.665,0.669,0.723],"Material":"SmoothPlastic"}},{"Name":"Rock","ClassName":"Part","Properties":{"Anchored":true,"Size":[6.576,8.399,7.222],"CFrame":{"CFrame":{"position":[32.972,2.699,-43.393],"orientation":[[0.13876,0.0,-0.99033],[0.0,1.0,0.0],[0.99033,0.0,0.13876]]}},"Color":[0.664,0.667,0.738],"Material":"SmoothPlastic"}},{"Name":"Rock","ClassName":"Part","Properties":{"Anchored":true,"Size":[7.673,8.102,7.239],"CFrame":{"CFrame":{"position":[38.051,2.551,-64.036],"orientation":[[-0.64558,0.0,0.76369],[0.0,1.0,0.0],[-0.76369,0.0,-0.64558]]}},"Color":[0.436,0.427,0.537],"Material":"SmoothPlastic"}},{"Name":"Rock","ClassName":"Part","Properties":{"Anchored":true,"Size":[6.26,8.41,7.189],"CFrame":{"CFrame":{"position":[37.79,2.705,-58.808],"orientation":[[-0.95713,0.0,0.28965],[0.0,1.0,0.0],[-0.28965,0.0,-0.95713]]}},"Color":[0.661,0.651,0.702],"Material":"SmoothPlastic"}},{"Name":"Rock","ClassName":"Part","Properties":{"Anchored":true,"Size":[7.87,8.116,7.959],"CFrame":{"CFrame":{"position":[37.525,2.558,-38.792],"orientation":[[0.3245,0.0,-0.94589],[0.0,1.0,0.0],[0.94589,0.0,0.3245]]}},"Color":[0.535,0.529,0.617],"Material":"SmoothPlastic"}},{"Name":"Rock","ClassName":"Part","Properties":{"Anchored":true,"Size":[7.27,8.375,6.877],"CFrame":{"CFrame":{"position":[38.498,2.688,-33.717],"orientation":[[0.65753,0.0,-0.75343],[0.0,1.0,0.0],[0.75343,0.0,0.65753]]}},"Color":[0.664,0.678,0.725],"Material":"SmoothPlastic"}},{"Name":"Rock","ClassName":"Part","Properties":{"Anchored":true,"Size":[6.3,8.265,6.648],"CFrame":{"CFrame":{"position":[43.022,2.632,-58.336],"orientation":[[-0.53559,0.0,0.84448],[0.0,1.0,0.0],[-0.84448,0.0,-0.53559]]}},"Color":[0.522,0.532,0.612],"Material":"SmoothPlastic"}},{"Name":"Rock","ClassName":"Part","Properties":{"Anchored":true,"Size":[6.438,8.434,6.538],"CFrame":{"CFrame":{"position":[43.178,2.717,-54.147],"orientation":[[-0.48921,0.0,0.87217],[0.0,1.0,0.0],[-0.87217,0.0,-0.48921]]}},"Color":[0.605,0.617,0.672],"Material":"SmoothPlastic"}},{"Name":"Rock","ClassName":"Part","Properties":{"Anchored":true,"Size":[6.883,8.223,7.3],"CFrame":{"CFrame":{"position":[43.46,2.611,-29.145],"orientation":[[0.73975,0.0,-0.67288],[0.0,1.0,0.0],[0.67288,0.0,0.73975]]}},"Color":[0.632,0.632,0.701],"Material":"SmoothPlastic"}},{"Name":"Rock","ClassName":"Part","Properties":{"Anchored":true,"Size":[6.505,8.35,7.488],"CFrame":{"CFrame":{"position":[47.669,2.675,-53.521],"orientation":[[-0.5405,0.0,0.84134],[0.0,1.0,0.0],[-0.84134,0.0,-0.5405]]}},"Color":[0.655,0.66,0.71],"Material":"SmoothPlastic"}},{"Name":"Rock","ClassName":"Part","Properties":{"Anchored":true,"Size":[6.951,8.215,7.628],"CFrame":{"CFrame":{"position":[47.61,2.607,-48.985],"orientation":[[-0.23139,0.0,0.97286],[0.0,1.0,0.0],[-0.97286,0.0,-0.23139]]}},"Color":[0.513,0.518,0.606],"Material":"SmoothPlastic"}},{"Name":"Rock","ClassName":"Part","Properties":{"Anchored":true,"Size":[6.55,8.382,6.708],"CFrame":{"CFrame":{"position":[47.787,2.691,-43.806],"orientation":[[-0.2447,0.0,0.9696],[0.0,1.0,0.0],[-0.9696,0.0,-0.2447]]}},"Color":[0.626,0.627,0.684],"Material":"SmoothPlastic"}},{"Name":"Rock","ClassName":"Part","Properties":{"Anchored":true,"Size":[6.428,8.179,7.405],"CFrame":{"CFrame":{"position":[48.289,2.589,-38.792],"orientation":[[0.20126,0.0,0.97954],[0.0,1.0,0.0],[-0.97954,0.0,0.20126]]}},"Color":[0.409,0.418,0.501],"Material":"SmoothPlastic"}},{"Name":"Rock","ClassName":"Part","Properties":{"Anchored":true,"Size":[6.386,8.35,6.5],"CFrame":{"CFrame":{"position":[47.802,2.675,-33.329],"orientation":[[0.27565,0.0,0.96126],[0.0,1.0,0.0],[-0.96126,0.0,0.27565]]}},"Color":[0.559,0.55,0.643],"Material":"SmoothPlastic"}},{"Name":"Rock","ClassName":"Part","Properties":{"Anchored":true,"Size":[6.988,8.166,6.287],"CFrame":{"CFrame":{"position":[48.078,2.583,-29.182],"orientation":[[0.88947,0.0,0.45699],[0.0,1.0,0.0],[-0.45699,0.0,0.88947]]}},"Color":[0.499,0.5,0.581],"Material":"SmoothPlastic"}},{"Name":"Rock","ClassName":"Part","Properties":{"Anchored":true,"Size":[5.0,8.5,20.0],"CFrame":{"CFrame":{"position":[33.0,2.75,-56.25],"orientation":[[1.0,0.0,0.0],[0.0,1.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.53,0.53,0.61],"Material":"SmoothPlastic"}},{"Name":"Rock","ClassName":"Part","Properties":{"Anchored":true,"Size":[5.0,8.5,25.0],"CFrame":{"CFrame":{"position":[38.0,2.75,-48.75],"orientation":[[1.0,0.0,0.0],[0.0,1.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.53,0.53,0.61],"Material":"SmoothPlastic"}},{"Name":"Rock","ClassName":"Part","Properties":{"Anchored":true,"Size":[5.0,8.5,25.0],"CFrame":{"CFrame":{"position":[43.0,2.75,-43.75],"orientation":[[1.0,0.0,0.0],[0.0,1.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.53,0.53,0.61],"Material":"SmoothPlastic"}},{"Name":"Rock","ClassName":"Part","Properties":{"Anchored":true,"Size":[5.0,8.5,20.0],"CFrame":{"CFrame":{"position":[48.0,2.75,-36.25],"orientation":[[1.0,0.0,0.0],[0.0,1.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.53,0.53,0.61],"Material":"SmoothPlastic"}},{"Name":"Grass","ClassName":"Part","Properties":{"Anchored":true,"Size":[4.746,1.632,5.1],"CFrame":{"CFrame":{"position":[27.122,7.316,-69.734],"orientation":[[-0.55653,0.0,-0.83083],[0.0,1.0,0.0],[0.83083,0.0,-0.55653]]}},"Color":[0.43,0.676,0.221],"Material":"SmoothPlastic"}},{"Name":"Grass","ClassName":"Part","Properties":{"Anchored":true,"Size":[5.591,1.546,5.083],"CFrame":{"CFrame":{"position":[27.691,7.273,-65.803],"orientation":[[0.17983,0.0,-0.9837],[0.0,1.0,0.0],[0.9837,0.0,0.17983]]}},"Color":[0.49,0.751,0.265],"Material":"SmoothPlastic"}},{"Name":"Grass","ClassName":"Part","Properties":{"Anchored":true,"Size":[5.218,1.624,4.79],"CFrame":{"CFrame":{"position":[27.0,7.312,-62.477],"orientation":[[-0.10212,0.0,-0.99477],[0.0,1.0,0.0],[0.99477,0.0,-0.10212]]}},"Color":[0.434,0.702,0.213],"Material":"SmoothPlastic"}},{"Name":"Grass","ClassName":"Part","Properties":{"Anchored":true,"Size":[4.904,1.521,4.855],"CFrame":{"CFrame":{"position":[26.926,7.26,-59.124],"orientation":[[0.251,0.0,-0.96799],[0.0,1.0,0.0],[0.96799,0.0,0.251]]}},"Color":[0.474,0.733,0.248],"Material":"SmoothPlastic"}},{"Name":"Grass","ClassName":"Part","Properties":{"Anchored":true,"Size":[4.786,1.619,4.816],"CFrame":{"CFrame":{"position":[30.93,7.31,-69.034],"orientation":[[-0.97711,0.0,-0.21273],[0.0,1.0,0.0],[0.21273,0.0,-0.97711]]}},"Color":[0.411,0.668,0.208],"Material":"SmoothPlastic"}},{"Name":"Grass","ClassName":"Part","Properties":{"Anchored":true,"Size":[4.783,1.637,5.438],"CFrame":{"CFrame":{"position":[30.971,7.318,-66.032],"orientation":[[-0.78828,0.0,-0.61532],[0.0,1.0,0.0],[0.61532,0.0,-0.78828]]}},"Color":[0.425,0.666,0.211],"Material":"SmoothPlastic"}},{"Name":"Grass","ClassName":"Part","Properties":{"Anchored":true,"Size":[5.104,1.618,5.204],"CFrame":{"CFrame":{"position":[30.263,7.309,-62.374],"orientation":[[-0.20925,0.0,-0.97786],[0.0,1.0,0.0],[0.97786,0.0,-0.20925]]}},"Color":[0.431,0.684,0.229],"Material":"SmoothPlastic"}},{"Name":"Grass","ClassName":"Part","Properties":{"Anchored":true,"Size":[4.966,1.544,4.78],"CFrame":{"CFrame":{"position":[30.66,7.272,-59.234],"orientation":[[0.39776,0.0,-0.91749],[0.0,1.0,0.0],[0.91749,0.0,0.39776]]}},"Color":[0.446,0.709,0.22],"Material":"SmoothPlastic"}},{"Name":"Grass","ClassName":"Part","Properties":{"Anchored":true,"Size":[5.011,1.602,4.694],"CFrame":{"CFrame":{"position":[30.768,7.301,-55.266],"orientation":[[-0.01709,0.0,-0.99985],[0.0,1.0,0.0],[0.99985,0.0,-0.01709]]}},"Color":[0.439,0.7,0.22],"Material":"SmoothPlastic"}},{"Name":"Grass","ClassName":"Part","Properties":{"Anchored":true,"Size":[4.621,1.578,4.654],"CFrame":{"CFrame":{"position":[31.182,7.289,-51.508],"orientation":[[0.10914,0.0,-0.99403],[0.0,1.0,0.0],[0.99403,0.0,0.10914]]}},"Color":[0.436,0.677,0.226],"Material":"SmoothPlastic"}},{"Name":"Grass","ClassName":"Part","Properties":{"Anchored":true,"Size":[5.181,1.545,4.667],"CFrame":{"CFrame":{"position":[30.855,7.273,-48.603],"orientation":[[0.36989,0.0,-0.92907],[0.0,1.0,0.0],[0.92907,0.0,0.36989]]}},"Color":[0.399,0.605,0.189],"Material":"SmoothPlastic"}},{"Name":"Grass","ClassName":"Part","Properties":{"Anchored":true,"Size":[4.572,1.547,5.453],"CFrame":{"CFrame":{"position":[30.453,7.274,-45.049],"orientation":[[-0.06056,0.0,-0.99816],[0.0,1.0,0.0],[0.99816,0.0,-0.06056]]}},"Color":[0.452,0.701,0.215],"Material":"SmoothPlastic"}},{"Name":"Grass","ClassName":"Part","Properties":{"Anchored":true,"Size":[4.994,1.537,5.18],"CFrame":{"CFrame":{"position":[30.314,7.268,-41.357],"orientation":[[0.12597,0.0,-0.99203],[0.0,1.0,0.0],[0.99203,0.0,0.12597]]}},"Color":[0.464,0.719,0.236],"Material":"SmoothPlastic"}},{"Name":"Grass","ClassName":"Part","Properties":{"Anchored":true,"Size":[5.19,1.547,5.221],"CFrame":{"CFrame":{"position":[34.025,7.274,-65.977],"orientation":[[-0.84449,0.0,0.53557],[0.0,1.0,0.0],[-0.53557,0.0,-0.84449]]}},"Color":[0.426,0.67,0.215],"Material":"SmoothPlastic"}},{"Name":"Grass","ClassName":"Part","Properties":{"Anchored":true,"Size":[5.3,1.567,4.722],"CFrame":{"CFrame":{"position":[34.217,7.284,-41.444],"orientation":[[0.3154,0.0,-0.94896],[0.0,1.0,0.0],[0.94896,0.0,0.3154]]}},"Color":[0.375,0.595,0.188],"Material":"SmoothPlastic"}},{"Name":"Grass","ClassName":"Part","Properties":{"Anchored":true,"Size":[5.182,1.636,5.413],"CFrame":{"CFrame":{"position":[34.265,7.318,-38.487],"orientation":[[0.61246,0.0,-0.7905],[0.0,1.0,0.0],[0.7905,0.0,0.61246]]}},"Color":[0.468,0.727,0.239],"Material":"SmoothPlastic"}},{"Name":"Grass","ClassName":"Part","Properties":{"Anchored":true,"Size":[5.275,1.587,4.561],"CFrame":{"CFrame":{"position":[33.888,7.294,-34.496],"orientation":[[0.38019,0.0,-0.92491],[0.0,1.0,0.0],[0.92491,0.0,0.38019]]}},"Color":[0.464,0.706,0.248],"Material":"SmoothPlastic"}},{"Name":"Grass","ClassName":"Part","Properties":{"Anchored":true,"Size":[5.012,1.606,4.809],"CFrame":{"CFrame":{"position":[37.956,7.303,-65.868],"orientation":[[-0.88835,0.0,0.45916],[0.0,1.0,0.0],[-0.45916,0.0,-0.88835]]}},"Color":[0.471,0.726,0.251],"Material":"SmoothPlastic"}},{"Name":"Grass","ClassName":"Part","Properties":{"Anchored":true,"Size":[4.939,1.559,4.916],"CFrame":{"CFrame":{"position":[38.078,7.28,-62.346],"orientation":[[-0.61867,0.0,0.78565],[0.0,1.0,0.0],[-0.78565,0.0,-0.61867]]}},"Color":[0.399,0.61,0.195],"Material":"SmoothPlastic"}},{"Name":"Grass","ClassName":"Part","Properties":{"Anchored":true,"Size":[5.155,1.572,4.643],"CFrame":{"CFrame":{"position":[37.952,7.286,-30.541],"orientation":[[0.43236,0.0,-0.9017],[0.0,1.0,0.0],[0.9017,0.0,0.43236]]}},"Color":[0.376,0.585,0.188],"Material":"SmoothPlastic"}},{"Name":"Grass","ClassName":"Part","Properties":{"Anchored":true,"Size":[4.685,1.552,5.456],"CFrame":{"CFrame":{"position":[41.503,7.276,-62.348],"orientation":[[-0.87457,0.0,0.48489],[0.0,1.0,0.0],[-0.48489,0.0,-0.87457]]}},"Color":[0.423,0.656,0.217],"Material":"SmoothPlastic"}},{"Name":"Grass","ClassName":"Part","Properties":{"Anchored":true,"Size":[5.066,1.533,5.161],"CFrame":{"CFrame":{"position":[41.24,7.267,-27.787],"orientation":[[0.69365,0.0,-0.72031],[0.0,1.0,0.0],[0.72031,0.0,0.69365]]}},"Color":[0.393,0.621,0.204],"Material":"SmoothPlastic"}},{"Name":"Grass","ClassName":"Part","Properties":{"Anchored":true,"Size":[4.649,1.616,5.027],"CFrame":{"CFrame":{"position":[44.579,7.308,-59.149],"orientation":[[-0.47128,0.0,0.88198],[0.0,1.0,0.0],[-0.88198,0.0,-0.47128]]}},"Color":[0.413,0.645,0.197],"Material":"SmoothPlastic"}},{"Name":"Grass","ClassName":"Part","Properties":{"Anchored":true,"Size":[4.945,1.637,5.459],"CFrame":{"CFrame":{"position":[44.835,7.318,-55.17],"orientation":[[-0.44714,0.0,0.89446],[0.0,1.0,0.0],[-0.89446,0.0,-0.44714]]}},"Color":[0.462,0.72,0.242],"Material":"SmoothPlastic"}},{"Name":"Grass","ClassName":"Part","Properties":{"Anchored":true,"Size":[5.433,1.52,5.434],"CFrame":{"CFrame":{"position":[44.394,7.26,-27.864],"orientation":[[0.88568,0.0,-0.4643],[0.0,1.0,0.0],[0.4643,0.0,0.88568]]}},"Color":[0.456,0.691,0.233],"Material":"SmoothPlastic"}},{"Name":"Grass","ClassName":"Part","Properties":{"Anchored":true,"Size":[5.219,1.557,5.337],"CFrame":{"CFrame":{"position":[44.897,7.278,-24.432],"orientation":[[0.9934,0.0,-0.11468],[0.0,1.0,0.0],[0.11468,0.0,0.9934]]}},"Color":[0.422,0.667,0.221],"Material":"SmoothPlastic"}},{"Name":"Grass","ClassName":"Part","Properties":{"Anchored":true,"Size":[4.683,1.631,4.681],"CFrame":{"CFrame":{"position":[48.625,7.316,-55.26],"orientation":[[-0.58613,0.0,0.81021],[0.0,1.0,0.0],[-0.81021,0.0,-0.58613]]}},"Color":[0.444,0.683,0.242],"Material":"SmoothPlastic"}},{"Name":"Grass","ClassName":"Part","Properties":{"Anchored":true,"Size":[5.305,1.529,4.726],"CFrame":{"CFrame":{"position":[47.917,7.265,-52.27],"orientation":[[-0.48024,0.0,0.87714],[0.0,1.0,0.0],[-0.87714,0.0,-0.48024]]}},"Color":[0.411,0.639,0.223],"Material":"SmoothPlastic"}},{"Name":"Grass","ClassName":"Part","Properties":{"Anchored":true,"Size":[4.998,1.59,5.18],"CFrame":{"CFrame":{"position":[48.12,7.295,-48.953],"orientation":[[-0.43885,0.0,0.89856],[0.0,1.0,0.0],[-0.89856,0.0,-0.43885]]}},"Color":[0.367,0.596,0.182],"Material":"SmoothPlastic"}},{"Name":"Grass","ClassName":"Part","Properties":{"Anchored":true,"Size":[5.536,1.555,4.659],"CFrame":{"CFrame":{"position":[48.488,7.277,-27.092],"orientation":[[0.93965,0.0,0.34212],[0.0,1.0,0.0],[-0.34212,0.0,0.93965]]}},"Color":[0.405,0.663,0.207],"Material":"SmoothPlastic"}},{"Name":"Grass","ClassName":"Part","Properties":{"Anchored":true,"Size":[5.38,1.58,5.436],"CFrame":{"CFrame":{"position":[48.493,7.29,-23.519],"orientation":[[0.9241,0.0,0.38215],[0.0,1.0,0.0],[-0.38215,0.0,0.9241]]}},"Color":[0.455,0.718,0.23],"Material":"SmoothPlastic"}},{"Name":"Grass","ClassName":"Part","Properties":{"Anchored":true,"Size":[5.341,1.585,4.77],"CFrame":{"CFrame":{"position":[51.39,7.293,-48.941],"orientation":[[-0.44194,0.0,0.89704],[0.0,1.0,0.0],[-0.89704,0.0,-0.44194]]}},"Color":[0.394,0.635,0.198],"Material":"SmoothPlastic"}},{"Name":"Grass","ClassName":"Part","Properties":{"Anchored":true,"Size":[5.183,1.639,4.972],"CFrame":{"CFrame":{"position":[51.318,7.319,-44.83],"orientation":[[-0.2405,0.0,0.97065],[0.0,1.0,0.0],[-0.97065,0.0,-0.2405]]}},"Color":[0.436,0.687,0.224],"Material":"SmoothPlastic"}},{"Name":"Grass","ClassName":"Part","Properties":{"Anchored":true,"Size":[4.917,1.55,4.953],"CFrame":{"CFrame":{"position":[51.946,7.275,-41.438],"orientation":[[-0.42092,0.0,0.9071],[0.0,1.0,0.0],[-0.9071,0.0,-0.42092]]}},"Color":[0.4,0.621,0.21],"Material":"SmoothPlastic"}},{"Name":"Grass","ClassName":"Part","Properties":{"Anchored":true,"Size":[4.689,1.609,5.567],"CFrame":{"CFrame":{"position":[51.645,7.304,-37.557],"orientation":[[-0.27687,0.0,0.96091],[0.0,1.0,0.0],[-0.96091,0.0,-0.27687]]}},"Color":[0.415,0.653,0.217],"Material":"SmoothPlastic"}},{"Name":"Grass","ClassName":"Part","Properties":{"Anchored":true,"Size":[5.081,1.629,4.887],"CFrame":{"CFrame":{"position":[51.395,7.314,-34.253],"orientation":[[0.2074,0.0,0.97826],[0.0,1.0,0.0],[-0.97826,0.0,0.2074]]}},"Color":[0.419,0.647,0.218],"Material":"SmoothPlastic"}},{"Name":"Grass","ClassName":"Part","Properties":{"Anchored":true,"Size":[4.693,1.64,5.008],"CFrame":{"CFrame":{"position":[51.925,7.32,-31.22],"orientation":[[0.28695,0.0,0.95795],[0.0,1.0,0.0],[-0.95795,0.0,0.28695]]}},"Color":[0.432,0.67,0.222],"Material":"SmoothPlastic"}},{"Name":"Grass","ClassName":"Part","Properties":{"Anchored":true,"Size":[4.751,1.565,5.079],"CFrame":{"CFrame":{"position":[51.319,7.283,-27.716],"orientation":[[0.60585,0.0,0.79558],[0.0,1.0,0.0],[-0.79558,0.0,0.60585]]}},"Color":[0.427,0.678,0.229],"Material":"SmoothPlastic"}},{"Name":"Grass","ClassName":"Part","Properties":{"Anchored":true,"Size":[4.0,1.5,8.0],"CFrame":{"CFrame":{"position":[29.5,7.25,-65.25],"orientation":[[1.0,0.0,0.0],[0.0,1.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.43,0.67,0.22],"Material":"SmoothPlastic"}},{"Name":"Grass","ClassName":"Part","Properties":{"Anchored":true,"Size":[14.0,1.5,14.0],"CFrame":{"CFrame":{"position":[36.5,7.25,-54.25],"orientation":[[1.0,0.0,0.0],[0.0,1.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.43,0.67,0.22],"Material":"SmoothPlastic"}},{"Name":"Grass","ClassName":"Part","Properties":{"Anchored":true,"Size":[4.0,1.5,6.0],"CFrame":{"CFrame":{"position":[33.5,7.25,-64.25],"orientation":[[1.0,0.0,0.0],[0.0,1.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.43,0.67,0.22],"Material":"SmoothPlastic"}},{"Name":"Grass","ClassName":"Part","Properties":{"Anchored":true,"Size":[20.0,1.5,8.0],"CFrame":{"CFrame":{"position":[41.5,7.25,-43.25],"orientation":[[1.0,0.0,0.0],[0.0,1.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.43,0.67,0.22],"Material":"SmoothPlastic"}},{"Name":"Grass","ClassName":"Part","Properties":{"Anchored":true,"Size":[18.0,1.5,4.0],"CFrame":{"CFrame":{"position":[42.5,7.25,-37.25],"orientation":[[1.0,0.0,0.0],[0.0,1.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.43,0.67,0.22],"Material":"SmoothPlastic"}},{"Name":"Grass","ClassName":"Part","Properties":{"Anchored":true,"Size":[4.0,1.5,4.0],"CFrame":{"CFrame":{"position":[37.5,7.25,-63.25],"orientation":[[1.0,0.0,0.0],[0.0,1.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.43,0.67,0.22],"Material":"SmoothPlastic"}},{"Name":"Grass","ClassName":"Part","Properties":{"Anchored":true,"Size":[16.0,1.5,4.0],"CFrame":{"CFrame":{"position":[43.5,7.25,-33.25],"orientation":[[1.0,0.0,0.0],[0.0,1.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.43,0.67,0.22],"Material":"SmoothPlastic"}},{"Name":"Grass","ClassName":"Part","Properties":{"Anchored":true,"Size":[14.0,1.5,2.0],"CFrame":{"CFrame":{"position":[44.5,7.25,-30.25],"orientation":[[1.0,0.0,0.0],[0.0,1.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.43,0.67,0.22],"Material":"SmoothPlastic"}},{"Name":"Grass","ClassName":"Part","Properties":{"Anchored":true,"Size":[2.0,1.5,2.0],"CFrame":{"CFrame":{"position":[40.5,7.25,-62.25],"orientation":[[1.0,0.0,0.0],[0.0,1.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.43,0.67,0.22],"Material":"SmoothPlastic"}},{"Name":"Grass","ClassName":"Part","Properties":{"Anchored":true,"Size":[12.0,1.5,2.0],"CFrame":{"CFrame":{"position":[45.5,7.25,-28.25],"orientation":[[1.0,0.0,0.0],[0.0,1.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.43,0.67,0.22],"Material":"SmoothPlastic"}},{"Name":"Grass","ClassName":"Part","Properties":{"Anchored":true,"Size":[2.0,1.5,12.0],"CFrame":{"CFrame":{"position":[44.5,7.25,-53.25],"orientation":[[1.0,0.0,0.0],[0.0,1.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.43,0.67,0.22],"Material":"SmoothPlastic"}},{"Name":"Grass","ClassName":"Part","Properties":{"Anchored":true,"Size":[6.0,1.5,2.0],"CFrame":{"CFrame":{"position":[46.5,7.25,-26.25],"orientation":[[1.0,0.0,0.0],[0.0,1.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.43,0.67,0.22],"Material":"SmoothPlastic"}},{"Name":"Grass","ClassName":"Part","Properties":{"Anchored":true,"Size":[2.0,1.5,10.0],"CFrame":{"CFrame":{"position":[46.5,7.25,-52.25],"orientation":[[1.0,0.0,0.0],[0.0,1.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.43,0.67,0.22],"Material":"SmoothPlastic"}},{"Name":"Grass","ClassName":"Part","Properties":{"Anchored":true,"Size":[2.0,1.5,6.0],"CFrame":{"CFrame":{"position":[48.5,7.25,-50.25],"orientation":[[1.0,0.0,0.0],[0.0,1.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.43,0.67,0.22],"Material":"SmoothPlastic"}},{"Name":"Grass","ClassName":"Part","Properties":{"Anchored":true,"Size":[2.0,1.5,2.0],"CFrame":{"CFrame":{"position":[50.5,7.25,-48.25],"orientation":[[1.0,0.0,0.0],[0.0,1.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.43,0.67,0.22],"Material":"SmoothPlastic"}},{"Name":"Grass","ClassName":"Part","Properties":{"Anchored":true,"Size":[2.0,1.5,4.0],"CFrame":{"CFrame":{"position":[52.5,7.25,-35.25],"orientation":[[1.0,0.0,0.0],[0.0,1.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.43,0.67,0.22],"Material":"SmoothPlastic"}}]},{"Name":"Upper","ClassName":"Folder","Children":[{"Name":"Rock","ClassName":"Part","Properties":{"Anchored":true,"Size":[7.828,6.425,7.464],"CFrame":{"CFrame":{"position":[36.909,9.713,-60.253],"orientation":[[-0.95869,0.0,0.28445],[0.0,1.0,0.0],[-0.28445,0.0,-0.95869]]}},"Color":[0.432,0.442,0.536],"Material":"SmoothPlastic"}},{"Name":"Rock","ClassName":"Part","Properties":{"Anchored":true,"Size":[7.142,6.129,7.086],"CFrame":{"CFrame":{"position":[37.572,9.565,-55.376],"orientation":[[-0.36758,0.0,-0.92999],[0.0,1.0,0.0],[0.92999,0.0,-0.36758]]}},"Color":[0.617,0.622,0.674],"Material":"SmoothPlastic"}},{"Name":"Rock","ClassName":"Part","Properties":{"Anchored":true,"Size":[6.43,6.15,6.918],"CFrame":{"CFrame":{"position":[37.337,9.575,-50.629],"orientation":[[0.71561,0.0,-0.6985],[0.0,1.0,0.0],[0.6985,0.0,0.71561]]}},"Color":[0.549,0.551,0.622],"Material":"SmoothPlastic"}},{"Name":"Rock","ClassName":"Part","Properties":{"Anchored":true,"Size":[7.032,6.492,6.653],"CFrame":{"CFrame":{"position":[42.511,9.746,-55.557],"orientation":[[-0.64395,0.0,0.76506],[0.0,1.0,0.0],[-0.76506,0.0,-0.64395]]}},"Color":[0.52,0.518,0.6],"Material":"SmoothPlastic"}},{"Name":"Rock","ClassName":"Part","Properties":{"Anchored":true,"Size":[6.897,6.499,6.507],"CFrame":{"CFrame":{"position":[42.321,9.749,-50.969],"orientation":[[0.24419,0.0,0.96973],[0.0,1.0,0.0],[-0.96973,0.0,0.24419]]}},"Color":[0.551,0.551,0.633],"Material":"SmoothPlastic"}},{"Name":"Rock","ClassName":"Part","Properties":{"Anchored":true,"Size":[6.367,6.418,6.709],"CFrame":{"CFrame":{"position":[42.153,9.709,-45.61],"orientation":[[0.97979,0.0,0.20001],[0.0,1.0,0.0],[-0.20001,0.0,0.97979]]}},"Color":[0.551,0.548,0.631],"Material":"SmoothPlastic"}},{"Name":"Rock","ClassName":"Part","Properties":{"Anchored":true,"Size":[5.0,6.5,5.0],"CFrame":{"CFrame":{"position":[37.25,9.75,-55.75],"orientation":[[1.0,0.0,0.0],[0.0,1.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.53,0.53,0.61],"Material":"SmoothPlastic"}},{"Name":"Rock","ClassName":"Part","Properties":{"Anchored":true,"Size":[5.0,6.5,5.0],"CFrame":{"CFrame":{"position":[42.25,9.75,-50.75],"orientation":[[1.0,0.0,0.0],[0.0,1.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.53,0.53,0.61],"Material":"SmoothPlastic"}},{"Name":"Grass","ClassName":"Part","Properties":{"Anchored":true,"Size":[4.662,1.588,4.733],"CFrame":{"CFrame":{"position":[31.75,13.294,-66.943],"orientation":[[-0.85038,0.0,-0.52616],[0.0,1.0,0.0],[0.52616,0.0,-0.85038]]}},"Color":[0.467,0.722,0.238],"Material":"SmoothPlastic"}},{"Name":"Grass","ClassName":"Part","Properties":{"Anchored":true,"Size":[5.363,1.543,5.173],"CFrame":{"CFrame":{"position":[31.331,13.271,-63.097],"orientation":[[-0.00532,0.0,-0.99999],[0.0,1.0,0.0],[0.99999,0.0,-0.00532]]}},"Color":[0.406,0.638,0.226],"Material":"SmoothPlastic"}},{"Name":"Grass","ClassName":"Part","Properties":{"Anchored":true,"Size":[5.069,1.615,5.065],"CFrame":{"CFrame":{"position":[31.342,13.307,-59.769],"orientation":[[0.21333,0.0,-0.97698],[0.0,1.0,0.0],[0.97698,0.0,0.21333]]}},"Color":[0.454,0.705,0.223],"Material":"SmoothPlastic"}},{"Name":"Grass","ClassName":"Part","Properties":{"Anchored":true,"Size":[5.356,1.532,4.989],"CFrame":{"CFrame":{"position":[31.54,13.266,-56.34],"orientation":[[0.07111,0.0,-0.99747],[0.0,1.0,0.0],[0.99747,0.0,0.07111]]}},"Color":[0.444,0.67,0.231],"Material":"SmoothPlastic"}},{"Name":"Grass","ClassName":"Part","Properties":{"Anchored":true,"Size":[4.957,1.543,5.544],"CFrame":{"CFrame":{"position":[35.323,13.272,-63.174],"orientation":[[-0.99209,0.0,-0.1255],[0.0,1.0,0.0],[0.1255,0.0,-0.99209]]}},"Color":[0.414,0.65,0.201],"Material":"SmoothPlastic"}},{"Name":"Grass","ClassName":"Part","Properties":{"Anchored":true,"Size":[4.664,1.536,5.447],"CFrame":{"CFrame":{"position":[34.92,13.268,-59.762],"orientation":[[-0.17137,0.0,-0.98521],[0.0,1.0,0.0],[0.98521,0.0,-0.17137]]}},"Color":[0.46,0.703,0.243],"Material":"SmoothPlastic"}},{"Name":"Grass","ClassName":"Part","Properties":{"Anchored":true,"Size":[4.656,1.57,5.195],"CFrame":{"CFrame":{"position":[35.017,13.285,-55.764],"orientation":[[0.09235,0.0,-0.99573],[0.0,1.0,0.0],[0.99573,0.0,0.09235]]}},"Color":[0.465,0.706,0.249],"Material":"SmoothPlastic"}},{"Name":"Grass","ClassName":"Part","Properties":{"Anchored":true,"Size":[5.18,1.603,4.62],"CFrame":{"CFrame":{"position":[35.407,13.302,-52.247],"orientation":[[0.62323,0.0,-0.78204],[0.0,1.0,0.0],[0.78204,0.0,0.62323]]}},"Color":[0.453,0.705,0.227],"Material":"SmoothPlastic"}},{"Name":"Grass","ClassName":"Part","Properties":{"Anchored":true,"Size":[4.644,1.598,5.175],"CFrame":{"CFrame":{"position":[35.46,13.299,-48.547],"orientation":[[0.74286,0.0,-0.66945],[0.0,1.0,0.0],[0.66945,0.0,0.74286]]}},"Color":[0.42,0.635,0.225],"Material":"SmoothPlastic"}},{"Name":"Grass","ClassName":"Part","Properties":{"Anchored":true,"Size":[4.941,1.546,5.003],"CFrame":{"CFrame":{"position":[38.841,13.273,-62.741],"orientation":[[-0.8206,0.0,0.5715],[0.0,1.0,0.0],[-0.5715,0.0,-0.8206]]}},"Color":[0.368,0.597,0.179],"Material":"SmoothPlastic"}},{"Name":"Grass","ClassName":"Part","Properties":{"Anchored":true,"Size":[4.97,1.526,5.062],"CFrame":{"CFrame":{"position":[38.645,13.263,-59.215],"orientation":[[-0.94905,0.0,0.31512],[0.0,1.0,0.0],[-0.31512,0.0,-0.94905]]}},"Color":[0.439,0.694,0.233],"Material":"SmoothPlastic"}},{"Name":"Grass","ClassName":"Part","Properties":{"Anchored":true,"Size":[5.208,1.596,5.411],"CFrame":{"CFrame":{"position":[38.759,13.298,-48.938],"orientation":[[0.52884,0.0,-0.84872],[0.0,1.0,0.0],[0.84872,0.0,0.52884]]}},"Color":[0.451,0.71,0.228],"Material":"SmoothPlastic"}},{"Name":"Grass","ClassName":"Part","Properties":{"Anchored":true,"Size":[4.758,1.545,5.0],"CFrame":{"CFrame":{"position":[38.219,13.273,-45.082],"orientation":[[0.73085,0.0,-0.68254],[0.0,1.0,0.0],[0.68254,0.0,0.73085]]}},"Color":[0.428,0.662,0.203],"Material":"SmoothPlastic"}},{"Name":"Grass","ClassName":"Part","Properties":{"Anchored":true,"Size":[4.973,1.573,4.882],"CFrame":{"CFrame":{"position":[41.534,13.287,-59.311],"orientation":[[-0.59409,0.0,0.8044],[0.0,1.0,0.0],[-0.8044,0.0,-0.59409]]}},"Color":[0.453,0.683,0.233],"Material":"SmoothPlastic"}},{"Name":"Grass","ClassName":"Part","Properties":{"Anchored":true,"Size":[4.602,1.567,5.121],"CFrame":{"CFrame":{"position":[41.601,13.284,-56.323],"orientation":[[-0.35183,0.0,0.93606],[0.0,1.0,0.0],[-0.93606,0.0,-0.35183]]}},"Color":[0.426,0.685,0.207],"Material":"SmoothPlastic"}},{"Name":"Grass","ClassName":"Part","Properties":{"Anchored":true,"Size":[5.307,1.611,4.551],"CFrame":{"CFrame":{"position":[42.036,13.305,-45.405],"orientation":[[0.98684,0.0,-0.16173],[0.0,1.0,0.0],[0.16173,0.0,0.98684]]}},"Color":[0.413,0.638,0.22],"Material":"SmoothPlastic"}},{"Name":"Grass","ClassName":"Part","Properties":{"Anchored":true,"Size":[5.315,1.525,5.072],"CFrame":{"CFrame":{"position":[45.178,13.262,-52.831],"orientation":[[-0.07883,0.0,0.99689],[0.0,1.0,0.0],[-0.99689,0.0,-0.07883]]}},"Color":[0.455,0.689,0.238],"Material":"SmoothPlastic"}},{"Name":"Grass","ClassName":"Part","Properties":{"Anchored":true,"Size":[5.577,1.546,5.174],"CFrame":{"CFrame":{"position":[45.701,13.273,-49.299],"orientation":[[0.28855,0.0,0.95747],[0.0,1.0,0.0],[-0.95747,0.0,0.28855]]}},"Color":[0.424,0.663,0.203],"Material":"SmoothPlastic"}},{"Name":"Grass","ClassName":"Part","Properties":{"Anchored":true,"Size":[5.076,1.551,4.766],"CFrame":{"CFrame":{"position":[45.267,13.275,-45.2],"orientation":[[0.46413,0.0,0.88577],[0.0,1.0,0.0],[-0.88577,0.0,0.46413]]}},"Color":[0.408,0.636,0.222],"Material":"SmoothPlastic"}},{"Name":"Grass","ClassName":"Part","Properties":{"Anchored":true,"Size":[2.0,1.5,8.0],"CFrame":{"CFrame":{"position":[32.75,13.25,-62.25],"orientation":[[1.0,0.0,0.0],[0.0,1.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.43,0.67,0.22],"Material":"SmoothPlastic"}},{"Name":"Grass","ClassName":"Part","Properties":{"Anchored":true,"Size":[2.0,1.5,12.0],"CFrame":{"CFrame":{"position":[34.75,13.25,-58.25],"orientation":[[1.0,0.0,0.0],[0.0,1.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.43,0.67,0.22],"Material":"SmoothPlastic"}},{"Name":"Grass","ClassName":"Part","Properties":{"Anchored":true,"Size":[4.0,1.5,14.0],"CFrame":{"CFrame":{"position":[37.75,13.25,-55.25],"orientation":[[1.0,0.0,0.0],[0.0,1.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.43,0.67,0.22],"Material":"SmoothPlastic"}},{"Name":"Grass","ClassName":"Part","Properties":{"Anchored":true,"Size":[8.0,1.5,2.0],"CFrame":{"CFrame":{"position":[41.75,13.25,-47.25],"orientation":[[1.0,0.0,0.0],[0.0,1.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.43,0.67,0.22],"Material":"SmoothPlastic"}},{"Name":"Grass","ClassName":"Part","Properties":{"Anchored":true,"Size":[2.0,1.5,12.0],"CFrame":{"CFrame":{"position":[40.75,13.25,-54.25],"orientation":[[1.0,0.0,0.0],[0.0,1.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.43,0.67,0.22],"Material":"SmoothPlastic"}},{"Name":"Grass","ClassName":"Part","Properties":{"Anchored":true,"Size":[2.0,1.5,10.0],"CFrame":{"CFrame":{"position":[42.75,13.25,-53.25],"orientation":[[1.0,0.0,0.0],[0.0,1.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.43,0.67,0.22],"Material":"SmoothPlastic"}},{"Name":"Grass","ClassName":"Part","Properties":{"Anchored":true,"Size":[4.0,1.5,2.0],"CFrame":{"CFrame":{"position":[43.75,13.25,-45.25],"orientation":[[1.0,0.0,0.0],[0.0,1.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.43,0.67,0.22],"Material":"SmoothPlastic"}},{"Name":"Grass","ClassName":"Part","Properties":{"Anchored":true,"Size":[2.0,1.5,6.0],"CFrame":{"CFrame":{"position":[44.75,13.25,-51.25],"orientation":[[1.0,0.0,0.0],[0.0,1.0,0.0],[0.0,0.0,1.0]]}},"Color":[0.43,0.67,0.22],"Material":"SmoothPlastic"}}]},{"Name":"Steps","ClassName":"Folder","Children":[{"Name":"Step","ClassName":"Part","Properties":{"Anchored":true,"Size":[7.0,3.8,6.0],"CFrame":{"CFrame":{"position":[40.0,0.9,-19.0],"orientation":[[0.95106,0.0,0.30902],[0.0,1.0,0.0],[-0.30902,0.0,0.95106]]}},"Color":[0.513,0.515,0.597],"Material":"SmoothPlastic"}},{"Name":"Step","ClassName":"Part","Properties":{"Anchored":true,"Size":[6.5,6.6,6.0],"CFrame":{"CFrame":{"position":[46.0,2.3,-19.5],"orientation":[[0.97815,0.0,-0.20791],[0.0,1.0,0.0],[0.20791,0.0,0.97815]]}},"Color":[0.622,0.613,0.677],"Material":"SmoothPlastic"}}]}]}
+{
+  "className": "Folder",
+  "children": [
+    {
+      "name": "Lower",
+      "className": "Folder",
+      "children": [
+        {
+          "name": "Rock",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                128,
+                125,
+                146
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              6.916999816894531,
+              8.41100025177002,
+              7.464000225067139
+            ],
+            "CFrame": [
+              33.48099899291992,
+              2.7060000896453857,
+              -63.55400085449219,
+              -0.9993799924850464,
+              0.0,
+              0.03522000089287758,
+              0.0,
+              1.0,
+              0.0,
+              -0.03522000089287758,
+              0.0,
+              -0.9993799924850464
+            ]
+          }
+        },
+        {
+          "name": "Rock",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                101,
+                101,
+                127
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              7.068999767303467,
+              8.435999870300293,
+              6.554999828338623
+            ],
+            "CFrame": [
+              33.32500076293945,
+              2.7179999351501465,
+              -59.06800079345703,
+              -0.1149199977517128,
+              0.0,
+              -0.993369996547699,
+              0.0,
+              1.0,
+              0.0,
+              0.993369996547699,
+              0.0,
+              -0.1149199977517128
+            ]
+          }
+        },
+        {
+          "name": "Rock",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                138,
+                134,
+                156
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              6.86299991607666,
+              8.368000030517578,
+              6.811999797821045
+            ],
+            "CFrame": [
+              32.72700119018555,
+              2.684000015258789,
+              -54.0,
+              0.22067999839782715,
+              0.0,
+              -0.975350022315979,
+              0.0,
+              1.0,
+              0.0,
+              0.975350022315979,
+              0.0,
+              0.22067999839782715
+            ]
+          }
+        },
+        {
+          "name": "Rock",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                169,
+                170,
+                184
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              7.689000129699707,
+              8.262999534606934,
+              7.797999858856201
+            ],
+            "CFrame": [
+              33.433998107910156,
+              2.63100004196167,
+              -48.70399856567383,
+              0.4226900041103363,
+              0.0,
+              -0.9062700271606445,
+              0.0,
+              1.0,
+              0.0,
+              0.9062700271606445,
+              0.0,
+              0.4226900041103363
+            ]
+          }
+        },
+        {
+          "name": "Rock",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                169,
+                170,
+                188
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              6.576000213623047,
+              8.39900016784668,
+              7.2220001220703125
+            ],
+            "CFrame": [
+              32.97200012207031,
+              2.6989998817443848,
+              -43.393001556396484,
+              0.13876000046730042,
+              0.0,
+              -0.9903299808502197,
+              0.0,
+              1.0,
+              0.0,
+              0.9903299808502197,
+              0.0,
+              0.13876000046730042
+            ]
+          }
+        },
+        {
+          "name": "Rock",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                111,
+                108,
+                136
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              7.672999858856201,
+              8.10200023651123,
+              7.238999843597412
+            ],
+            "CFrame": [
+              38.05099868774414,
+              2.5510001182556152,
+              -64.03600311279297,
+              -0.645579993724823,
+              0.0,
+              0.7636899948120117,
+              0.0,
+              1.0,
+              0.0,
+              -0.7636899948120117,
+              0.0,
+              -0.645579993724823
+            ]
+          }
+        },
+        {
+          "name": "Rock",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                168,
+                166,
+                179
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              6.260000228881836,
+              8.40999984741211,
+              7.189000129699707
+            ],
+            "CFrame": [
+              37.790000915527344,
+              2.7049999237060547,
+              -58.80799865722656,
+              -0.9571300148963928,
+              0.0,
+              0.28964999318122864,
+              0.0,
+              1.0,
+              0.0,
+              -0.28964999318122864,
+              0.0,
+              -0.9571300148963928
+            ]
+          }
+        },
+        {
+          "name": "Rock",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                136,
+                134,
+                157
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              7.869999885559082,
+              8.116000175476074,
+              7.959000110626221
+            ],
+            "CFrame": [
+              37.525001525878906,
+              2.558000087738037,
+              -38.79199981689453,
+              0.3244999945163727,
+              0.0,
+              -0.9458900094032288,
+              0.0,
+              1.0,
+              0.0,
+              0.9458900094032288,
+              0.0,
+              0.3244999945163727
+            ]
+          }
+        },
+        {
+          "name": "Rock",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                169,
+                172,
+                184
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              7.269999980926514,
+              8.375,
+              6.876999855041504
+            ],
+            "CFrame": [
+              38.49800109863281,
+              2.687999963760376,
+              -33.71699905395508,
+              0.6575300097465515,
+              0.0,
+              -0.7534300088882446,
+              0.0,
+              1.0,
+              0.0,
+              0.7534300088882446,
+              0.0,
+              0.6575300097465515
+            ]
+          }
+        },
+        {
+          "name": "Rock",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                133,
+                135,
+                156
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              6.300000190734863,
+              8.265000343322754,
+              6.6479997634887695
+            ],
+            "CFrame": [
+              43.02199935913086,
+              2.631999969482422,
+              -58.33599853515625,
+              -0.5355899930000305,
+              0.0,
+              0.8444799780845642,
+              0.0,
+              1.0,
+              0.0,
+              -0.8444799780845642,
+              0.0,
+              -0.5355899930000305
+            ]
+          }
+        },
+        {
+          "name": "Rock",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                154,
+                157,
+                171
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              6.438000202178955,
+              8.434000015258789,
+              6.538000106811523
+            ],
+            "CFrame": [
+              43.178001403808594,
+              2.7170000076293945,
+              -54.14699935913086,
+              -0.48921000957489014,
+              0.0,
+              0.8721699714660645,
+              0.0,
+              1.0,
+              0.0,
+              -0.8721699714660645,
+              0.0,
+              -0.48921000957489014
+            ]
+          }
+        },
+        {
+          "name": "Rock",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                161,
+                161,
+                178
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              6.882999897003174,
+              8.222999572753906,
+              7.300000190734863
+            ],
+            "CFrame": [
+              43.459999084472656,
+              2.6110000610351562,
+              -29.145000457763672,
+              0.7397500276565552,
+              0.0,
+              -0.6728799939155579,
+              0.0,
+              1.0,
+              0.0,
+              0.6728799939155579,
+              0.0,
+              0.7397500276565552
+            ]
+          }
+        },
+        {
+          "name": "Rock",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                167,
+                168,
+                181
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              6.505000114440918,
+              8.350000381469727,
+              7.48799991607666
+            ],
+            "CFrame": [
+              47.66899871826172,
+              2.674999952316284,
+              -53.520999908447266,
+              -0.5404999852180481,
+              0.0,
+              0.8413400053977966,
+              0.0,
+              1.0,
+              0.0,
+              -0.8413400053977966,
+              0.0,
+              -0.5404999852180481
+            ]
+          }
+        },
+        {
+          "name": "Rock",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                130,
+                132,
+                154
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              6.951000213623047,
+              8.21500015258789,
+              7.627999782562256
+            ],
+            "CFrame": [
+              47.61000061035156,
+              2.6070001125335693,
+              -48.98500061035156,
+              -0.23138999938964844,
+              0.0,
+              0.9728599786758423,
+              0.0,
+              1.0,
+              0.0,
+              -0.9728599786758423,
+              0.0,
+              -0.23138999938964844
+            ]
+          }
+        },
+        {
+          "name": "Rock",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                159,
+                159,
+                174
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              6.550000190734863,
+              8.381999969482422,
+              6.708000183105469
+            ],
+            "CFrame": [
+              47.7869987487793,
+              2.690999984741211,
+              -43.805999755859375,
+              -0.24469999969005585,
+              0.0,
+              0.9696000218391418,
+              0.0,
+              1.0,
+              0.0,
+              -0.9696000218391418,
+              0.0,
+              -0.24469999969005585
+            ]
+          }
+        },
+        {
+          "name": "Rock",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                104,
+                106,
+                127
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              6.427999973297119,
+              8.178999900817871,
+              7.40500020980835
+            ],
+            "CFrame": [
+              48.28900146484375,
+              2.5889999866485596,
+              -38.79199981689453,
+              0.20126000046730042,
+              0.0,
+              0.9795399904251099,
+              0.0,
+              1.0,
+              0.0,
+              -0.9795399904251099,
+              0.0,
+              0.20126000046730042
+            ]
+          }
+        },
+        {
+          "name": "Rock",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                142,
+                140,
+                163
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              6.386000156402588,
+              8.350000381469727,
+              6.5
+            ],
+            "CFrame": [
+              47.801998138427734,
+              2.674999952316284,
+              -33.32899856567383,
+              0.2756499946117401,
+              0.0,
+              0.9612600207328796,
+              0.0,
+              1.0,
+              0.0,
+              -0.9612600207328796,
+              0.0,
+              0.2756499946117401
+            ]
+          }
+        },
+        {
+          "name": "Rock",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                127,
+                127,
+                148
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              6.98799991607666,
+              8.166000366210938,
+              6.2870001792907715
+            ],
+            "CFrame": [
+              48.077999114990234,
+              2.5829999446868896,
+              -29.18199920654297,
+              0.8894699811935425,
+              0.0,
+              0.45699000358581543,
+              0.0,
+              1.0,
+              0.0,
+              -0.45699000358581543,
+              0.0,
+              0.8894699811935425
+            ]
+          }
+        },
+        {
+          "name": "Rock",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                135,
+                135,
+                155
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              5.0,
+              8.5,
+              20.0
+            ],
+            "CFrame": [
+              33.0,
+              2.75,
+              -56.25,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          }
+        },
+        {
+          "name": "Rock",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                135,
+                135,
+                155
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              5.0,
+              8.5,
+              25.0
+            ],
+            "CFrame": [
+              38.0,
+              2.75,
+              -48.75,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          }
+        },
+        {
+          "name": "Rock",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                135,
+                135,
+                155
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              5.0,
+              8.5,
+              25.0
+            ],
+            "CFrame": [
+              43.0,
+              2.75,
+              -43.75,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          }
+        },
+        {
+          "name": "Rock",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                135,
+                135,
+                155
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              5.0,
+              8.5,
+              20.0
+            ],
+            "CFrame": [
+              48.0,
+              2.75,
+              -36.25,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          }
+        },
+        {
+          "name": "Grass",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                118,
+                183,
+                60
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              4.99399995803833,
+              1.5369999408721924,
+              5.179999828338623
+            ],
+            "CFrame": [
+              30.31399917602539,
+              7.26800012588501,
+              -41.356998443603516,
+              0.1259700059890747,
+              0.0,
+              -0.9920300245285034,
+              0.0,
+              1.0,
+              0.0,
+              0.9920300245285034,
+              0.0,
+              0.1259700059890747
+            ]
+          }
+        },
+        {
+          "name": "Grass",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                101,
+                155,
+                49
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              4.939000129699707,
+              1.559000015258789,
+              4.915999889373779
+            ],
+            "CFrame": [
+              38.077999114990234,
+              7.28000020980835,
+              -62.34600067138672,
+              -0.6186699867248535,
+              0.0,
+              0.7856500148773193,
+              0.0,
+              1.0,
+              0.0,
+              -0.7856500148773193,
+              0.0,
+              -0.6186699867248535
+            ]
+          }
+        },
+        {
+          "name": "Grass",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                109,
+                170,
+                56
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              2.0,
+              1.5,
+              2.0
+            ],
+            "CFrame": [
+              40.5,
+              7.25,
+              -62.25,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          }
+        },
+        {
+          "name": "Grass",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                111,
+                175,
+                57
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              5.183000087738037,
+              1.6390000581741333,
+              4.9720001220703125
+            ],
+            "CFrame": [
+              51.31800079345703,
+              7.318999767303467,
+              -44.83000183105469,
+              -0.24050000309944153,
+              0.0,
+              0.9706500172615051,
+              0.0,
+              1.0,
+              0.0,
+              -0.9706500172615051,
+              0.0,
+              -0.24050000309944153
+            ]
+          }
+        },
+        {
+          "name": "Grass",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                109,
+                170,
+                56
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              6.0,
+              1.5,
+              2.0
+            ],
+            "CFrame": [
+              46.5,
+              7.25,
+              -26.25,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          }
+        },
+        {
+          "name": "Grass",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                100,
+                161,
+                50
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              5.341000080108643,
+              1.5850000381469727,
+              4.769999980926514
+            ],
+            "CFrame": [
+              51.38999938964844,
+              7.293000221252441,
+              -48.941001892089844,
+              -0.4419400095939636,
+              0.0,
+              0.8970400094985962,
+              0.0,
+              1.0,
+              0.0,
+              -0.8970400094985962,
+              0.0,
+              -0.4419400095939636
+            ]
+          }
+        },
+        {
+          "name": "Grass",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                109,
+                170,
+                56
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              18.0,
+              1.5,
+              4.0
+            ],
+            "CFrame": [
+              42.5,
+              7.25,
+              -37.25,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          }
+        },
+        {
+          "name": "Grass",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                109,
+                170,
+                56
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              2.0,
+              1.5,
+              6.0
+            ],
+            "CFrame": [
+              48.5,
+              7.25,
+              -50.25,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          }
+        },
+        {
+          "name": "Grass",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                104,
+                162,
+                56
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              5.304999828338623,
+              1.5290000438690186,
+              4.72599983215332
+            ],
+            "CFrame": [
+              47.91699981689453,
+              7.264999866485596,
+              -52.27000045776367,
+              -0.48023998737335205,
+              0.0,
+              0.8771399855613708,
+              0.0,
+              1.0,
+              0.0,
+              -0.8771399855613708,
+              0.0,
+              -0.48023998737335205
+            ]
+          }
+        },
+        {
+          "name": "Grass",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                107,
+                170,
+                56
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              5.218999862670898,
+              1.5570000410079956,
+              5.336999893188477
+            ],
+            "CFrame": [
+              44.89699935913086,
+              7.2779998779296875,
+              -24.43199920654297,
+              0.993399977684021,
+              0.0,
+              -0.11467999964952469,
+              0.0,
+              1.0,
+              0.0,
+              0.11467999964952469,
+              0.0,
+              0.993399977684021
+            ]
+          }
+        },
+        {
+          "name": "Grass",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                109,
+                170,
+                56
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              2.0,
+              1.5,
+              2.0
+            ],
+            "CFrame": [
+              50.5,
+              7.25,
+              -48.25,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          }
+        },
+        {
+          "name": "Grass",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                109,
+                170,
+                56
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              2.0,
+              1.5,
+              10.0
+            ],
+            "CFrame": [
+              46.5,
+              7.25,
+              -52.25,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          }
+        },
+        {
+          "name": "Grass",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                109,
+                170,
+                56
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              16.0,
+              1.5,
+              4.0
+            ],
+            "CFrame": [
+              43.5,
+              7.25,
+              -33.25,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          }
+        },
+        {
+          "name": "Grass",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                109,
+                170,
+                56
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              14.0,
+              1.5,
+              2.0
+            ],
+            "CFrame": [
+              44.5,
+              7.25,
+              -30.25,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          }
+        },
+        {
+          "name": "Grass",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                102,
+                158,
+                53
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              4.916999816894531,
+              1.5499999523162842,
+              4.953000068664551
+            ],
+            "CFrame": [
+              51.94599914550781,
+              7.275000095367432,
+              -41.4379997253418,
+              -0.4209200143814087,
+              0.0,
+              0.9071000218391418,
+              0.0,
+              1.0,
+              0.0,
+              -0.9071000218391418,
+              0.0,
+              -0.4209200143814087
+            ]
+          }
+        },
+        {
+          "name": "Grass",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                109,
+                170,
+                56
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              2.0,
+              1.5,
+              12.0
+            ],
+            "CFrame": [
+              44.5,
+              7.25,
+              -53.25,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          }
+        },
+        {
+          "name": "Grass",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                109,
+                170,
+                56
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              2.0,
+              1.5,
+              4.0
+            ],
+            "CFrame": [
+              52.5,
+              7.25,
+              -35.25,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          }
+        },
+        {
+          "name": "Grass",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                105,
+                166,
+                55
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              4.689000129699707,
+              1.6089999675750732,
+              5.566999912261963
+            ],
+            "CFrame": [
+              51.64500045776367,
+              7.303999900817871,
+              -37.55699920654297,
+              -0.2768700122833252,
+              0.0,
+              0.9609100222587585,
+              0.0,
+              1.0,
+              0.0,
+              -0.9609100222587585,
+              0.0,
+              -0.2768700122833252
+            ]
+          }
+        },
+        {
+          "name": "Grass",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                120,
+                186,
+                63
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              4.9039998054504395,
+              1.5210000276565552,
+              4.855000019073486
+            ],
+            "CFrame": [
+              26.926000595092773,
+              7.260000228881836,
+              -59.124000549316406,
+              0.25099998712539673,
+              0.0,
+              -0.967989981174469,
+              0.0,
+              1.0,
+              0.0,
+              0.967989981174469,
+              0.0,
+              0.25099998712539673
+            ]
+          }
+        },
+        {
+          "name": "Grass",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                107,
+                167,
+                55
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              4.684999942779541,
+              1.5520000457763672,
+              5.455999851226807
+            ],
+            "CFrame": [
+              41.50299835205078,
+              7.276000022888184,
+              -62.347999572753906,
+              -0.8745700120925903,
+              0.0,
+              0.48489001393318176,
+              0.0,
+              1.0,
+              0.0,
+              -0.48489001393318176,
+              0.0,
+              -0.8745700120925903
+            ]
+          }
+        },
+        {
+          "name": "Grass",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                109,
+                170,
+                56
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              4.0,
+              1.5,
+              4.0
+            ],
+            "CFrame": [
+              37.5,
+              7.25,
+              -63.25,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          }
+        },
+        {
+          "name": "Grass",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                109,
+                170,
+                56
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              12.0,
+              1.5,
+              2.0
+            ],
+            "CFrame": [
+              45.5,
+              7.25,
+              -28.25,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          }
+        },
+        {
+          "name": "Grass",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                105,
+                164,
+                50
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              4.64900016784668,
+              1.6160000562667847,
+              5.0269999504089355
+            ],
+            "CFrame": [
+              44.57899856567383,
+              7.308000087738037,
+              -59.14899826049805,
+              -0.4712800085544586,
+              0.0,
+              0.8819800019264221,
+              0.0,
+              1.0,
+              0.0,
+              -0.8819800019264221,
+              0.0,
+              -0.4712800085544586
+            ]
+          }
+        },
+        {
+          "name": "Grass",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                117,
+                183,
+                61
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              4.945000171661377,
+              1.6369999647140503,
+              5.459000110626221
+            ],
+            "CFrame": [
+              44.834999084472656,
+              7.317999839782715,
+              -55.16999816894531,
+              -0.44714000821113586,
+              0.0,
+              0.8944600224494934,
+              0.0,
+              1.0,
+              0.0,
+              -0.8944600224494934,
+              0.0,
+              -0.44714000821113586
+            ]
+          }
+        },
+        {
+          "name": "Grass",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                116,
+                176,
+                59
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              5.433000087738037,
+              1.5199999809265137,
+              5.434000015258789
+            ],
+            "CFrame": [
+              44.39400100708008,
+              7.260000228881836,
+              -27.86400032043457,
+              0.8856800198554993,
+              0.0,
+              -0.4643000066280365,
+              0.0,
+              1.0,
+              0.0,
+              0.4643000066280365,
+              0.0,
+              0.8856800198554993
+            ]
+          }
+        },
+        {
+          "name": "Grass",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                95,
+                149,
+                47
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              5.15500020980835,
+              1.5720000267028809,
+              4.64300012588501
+            ],
+            "CFrame": [
+              37.95199966430664,
+              7.285999774932861,
+              -30.541000366210938,
+              0.4323599934577942,
+              0.0,
+              -0.9017000198364258,
+              0.0,
+              1.0,
+              0.0,
+              0.9017000198364258,
+              0.0,
+              0.4323599934577942
+            ]
+          }
+        },
+        {
+          "name": "Grass",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                104,
+                170,
+                53
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              4.785999774932861,
+              1.61899995803833,
+              4.815999984741211
+            ],
+            "CFrame": [
+              30.93000030517578,
+              7.309999942779541,
+              -69.03399658203125,
+              -0.9771100282669067,
+              0.0,
+              -0.21273000538349152,
+              0.0,
+              1.0,
+              0.0,
+              0.21273000538349152,
+              0.0,
+              -0.9771100282669067
+            ]
+          }
+        },
+        {
+          "name": "Grass",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                111,
+                178,
+                56
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              5.011000156402588,
+              1.6019999980926514,
+              4.693999767303467
+            ],
+            "CFrame": [
+              30.76799964904785,
+              7.301000118255615,
+              -55.26599884033203,
+              -0.017090000212192535,
+              0.0,
+              -0.9998499751091003,
+              0.0,
+              1.0,
+              0.0,
+              0.9998499751091003,
+              0.0,
+              -0.017090000212192535
+            ]
+          }
+        },
+        {
+          "name": "Grass",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                93,
+                151,
+                46
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              4.998000144958496,
+              1.590000033378601,
+              5.179999828338623
+            ],
+            "CFrame": [
+              48.119998931884766,
+              7.295000076293945,
+              -48.952999114990234,
+              -0.4388499855995178,
+              0.0,
+              0.8985599875450134,
+              0.0,
+              1.0,
+              0.0,
+              -0.8985599875450134,
+              0.0,
+              -0.4388499855995178
+            ]
+          }
+        },
+        {
+          "name": "Grass",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                100,
+                158,
+                52
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              5.065999984741211,
+              1.5329999923706055,
+              5.160999774932861
+            ],
+            "CFrame": [
+              41.2400016784668,
+              7.267000198364258,
+              -27.78700065612793,
+              0.6936500072479248,
+              0.0,
+              -0.7203099727630615,
+              0.0,
+              1.0,
+              0.0,
+              0.7203099727630615,
+              0.0,
+              0.6936500072479248
+            ]
+          }
+        },
+        {
+          "name": "Grass",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                108,
+                169,
+                53
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              4.7829999923706055,
+              1.6369999647140503,
+              5.438000202178955
+            ],
+            "CFrame": [
+              30.97100067138672,
+              7.317999839782715,
+              -66.03199768066406,
+              -0.7882800102233887,
+              0.0,
+              -0.6153200268745422,
+              0.0,
+              1.0,
+              0.0,
+              0.6153200268745422,
+              0.0,
+              -0.7882800102233887
+            ]
+          }
+        },
+        {
+          "name": "Grass",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                124,
+                191,
+                67
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              5.591000080108643,
+              1.5460000038146973,
+              5.083000183105469
+            ],
+            "CFrame": [
+              27.69099998474121,
+              7.2729997634887695,
+              -65.8030014038086,
+              0.17982999980449677,
+              0.0,
+              -0.9836999773979187,
+              0.0,
+              1.0,
+              0.0,
+              0.9836999773979187,
+              0.0,
+              0.17982999980449677
+            ]
+          }
+        },
+        {
+          "name": "Grass",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                120,
+                185,
+                64
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              5.01200008392334,
+              1.6059999465942383,
+              4.809000015258789
+            ],
+            "CFrame": [
+              37.95600128173828,
+              7.302999973297119,
+              -65.86799621582031,
+              -0.8883500099182129,
+              0.0,
+              0.4591600000858307,
+              0.0,
+              1.0,
+              0.0,
+              -0.4591600000858307,
+              0.0,
+              -0.8883500099182129
+            ]
+          }
+        },
+        {
+          "name": "Grass",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                101,
+                154,
+                48
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              5.181000232696533,
+              1.5449999570846558,
+              4.666999816894531
+            ],
+            "CFrame": [
+              30.854999542236328,
+              7.2729997634887695,
+              -48.60300064086914,
+              0.3698919415473938,
+              0.0,
+              -0.9290748834609985,
+              0.0,
+              1.0,
+              0.0,
+              0.9290748834609985,
+              0.0,
+              0.3698919117450714
+            ]
+          }
+        },
+        {
+          "name": "Grass",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                110,
+                179,
+                54
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              5.2179999351501465,
+              1.6239999532699585,
+              4.789999961853027
+            ],
+            "CFrame": [
+              27.0,
+              7.311999797821045,
+              -62.47700119018555,
+              -0.10211999714374542,
+              0.0,
+              -0.9947699904441833,
+              0.0,
+              1.0,
+              0.0,
+              0.9947699904441833,
+              0.0,
+              -0.10211999714374542
+            ]
+          }
+        },
+        {
+          "name": "Grass",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                106,
+                164,
+                55
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              5.080999851226807,
+              1.628999948501587,
+              4.88700008392334
+            ],
+            "CFrame": [
+              51.39500045776367,
+              7.314000129699707,
+              -34.25299835205078,
+              0.20739999413490295,
+              0.0,
+              0.9782599806785583,
+              0.0,
+              1.0,
+              0.0,
+              -0.9782599806785583,
+              0.0,
+              0.20739999413490295
+            ]
+          }
+        },
+        {
+          "name": "Grass",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                119,
+                185,
+                60
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              5.182000160217285,
+              1.6360000371932983,
+              5.413000106811523
+            ],
+            "CFrame": [
+              34.26499938964844,
+              7.317999839782715,
+              -38.48699951171875,
+              0.6124600172042847,
+              0.0,
+              -0.7904999852180481,
+              0.0,
+              1.0,
+              0.0,
+              0.7904999852180481,
+              0.0,
+              0.6124600172042847
+            ]
+          }
+        },
+        {
+          "name": "Grass",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                113,
+                180,
+                56
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              4.966000080108643,
+              1.5440000295639038,
+              4.78000020980835
+            ],
+            "CFrame": [
+              30.65999984741211,
+              7.271999835968018,
+              -59.23400115966797,
+              0.3977600038051605,
+              0.0,
+              -0.9174900054931641,
+              0.0,
+              1.0,
+              0.0,
+              0.9174900054931641,
+              0.0,
+              0.3977600038051605
+            ]
+          }
+        },
+        {
+          "name": "Grass",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                110,
+                170,
+                56
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              4.692999839782715,
+              1.6399999856948853,
+              5.007999897003174
+            ],
+            "CFrame": [
+              51.92499923706055,
+              7.320000171661377,
+              -31.219999313354492,
+              0.2869499921798706,
+              0.0,
+              0.9579499959945679,
+              0.0,
+              1.0,
+              0.0,
+              -0.9579499959945679,
+              0.0,
+              0.2869499921798706
+            ]
+          }
+        },
+        {
+          "name": "Grass",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                109,
+                170,
+                56
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              14.0,
+              1.5,
+              14.0
+            ],
+            "CFrame": [
+              36.5,
+              7.25,
+              -54.25,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          }
+        },
+        {
+          "name": "Grass",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                109,
+                170,
+                56
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              4.0,
+              1.5,
+              6.0
+            ],
+            "CFrame": [
+              33.5,
+              7.25,
+              -64.25,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          }
+        },
+        {
+          "name": "Grass",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                116,
+                183,
+                58
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              5.380000114440918,
+              1.5800000429153442,
+              5.435999870300293
+            ],
+            "CFrame": [
+              48.49300003051758,
+              7.289999961853027,
+              -23.518999099731445,
+              0.9240999817848206,
+              0.0,
+              0.38214999437332153,
+              0.0,
+              1.0,
+              0.0,
+              -0.38214999437332153,
+              0.0,
+              0.9240999817848206
+            ]
+          }
+        },
+        {
+          "name": "Grass",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                109,
+                170,
+                56
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              4.0,
+              1.5,
+              8.0
+            ],
+            "CFrame": [
+              29.5,
+              7.25,
+              -65.25,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          }
+        },
+        {
+          "name": "Grass",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                113,
+                174,
+                61
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              4.683000087738037,
+              1.63100004196167,
+              4.681000232696533
+            ],
+            "CFrame": [
+              48.625,
+              7.315999984741211,
+              -55.2599983215332,
+              -0.5861333608627319,
+              0.0,
+              0.810214638710022,
+              0.0,
+              1.0,
+              0.0,
+              -0.810214638710022,
+              0.0,
+              -0.5861333608627319
+            ]
+          }
+        },
+        {
+          "name": "Grass",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                108,
+                170,
+                54
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              5.190000057220459,
+              1.5470000505447388,
+              5.2210001945495605
+            ],
+            "CFrame": [
+              34.025001525878906,
+              7.27400016784668,
+              -65.97699737548828,
+              -0.8444899916648865,
+              0.0,
+              0.5355700254440308,
+              0.0,
+              1.0,
+              0.0,
+              -0.5355700254440308,
+              0.0,
+              -0.8444899916648865
+            ]
+          }
+        },
+        {
+          "name": "Grass",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                118,
+                180,
+                63
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              5.275000095367432,
+              1.5870000123977661,
+              4.560999870300293
+            ],
+            "CFrame": [
+              33.88800048828125,
+              7.294000148773193,
+              -34.49599838256836,
+              0.38019001483917236,
+              0.0,
+              -0.9249100089073181,
+              0.0,
+              1.0,
+              0.0,
+              0.9249100089073181,
+              0.0,
+              0.38019001483917236
+            ]
+          }
+        },
+        {
+          "name": "Grass",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                115,
+                178,
+                54
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              4.572000026702881,
+              1.5470000505447388,
+              5.453000068664551
+            ],
+            "CFrame": [
+              30.452999114990234,
+              7.27400016784668,
+              -45.04899978637695,
+              -0.06055999919772148,
+              0.0,
+              -0.9981600046157837,
+              0.0,
+              1.0,
+              0.0,
+              0.9981600046157837,
+              0.0,
+              -0.06055999919772148
+            ]
+          }
+        },
+        {
+          "name": "Grass",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                109,
+                174,
+                58
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              5.104000091552734,
+              1.6180000305175781,
+              5.203999996185303
+            ],
+            "CFrame": [
+              30.26300048828125,
+              7.309000015258789,
+              -62.374000549316406,
+              -0.20925000309944153,
+              0.0,
+              -0.9778599739074707,
+              0.0,
+              1.0,
+              0.0,
+              0.9778599739074707,
+              0.0,
+              -0.20925000309944153
+            ]
+          }
+        },
+        {
+          "name": "Grass",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                103,
+                169,
+                52
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              5.535999774932861,
+              1.5549999475479126,
+              4.658999919891357
+            ],
+            "CFrame": [
+              48.487998962402344,
+              7.2769999504089355,
+              -27.091999053955078,
+              0.939655601978302,
+              0.0,
+              0.34212198853492737,
+              0.0,
+              1.0,
+              0.0,
+              -0.34212201833724976,
+              0.0,
+              0.939655601978302
+            ]
+          }
+        },
+        {
+          "name": "Grass",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                108,
+                172,
+                58
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              4.750999927520752,
+              1.565000057220459,
+              5.078999996185303
+            ],
+            "CFrame": [
+              51.319000244140625,
+              7.2829999923706055,
+              -27.715999603271484,
+              0.6058499813079834,
+              0.0,
+              0.7955800294876099,
+              0.0,
+              1.0,
+              0.0,
+              -0.7955800294876099,
+              0.0,
+              0.6058499813079834
+            ]
+          }
+        },
+        {
+          "name": "Grass",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                111,
+                172,
+                57
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              4.620999813079834,
+              1.5779999494552612,
+              4.6539998054504395
+            ],
+            "CFrame": [
+              31.18199920654297,
+              7.289000034332275,
+              -51.507999420166016,
+              0.10914000123739243,
+              0.0,
+              -0.9940299987792969,
+              0.0,
+              1.0,
+              0.0,
+              0.9940299987792969,
+              0.0,
+              0.10914000123739243
+            ]
+          }
+        },
+        {
+          "name": "Grass",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                95,
+                151,
+                47
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              5.300000190734863,
+              1.5670000314712524,
+              4.7220001220703125
+            ],
+            "CFrame": [
+              34.21699905395508,
+              7.283999919891357,
+              -41.444000244140625,
+              0.31540000438690186,
+              0.0,
+              -0.94896000623703,
+              0.0,
+              1.0,
+              0.0,
+              0.94896000623703,
+              0.0,
+              0.31540000438690186
+            ]
+          }
+        },
+        {
+          "name": "Grass",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                109,
+                172,
+                56
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              4.745999813079834,
+              1.6319999694824219,
+              5.099999904632568
+            ],
+            "CFrame": [
+              27.121999740600586,
+              7.315999984741211,
+              -69.73400115966797,
+              -0.5565299987792969,
+              0.0,
+              -0.8308299779891968,
+              0.0,
+              1.0,
+              0.0,
+              0.8308299779891968,
+              0.0,
+              -0.5565299987792969
+            ]
+          }
+        },
+        {
+          "name": "Grass",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                109,
+                170,
+                56
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              20.0,
+              1.5,
+              8.0
+            ],
+            "CFrame": [
+              41.5,
+              7.25,
+              -43.25,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          }
+        }
+      ],
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        }
+      }
+    },
+    {
+      "name": "Upper",
+      "className": "Folder",
+      "children": [
+        {
+          "name": "Rock",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                110,
+                112,
+                136
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              7.828000068664551,
+              6.425000190734863,
+              7.464000225067139
+            ],
+            "CFrame": [
+              36.909000396728516,
+              9.713000297546387,
+              -60.25299835205078,
+              -0.9586899876594543,
+              0.0,
+              0.2844499945640564,
+              0.0,
+              1.0,
+              0.0,
+              -0.2844499945640564,
+              0.0,
+              -0.9586899876594543
+            ]
+          }
+        },
+        {
+          "name": "Rock",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                157,
+                158,
+                171
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              7.142000198364258,
+              6.129000186920166,
+              7.085999965667725
+            ],
+            "CFrame": [
+              37.571998596191406,
+              9.5649995803833,
+              -55.375999450683594,
+              -0.36757999658584595,
+              0.0,
+              -0.9299899935722351,
+              0.0,
+              1.0,
+              0.0,
+              0.9299899935722351,
+              0.0,
+              -0.36757999658584595
+            ]
+          }
+        },
+        {
+          "name": "Rock",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                139,
+                140,
+                158
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              6.429999828338623,
+              6.150000095367432,
+              6.918000221252441
+            ],
+            "CFrame": [
+              37.33700180053711,
+              9.574999809265137,
+              -50.62900161743164,
+              0.7156100273132324,
+              0.0,
+              -0.6984999775886536,
+              0.0,
+              1.0,
+              0.0,
+              0.6984999775886536,
+              0.0,
+              0.7156100273132324
+            ]
+          }
+        },
+        {
+          "name": "Rock",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                132,
+                132,
+                153
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              7.0320000648498535,
+              6.492000102996826,
+              6.6529998779296875
+            ],
+            "CFrame": [
+              42.51100158691406,
+              9.746000289916992,
+              -55.55699920654297,
+              -0.6439537405967712,
+              0.0,
+              0.7650644779205322,
+              0.0,
+              1.0,
+              0.0,
+              -0.7650644779205322,
+              0.0,
+              -0.6439537405967712
+            ]
+          }
+        },
+        {
+          "name": "Rock",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                140,
+                140,
+                161
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              6.896999835968018,
+              6.499000072479248,
+              6.506999969482422
+            ],
+            "CFrame": [
+              42.32099914550781,
+              9.74899959564209,
+              -50.96900177001953,
+              0.2441900074481964,
+              0.0,
+              0.969730019569397,
+              0.0,
+              1.0,
+              0.0,
+              -0.969730019569397,
+              0.0,
+              0.2441900074481964
+            ]
+          }
+        },
+        {
+          "name": "Rock",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                140,
+                139,
+                160
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              6.367000102996826,
+              6.418000221252441,
+              6.709000110626221
+            ],
+            "CFrame": [
+              42.15299987792969,
+              9.708999633789062,
+              -45.61000061035156,
+              0.9797899723052979,
+              0.0,
+              0.2000100016593933,
+              0.0,
+              1.0,
+              0.0,
+              -0.2000100016593933,
+              0.0,
+              0.9797899723052979
+            ]
+          }
+        },
+        {
+          "name": "Rock",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                135,
+                135,
+                155
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              5.0,
+              6.5,
+              5.0
+            ],
+            "CFrame": [
+              37.25,
+              9.75,
+              -55.75,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          }
+        },
+        {
+          "name": "Rock",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                135,
+                135,
+                155
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              5.0,
+              6.5,
+              5.0
+            ],
+            "CFrame": [
+              42.25,
+              9.75,
+              -50.75,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          }
+        },
+        {
+          "name": "Grass",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                119,
+                184,
+                60
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              4.6620001792907715,
+              1.5880000591278076,
+              4.732999801635742
+            ],
+            "CFrame": [
+              31.75,
+              13.293999671936035,
+              -66.94300079345703,
+              -0.850380003452301,
+              0.0,
+              -0.5261600017547607,
+              0.0,
+              1.0,
+              0.0,
+              0.5261600017547607,
+              0.0,
+              -0.850380003452301
+            ]
+          }
+        },
+        {
+          "name": "Grass",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                103,
+                162,
+                57
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              5.36299991607666,
+              1.5429999828338623,
+              5.172999858856201
+            ],
+            "CFrame": [
+              31.33099937438965,
+              13.270999908447266,
+              -63.09700012207031,
+              -0.005319999996572733,
+              0.0,
+              -0.9999899864196777,
+              0.0,
+              1.0,
+              0.0,
+              0.9999899864196777,
+              0.0,
+              -0.005319999996572733
+            ]
+          }
+        },
+        {
+          "name": "Grass",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                115,
+                179,
+                56
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              5.068999767303467,
+              1.6150000095367432,
+              5.065000057220459
+            ],
+            "CFrame": [
+              31.341999053955078,
+              13.307000160217285,
+              -59.76900100708008,
+              0.2133300006389618,
+              0.0,
+              -0.9769799709320068,
+              0.0,
+              1.0,
+              0.0,
+              0.9769799709320068,
+              0.0,
+              0.2133300006389618
+            ]
+          }
+        },
+        {
+          "name": "Grass",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                113,
+                170,
+                58
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              5.355999946594238,
+              1.531999945640564,
+              4.988999843597412
+            ],
+            "CFrame": [
+              31.540000915527344,
+              13.265999794006348,
+              -56.34000015258789,
+              0.07111000269651413,
+              0.0,
+              -0.9974700212478638,
+              0.0,
+              1.0,
+              0.0,
+              0.9974700212478638,
+              0.0,
+              0.07111000269651413
+            ]
+          }
+        },
+        {
+          "name": "Grass",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                105,
+                165,
+                51
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              4.956999778747559,
+              1.5429999828338623,
+              5.544000148773193
+            ],
+            "CFrame": [
+              35.323001861572266,
+              13.272000312805176,
+              -63.17399978637695,
+              -0.9920899868011475,
+              0.0,
+              -0.12549999356269836,
+              0.0,
+              1.0,
+              0.0,
+              0.12549999356269836,
+              0.0,
+              -0.9920899868011475
+            ]
+          }
+        },
+        {
+          "name": "Grass",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                117,
+                179,
+                61
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              4.664000034332275,
+              1.5360000133514404,
+              5.447000026702881
+            ],
+            "CFrame": [
+              34.91999816894531,
+              13.267999649047852,
+              -59.762001037597656,
+              -0.1713699996471405,
+              0.0,
+              -0.9852100014686584,
+              0.0,
+              1.0,
+              0.0,
+              0.9852100014686584,
+              0.0,
+              -0.1713699996471405
+            ]
+          }
+        },
+        {
+          "name": "Grass",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                118,
+                180,
+                63
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              4.656000137329102,
+              1.5700000524520874,
+              5.195000171661377
+            ],
+            "CFrame": [
+              35.016998291015625,
+              13.28499984741211,
+              -55.763999938964844,
+              0.09234999865293503,
+              0.0,
+              -0.9957299828529358,
+              0.0,
+              1.0,
+              0.0,
+              0.9957299828529358,
+              0.0,
+              0.09234999865293503
+            ]
+          }
+        },
+        {
+          "name": "Grass",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                115,
+                179,
+                57
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              5.179999828338623,
+              1.6030000448226929,
+              4.619999885559082
+            ],
+            "CFrame": [
+              35.40700149536133,
+              13.302000045776367,
+              -52.24700164794922,
+              0.62322998046875,
+              0.0,
+              -0.782039999961853,
+              0.0,
+              1.0,
+              0.0,
+              0.782039999961853,
+              0.0,
+              0.62322998046875
+            ]
+          }
+        },
+        {
+          "name": "Grass",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                107,
+                161,
+                57
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              4.644000053405762,
+              1.5980000495910645,
+              5.175000190734863
+            ],
+            "CFrame": [
+              35.459999084472656,
+              13.298999786376953,
+              -48.547000885009766,
+              0.7428600192070007,
+              0.0,
+              -0.6694499850273132,
+              0.0,
+              1.0,
+              0.0,
+              0.6694499850273132,
+              0.0,
+              0.7428600192070007
+            ]
+          }
+        },
+        {
+          "name": "Grass",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                93,
+                152,
+                45
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              4.940999984741211,
+              1.5460000038146973,
+              5.002999782562256
+            ],
+            "CFrame": [
+              38.840999603271484,
+              13.27299976348877,
+              -62.74100112915039,
+              -0.8205999732017517,
+              0.0,
+              0.5715000033378601,
+              0.0,
+              1.0,
+              0.0,
+              -0.5715000033378601,
+              0.0,
+              -0.8205999732017517
+            ]
+          }
+        },
+        {
+          "name": "Grass",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                111,
+                176,
+                59
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              4.96999979019165,
+              1.5260000228881836,
+              5.061999797821045
+            ],
+            "CFrame": [
+              38.64500045776367,
+              13.262999534606934,
+              -59.21500015258789,
+              -0.9490500092506409,
+              0.0,
+              0.31512001156806946,
+              0.0,
+              1.0,
+              0.0,
+              -0.31512001156806946,
+              0.0,
+              -0.9490500092506409
+            ]
+          }
+        },
+        {
+          "name": "Grass",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                115,
+                181,
+                58
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              5.208000183105469,
+              1.5959999561309814,
+              5.410999774932861
+            ],
+            "CFrame": [
+              38.75899887084961,
+              13.29800033569336,
+              -48.9379997253418,
+              0.5288400053977966,
+              0.0,
+              -0.8487200140953064,
+              0.0,
+              1.0,
+              0.0,
+              0.8487200140953064,
+              0.0,
+              0.5288400053977966
+            ]
+          }
+        },
+        {
+          "name": "Grass",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                109,
+                168,
+                51
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              4.757999897003174,
+              1.5449999570846558,
+              5.0
+            ],
+            "CFrame": [
+              38.21900177001953,
+              13.27299976348877,
+              -45.082000732421875,
+              0.7308499813079834,
+              0.0,
+              -0.6825399994850159,
+              0.0,
+              1.0,
+              0.0,
+              0.6825399994850159,
+              0.0,
+              0.7308499813079834
+            ]
+          }
+        },
+        {
+          "name": "Grass",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                115,
+                174,
+                59
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              4.9730000495910645,
+              1.5729999542236328,
+              4.881999969482422
+            ],
+            "CFrame": [
+              41.534000396728516,
+              13.286999702453613,
+              -59.31100082397461,
+              -0.5940899848937988,
+              0.0,
+              0.8044000267982483,
+              0.0,
+              1.0,
+              0.0,
+              -0.8044000267982483,
+              0.0,
+              -0.5940899848937988
+            ]
+          }
+        },
+        {
+          "name": "Grass",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                108,
+                174,
+                52
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              4.6020002365112305,
+              1.5670000314712524,
+              5.120999813079834
+            ],
+            "CFrame": [
+              41.60100173950195,
+              13.284000396728516,
+              -56.323001861572266,
+              -0.35183000564575195,
+              0.0,
+              0.9360600113868713,
+              0.0,
+              1.0,
+              0.0,
+              -0.9360600113868713,
+              0.0,
+              -0.35183000564575195
+            ]
+          }
+        },
+        {
+          "name": "Grass",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                105,
+                162,
+                56
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              5.307000160217285,
+              1.6109999418258667,
+              4.551000118255615
+            ],
+            "CFrame": [
+              42.0359992980957,
+              13.305000305175781,
+              -45.404998779296875,
+              0.986840009689331,
+              0.0,
+              -0.16173000633716583,
+              0.0,
+              1.0,
+              0.0,
+              0.16173000633716583,
+              0.0,
+              0.986840009689331
+            ]
+          }
+        },
+        {
+          "name": "Grass",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                116,
+                175,
+                60
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              5.315000057220459,
+              1.524999976158142,
+              5.072000026702881
+            ],
+            "CFrame": [
+              45.178001403808594,
+              13.26200008392334,
+              -52.83100128173828,
+              -0.07882999628782272,
+              0.0,
+              0.9968900084495544,
+              0.0,
+              1.0,
+              0.0,
+              -0.9968900084495544,
+              0.0,
+              -0.07882999628782272
+            ]
+          }
+        },
+        {
+          "name": "Grass",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                108,
+                169,
+                51
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              5.577000141143799,
+              1.5460000038146973,
+              5.173999786376953
+            ],
+            "CFrame": [
+              45.70100021362305,
+              13.27299976348877,
+              -49.29899978637695,
+              0.2885499894618988,
+              0.0,
+              0.9574699997901917,
+              0.0,
+              1.0,
+              0.0,
+              -0.9574699997901917,
+              0.0,
+              0.2885499894618988
+            ]
+          }
+        },
+        {
+          "name": "Grass",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                104,
+                162,
+                56
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              5.076000213623047,
+              1.5509999990463257,
+              4.765999794006348
+            ],
+            "CFrame": [
+              45.266998291015625,
+              13.274999618530273,
+              -45.20000076293945,
+              0.4641300141811371,
+              0.0,
+              0.8857700228691101,
+              0.0,
+              1.0,
+              0.0,
+              -0.8857700228691101,
+              0.0,
+              0.4641300141811371
+            ]
+          }
+        },
+        {
+          "name": "Grass",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                109,
+                170,
+                56
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              2.0,
+              1.5,
+              8.0
+            ],
+            "CFrame": [
+              32.75,
+              13.25,
+              -62.25,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          }
+        },
+        {
+          "name": "Grass",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                109,
+                170,
+                56
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              2.0,
+              1.5,
+              12.0
+            ],
+            "CFrame": [
+              34.75,
+              13.25,
+              -58.25,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          }
+        },
+        {
+          "name": "Grass",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                109,
+                170,
+                56
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              4.0,
+              1.5,
+              14.0
+            ],
+            "CFrame": [
+              37.75,
+              13.25,
+              -55.25,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          }
+        },
+        {
+          "name": "Grass",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                109,
+                170,
+                56
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              8.0,
+              1.5,
+              2.0
+            ],
+            "CFrame": [
+              41.75,
+              13.25,
+              -47.25,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          }
+        },
+        {
+          "name": "Grass",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                109,
+                170,
+                56
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              2.0,
+              1.5,
+              12.0
+            ],
+            "CFrame": [
+              40.75,
+              13.25,
+              -54.25,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          }
+        },
+        {
+          "name": "Grass",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                109,
+                170,
+                56
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              2.0,
+              1.5,
+              10.0
+            ],
+            "CFrame": [
+              42.75,
+              13.25,
+              -53.25,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          }
+        },
+        {
+          "name": "Grass",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                109,
+                170,
+                56
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              4.0,
+              1.5,
+              2.0
+            ],
+            "CFrame": [
+              43.75,
+              13.25,
+              -45.25,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          }
+        },
+        {
+          "name": "Grass",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                109,
+                170,
+                56
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              2.0,
+              1.5,
+              6.0
+            ],
+            "CFrame": [
+              44.75,
+              13.25,
+              -51.25,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0,
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          }
+        }
+      ],
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        }
+      }
+    },
+    {
+      "name": "Steps",
+      "className": "Folder",
+      "children": [
+        {
+          "name": "Step",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                130,
+                131,
+                152
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              7.0,
+              3.799999952316284,
+              6.0
+            ],
+            "CFrame": [
+              40.0,
+              0.8999999761581421,
+              -19.0,
+              0.9510599970817566,
+              0.0,
+              0.3090200126171112,
+              0.0,
+              1.0,
+              0.0,
+              -0.3090200126171112,
+              0.0,
+              0.9510599970817566
+            ]
+          }
+        },
+        {
+          "name": "Step",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                158,
+                156,
+                172
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              6.5,
+              6.599999904632568,
+              6.0
+            ],
+            "CFrame": [
+              46.0,
+              2.299999952316284,
+              -19.5,
+              0.9781500101089478,
+              0.0,
+              -0.20791000127792358,
+              0.0,
+              1.0,
+              0.0,
+              0.20791000127792358,
+              0.0,
+              0.9781500101089478
+            ]
+          }
+        }
+      ],
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        }
+      }
+    }
+  ],
+  "properties": {
+    "SerializedOverrides": {
+      "BinaryString": ""
+    }
+  }
+}

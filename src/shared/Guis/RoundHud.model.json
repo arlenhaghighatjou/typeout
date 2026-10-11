@@ -1,0 +1,154 @@
+{
+  "className": "ScreenGui",
+  "properties": {
+    "ResetOnSpawn": false,
+    "DisplayOrder": 11
+  },
+  "children": [
+    {
+      "name": "Corner",
+      "className": "Frame",
+      "properties": {
+        "AnchorPoint": [
+          1,
+          0
+        ],
+        "Position": {
+          "UDim2": [
+            [
+              1,
+              -16
+            ],
+            [
+              0,
+              12
+            ]
+          ]
+        },
+        "Size": {
+          "UDim2": [
+            [
+              0,
+              260
+            ],
+            [
+              0,
+              84
+            ]
+          ]
+        },
+        "BackgroundTransparency": 1
+      },
+      "children": [
+        {
+          "name": "Round",
+          "className": "TextLabel",
+          "properties": {
+            "Size": {
+              "UDim2": [
+                [
+                  1,
+                  0
+                ],
+                [
+                  0,
+                  30
+                ]
+              ]
+            },
+            "BackgroundTransparency": 1,
+            "Text": "round 0",
+            "TextColor3": [
+              1,
+              1,
+              1
+            ],
+            "TextSize": 26,
+            "TextXAlignment": "Right",
+            "Font": "SourceSans"
+          }
+        },
+        {
+          "name": "Alive",
+          "className": "TextLabel",
+          "properties": {
+            "Position": {
+              "UDim2": [
+                [
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  30
+                ]
+              ]
+            },
+            "Size": {
+              "UDim2": [
+                [
+                  1,
+                  0
+                ],
+                [
+                  0,
+                  24
+                ]
+              ]
+            },
+            "BackgroundTransparency": 1,
+            "Text": "0 players alive",
+            "TextColor3": [
+              1,
+              1,
+              1
+            ],
+            "TextSize": 20,
+            "TextXAlignment": "Right",
+            "Font": "SourceSans"
+          }
+        },
+        {
+          "name": "Leave",
+          "className": "TextButton",
+          "properties": {
+            "Position": {
+              "UDim2": [
+                [
+                  0,
+                  0
+                ],
+                [
+                  0,
+                  58
+                ]
+              ]
+            },
+            "Size": {
+              "UDim2": [
+                [
+                  1,
+                  0
+                ],
+                [
+                  0,
+                  22
+                ]
+              ]
+            },
+            "BackgroundTransparency": 1,
+            "Text": "leave game",
+            "TextColor3": [
+              1,
+              1,
+              1
+            ],
+            "TextSize": 18,
+            "TextXAlignment": "Right",
+            "Font": "SourceSans"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,935 @@
-{"ClassName":"Folder","Children":[{"Name":"Plank","ClassName":"Part","Properties":{"Anchored":true,"Size":[1.335,0.4,8.208],"CFrame":{"CFrame":{"position":[-29.389,0.293,25.579],"orientation":[[0.76844,0.0,0.63992],[0.0,1.0,0.0],[-0.63992,0.0,0.76844]]}},"Color":[0.62,0.42,0.254],"Material":"SmoothPlastic"}},{"Name":"Plank","ClassName":"Part","Properties":{"Anchored":true,"Size":[1.335,0.4,7.869],"CFrame":{"CFrame":{"position":[-28.329,0.299,24.55],"orientation":[[0.76878,0.0,0.63951],[0.0,1.0,0.0],[-0.63951,0.0,0.76878]]}},"Color":[0.569,0.366,0.206],"Material":"SmoothPlastic"}},{"Name":"Plank","ClassName":"Part","Properties":{"Anchored":true,"Size":[1.335,0.4,7.703],"CFrame":{"CFrame":{"position":[-27.249,0.325,23.543],"orientation":[[0.77229,0.0,0.63527],[0.0,1.0,0.0],[-0.63527,0.0,0.77229]]}},"Color":[0.564,0.384,0.194],"Material":"SmoothPlastic"}},{"Name":"Plank","ClassName":"Part","Properties":{"Anchored":true,"Size":[1.335,0.4,8.17],"CFrame":{"CFrame":{"position":[-26.018,0.274,22.712],"orientation":[[0.77092,0.0,0.63693],[0.0,1.0,0.0],[-0.63693,0.0,0.77092]]}},"Color":[0.596,0.401,0.245],"Material":"SmoothPlastic"}},{"Name":"Plank","ClassName":"Part","Properties":{"Anchored":true,"Size":[1.335,0.4,8.142],"CFrame":{"CFrame":{"position":[-25.038,0.288,21.589],"orientation":[[0.74862,0.0,0.663],[0.0,1.0,0.0],[-0.663,0.0,0.74862]]}},"Color":[0.581,0.409,0.228],"Material":"SmoothPlastic"}},{"Name":"Plank","ClassName":"Part","Properties":{"Anchored":true,"Size":[1.335,0.4,8.216],"CFrame":{"CFrame":{"position":[-23.833,0.325,20.728],"orientation":[[0.74347,0.0,0.66876],[0.0,1.0,0.0],[-0.66876,0.0,0.74347]]}},"Color":[0.575,0.379,0.19],"Material":"SmoothPlastic"}},{"Name":"Plank","ClassName":"Part","Properties":{"Anchored":true,"Size":[1.335,0.4,7.96],"CFrame":{"CFrame":{"position":[-22.78,0.306,19.691],"orientation":[[0.77422,0.0,0.63292],[0.0,1.0,0.0],[-0.63292,0.0,0.77422]]}},"Color":[0.618,0.411,0.238],"Material":"SmoothPlastic"}},{"Name":"Plank","ClassName":"Part","Properties":{"Anchored":true,"Size":[1.335,0.4,7.853],"CFrame":{"CFrame":{"position":[-21.592,0.303,18.809],"orientation":[[0.7697,0.0,0.6384],[0.0,1.0,0.0],[-0.6384,0.0,0.7697]]}},"Color":[0.558,0.366,0.205],"Material":"SmoothPlastic"}},{"Name":"Plank","ClassName":"Part","Properties":{"Anchored":true,"Size":[1.335,0.4,7.702],"CFrame":{"CFrame":{"position":[-20.545,0.289,17.764],"orientation":[[0.76372,0.0,0.64555],[0.0,1.0,0.0],[-0.64555,0.0,0.76372]]}},"Color":[0.612,0.426,0.25],"Material":"SmoothPlastic"}},{"Name":"Plank","ClassName":"Part","Properties":{"Anchored":true,"Size":[1.335,0.4,8.17],"CFrame":{"CFrame":{"position":[-19.311,0.325,16.938],"orientation":[[0.76567,0.0,0.64323],[0.0,1.0,0.0],[-0.64323,0.0,0.76567]]}},"Color":[0.629,0.445,0.266],"Material":"SmoothPlastic"}},{"Name":"Plank","ClassName":"Part","Properties":{"Anchored":true,"Size":[1.335,0.4,8.205],"CFrame":{"CFrame":{"position":[-18.238,0.286,15.922],"orientation":[[0.74682,0.0,0.66502],[0.0,1.0,0.0],[-0.66502,0.0,0.74682]]}},"Color":[0.639,0.446,0.264],"Material":"SmoothPlastic"}},{"Name":"Plank","ClassName":"Part","Properties":{"Anchored":true,"Size":[1.335,0.4,8.246],"CFrame":{"CFrame":{"position":[-17.168,0.291,14.904],"orientation":[[0.76396,0.0,0.64526],[0.0,1.0,0.0],[-0.64526,0.0,0.76396]]}},"Color":[0.627,0.45,0.286],"Material":"SmoothPlastic"}},{"Name":"Plank","ClassName":"Part","Properties":{"Anchored":true,"Size":[1.335,0.4,7.754],"CFrame":{"CFrame":{"position":[-16.063,0.293,13.926],"orientation":[[0.76629,0.0,0.6425],[0.0,1.0,0.0],[-0.6425,0.0,0.76629]]}},"Color":[0.595,0.42,0.253],"Material":"SmoothPlastic"}},{"Name":"Plank","ClassName":"Part","Properties":{"Anchored":true,"Size":[1.335,0.4,8.061],"CFrame":{"CFrame":{"position":[-14.82,0.282,13.111],"orientation":[[0.74326,0.0,0.66901],[0.0,1.0,0.0],[-0.66901,0.0,0.74326]]}},"Color":[0.608,0.421,0.238],"Material":"SmoothPlastic"}},{"Name":"Plank","ClassName":"Part","Properties":{"Anchored":true,"Size":[1.335,0.4,7.896],"CFrame":{"CFrame":{"position":[-13.785,0.293,12.051],"orientation":[[0.74364,0.0,0.66858],[0.0,1.0,0.0],[-0.66858,0.0,0.74364]]}},"Color":[0.577,0.395,0.207],"Material":"SmoothPlastic"}},{"Name":"Plank","ClassName":"Part","Properties":{"Anchored":true,"Size":[1.335,0.4,7.911],"CFrame":{"CFrame":{"position":[-12.622,0.301,11.141],"orientation":[[0.76571,0.0,0.64319],[0.0,1.0,0.0],[-0.64319,0.0,0.76571]]}},"Color":[0.614,0.442,0.247],"Material":"SmoothPlastic"}},{"Name":"Plank","ClassName":"Part","Properties":{"Anchored":true,"Size":[1.335,0.4,7.875],"CFrame":{"CFrame":{"position":[-11.534,0.286,10.144],"orientation":[[0.75666,0.0,0.65381],[0.0,1.0,0.0],[-0.65381,0.0,0.75666]]}},"Color":[0.632,0.434,0.266],"Material":"SmoothPlastic"}},{"Name":"Plank","ClassName":"Part","Properties":{"Anchored":true,"Size":[1.335,0.4,8.27],"CFrame":{"CFrame":{"position":[-10.433,0.287,9.162],"orientation":[[0.76062,0.0,0.6492],[0.0,1.0,0.0],[-0.6492,0.0,0.76062]]}},"Color":[0.62,0.44,0.263],"Material":"SmoothPlastic"}},{"Name":"Plank","ClassName":"Part","Properties":{"Anchored":true,"Size":[1.335,0.4,7.874],"CFrame":{"CFrame":{"position":[-9.221,0.282,8.309],"orientation":[[0.76084,0.0,0.64894],[0.0,1.0,0.0],[-0.64894,0.0,0.76084]]}},"Color":[0.567,0.368,0.19],"Material":"SmoothPlastic"}},{"Name":"Plank","ClassName":"Part","Properties":{"Anchored":true,"Size":[1.335,0.4,7.777],"CFrame":{"CFrame":{"position":[-8.169,0.308,7.269],"orientation":[[0.74829,0.0,0.66337],[0.0,1.0,0.0],[-0.66337,0.0,0.74829]]}},"Color":[0.587,0.395,0.205],"Material":"SmoothPlastic"}},{"Name":"Plank","ClassName":"Part","Properties":{"Anchored":true,"Size":[1.335,0.4,7.952],"CFrame":{"CFrame":{"position":[-7.047,0.279,6.312],"orientation":[[0.75979,0.0,0.65017],[0.0,1.0,0.0],[-0.65017,0.0,0.75979]]}},"Color":[0.605,0.413,0.235],"Material":"SmoothPlastic"}},{"Name":"Plank","ClassName":"Part","Properties":{"Anchored":true,"Size":[1.335,0.4,8.113],"CFrame":{"CFrame":{"position":[-5.96,0.315,5.313],"orientation":[[0.74797,0.0,0.66374],[0.0,1.0,0.0],[-0.66374,0.0,0.74797]]}},"Color":[0.597,0.424,0.245],"Material":"SmoothPlastic"}},{"Name":"Plank","ClassName":"Part","Properties":{"Anchored":true,"Size":[1.335,0.4,7.934],"CFrame":{"CFrame":{"position":[-4.735,0.29,4.476],"orientation":[[0.74441,0.0,0.66773],[0.0,1.0,0.0],[-0.66773,0.0,0.74441]]}},"Color":[0.602,0.399,0.221],"Material":"SmoothPlastic"}},{"Name":"Plank","ClassName":"Part","Properties":{"Anchored":true,"Size":[1.335,0.4,8.053],"CFrame":{"CFrame":{"position":[-3.718,0.28,3.396],"orientation":[[0.74587,0.0,0.66609],[0.0,1.0,0.0],[-0.66609,0.0,0.74587]]}},"Color":[0.594,0.428,0.244],"Material":"SmoothPlastic"}},{"Name":"Plank","ClassName":"Part","Properties":{"Anchored":true,"Size":[1.335,0.4,7.867],"CFrame":{"CFrame":{"position":[-2.561,0.274,2.479],"orientation":[[0.74312,0.0,0.66916],[0.0,1.0,0.0],[-0.66916,0.0,0.74312]]}},"Color":[0.584,0.389,0.225],"Material":"SmoothPlastic"}}]}
+{
+  "className": "Folder",
+  "children": [
+    {
+      "name": "Plank",
+      "className": "Part",
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "Anchored": true,
+        "Color": {
+          "Color3uint8": [
+            158,
+            107,
+            64
+          ]
+        },
+        "Material": "SmoothPlastic",
+        "Size": [
+          1.3350000381469727,
+          0.4000000059604645,
+          8.208000183105469
+        ],
+        "CFrame": [
+          -29.388999938964844,
+          0.2930000126361847,
+          25.57900047302246,
+          0.7684400081634521,
+          0.0,
+          0.6399199962615967,
+          0.0,
+          1.0,
+          0.0,
+          -0.6399199962615967,
+          0.0,
+          0.7684400081634521
+        ]
+      }
+    },
+    {
+      "name": "Plank",
+      "className": "Part",
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "Anchored": true,
+        "Color": {
+          "Color3uint8": [
+            145,
+            93,
+            52
+          ]
+        },
+        "Material": "SmoothPlastic",
+        "Size": [
+          1.3350000381469727,
+          0.4000000059604645,
+          7.86899995803833
+        ],
+        "CFrame": [
+          -28.32900047302246,
+          0.29899999499320984,
+          24.549999237060547,
+          0.768779993057251,
+          0.0,
+          0.6395099759101868,
+          0.0,
+          1.0,
+          0.0,
+          -0.6395099759101868,
+          0.0,
+          0.768779993057251
+        ]
+      }
+    },
+    {
+      "name": "Plank",
+      "className": "Part",
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "Anchored": true,
+        "Color": {
+          "Color3uint8": [
+            143,
+            97,
+            49
+          ]
+        },
+        "Material": "SmoothPlastic",
+        "Size": [
+          1.3350000381469727,
+          0.4000000059604645,
+          7.703000068664551
+        ],
+        "CFrame": [
+          -27.249000549316406,
+          0.32499998807907104,
+          23.542999267578125,
+          0.7722899913787842,
+          0.0,
+          0.6352699995040894,
+          0.0,
+          1.0,
+          0.0,
+          -0.6352699995040894,
+          0.0,
+          0.7722899913787842
+        ]
+      }
+    },
+    {
+      "name": "Plank",
+      "className": "Part",
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "Anchored": true,
+        "Color": {
+          "Color3uint8": [
+            151,
+            102,
+            62
+          ]
+        },
+        "Material": "SmoothPlastic",
+        "Size": [
+          1.3350000381469727,
+          0.4000000059604645,
+          8.170000076293945
+        ],
+        "CFrame": [
+          -26.01799964904785,
+          0.27399998903274536,
+          22.711999893188477,
+          0.7709199786186218,
+          0.0,
+          0.636929988861084,
+          0.0,
+          1.0,
+          0.0,
+          -0.636929988861084,
+          0.0,
+          0.7709199786186218
+        ]
+      }
+    },
+    {
+      "name": "Plank",
+      "className": "Part",
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "Anchored": true,
+        "Color": {
+          "Color3uint8": [
+            148,
+            104,
+            58
+          ]
+        },
+        "Material": "SmoothPlastic",
+        "Size": [
+          1.3350000381469727,
+          0.4000000059604645,
+          8.142000198364258
+        ],
+        "CFrame": [
+          -25.038000106811523,
+          0.2879999876022339,
+          21.589000701904297,
+          0.7486199736595154,
+          0.0,
+          0.6629999876022339,
+          0.0,
+          1.0,
+          0.0,
+          -0.6629999876022339,
+          0.0,
+          0.7486199736595154
+        ]
+      }
+    },
+    {
+      "name": "Plank",
+      "className": "Part",
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "Anchored": true,
+        "Color": {
+          "Color3uint8": [
+            146,
+            96,
+            48
+          ]
+        },
+        "Material": "SmoothPlastic",
+        "Size": [
+          1.3350000381469727,
+          0.4000000059604645,
+          8.215999603271484
+        ],
+        "CFrame": [
+          -23.83300018310547,
+          0.32499998807907104,
+          20.72800064086914,
+          0.7434746026992798,
+          0.0,
+          0.6687642335891724,
+          0.0,
+          1.0,
+          0.0,
+          -0.6687641739845276,
+          0.0,
+          0.743474543094635
+        ]
+      }
+    },
+    {
+      "name": "Plank",
+      "className": "Part",
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "Anchored": true,
+        "Color": {
+          "Color3uint8": [
+            157,
+            104,
+            60
+          ]
+        },
+        "Material": "SmoothPlastic",
+        "Size": [
+          1.3350000381469727,
+          0.4000000059604645,
+          7.960000038146973
+        ],
+        "CFrame": [
+          -22.780000686645508,
+          0.3059999942779541,
+          19.69099998474121,
+          0.7742199897766113,
+          0.0,
+          0.6329200267791748,
+          0.0,
+          1.0,
+          0.0,
+          -0.6329200267791748,
+          0.0,
+          0.7742199897766113
+        ]
+      }
+    },
+    {
+      "name": "Plank",
+      "className": "Part",
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "Anchored": true,
+        "Color": {
+          "Color3uint8": [
+            142,
+            93,
+            52
+          ]
+        },
+        "Material": "SmoothPlastic",
+        "Size": [
+          1.3350000381469727,
+          0.4000000059604645,
+          7.853000164031982
+        ],
+        "CFrame": [
+          -21.591999053955078,
+          0.30300000309944153,
+          18.80900001525879,
+          0.7696999907493591,
+          0.0,
+          0.6384000182151794,
+          0.0,
+          1.0,
+          0.0,
+          -0.6384000182151794,
+          0.0,
+          0.7696999907493591
+        ]
+      }
+    },
+    {
+      "name": "Plank",
+      "className": "Part",
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "Anchored": true,
+        "Color": {
+          "Color3uint8": [
+            156,
+            108,
+            63
+          ]
+        },
+        "Material": "SmoothPlastic",
+        "Size": [
+          1.3350000381469727,
+          0.4000000059604645,
+          7.702000141143799
+        ],
+        "CFrame": [
+          -20.545000076293945,
+          0.289000004529953,
+          17.763999938964844,
+          0.7637199759483337,
+          0.0,
+          0.645550012588501,
+          0.0,
+          1.0,
+          0.0,
+          -0.645550012588501,
+          0.0,
+          0.7637199759483337
+        ]
+      }
+    },
+    {
+      "name": "Plank",
+      "className": "Part",
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "Anchored": true,
+        "Color": {
+          "Color3uint8": [
+            160,
+            113,
+            67
+          ]
+        },
+        "Material": "SmoothPlastic",
+        "Size": [
+          1.3350000381469727,
+          0.4000000059604645,
+          8.170000076293945
+        ],
+        "CFrame": [
+          -19.31100082397461,
+          0.32499998807907104,
+          16.937999725341797,
+          0.7656700015068054,
+          0.0,
+          0.6432300209999084,
+          0.0,
+          1.0,
+          0.0,
+          -0.6432300209999084,
+          0.0,
+          0.7656700015068054
+        ]
+      }
+    },
+    {
+      "name": "Plank",
+      "className": "Part",
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "Anchored": true,
+        "Color": {
+          "Color3uint8": [
+            162,
+            113,
+            67
+          ]
+        },
+        "Material": "SmoothPlastic",
+        "Size": [
+          1.3350000381469727,
+          0.4000000059604645,
+          8.204999923706055
+        ],
+        "CFrame": [
+          -18.238000869750977,
+          0.28600001335144043,
+          15.92199993133545,
+          0.7468199729919434,
+          0.0,
+          0.6650199890136719,
+          0.0,
+          1.0,
+          0.0,
+          -0.6650199890136719,
+          0.0,
+          0.7468199729919434
+        ]
+      }
+    },
+    {
+      "name": "Plank",
+      "className": "Part",
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "Anchored": true,
+        "Color": {
+          "Color3uint8": [
+            159,
+            114,
+            72
+          ]
+        },
+        "Material": "SmoothPlastic",
+        "Size": [
+          1.3350000381469727,
+          0.4000000059604645,
+          8.246000289916992
+        ],
+        "CFrame": [
+          -17.167999267578125,
+          0.29100000858306885,
+          14.904000282287598,
+          0.7639600038528442,
+          0.0,
+          0.6452599763870239,
+          0.0,
+          1.0,
+          0.0,
+          -0.6452599763870239,
+          0.0,
+          0.7639600038528442
+        ]
+      }
+    },
+    {
+      "name": "Plank",
+      "className": "Part",
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "Anchored": true,
+        "Color": {
+          "Color3uint8": [
+            151,
+            107,
+            64
+          ]
+        },
+        "Material": "SmoothPlastic",
+        "Size": [
+          1.3350000381469727,
+          0.4000000059604645,
+          7.754000186920166
+        ],
+        "CFrame": [
+          -16.062999725341797,
+          0.2930000126361847,
+          13.925999641418457,
+          0.766290009021759,
+          0.0,
+          0.6424999833106995,
+          0.0,
+          1.0,
+          0.0,
+          -0.6424999833106995,
+          0.0,
+          0.766290009021759
+        ]
+      }
+    },
+    {
+      "name": "Plank",
+      "className": "Part",
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "Anchored": true,
+        "Color": {
+          "Color3uint8": [
+            155,
+            107,
+            60
+          ]
+        },
+        "Material": "SmoothPlastic",
+        "Size": [
+          1.3350000381469727,
+          0.4000000059604645,
+          8.060999870300293
+        ],
+        "CFrame": [
+          -14.819999694824219,
+          0.28200000524520874,
+          13.111000061035156,
+          0.7432600259780884,
+          0.0,
+          0.6690099835395813,
+          0.0,
+          1.0,
+          0.0,
+          -0.6690099835395813,
+          0.0,
+          0.7432600259780884
+        ]
+      }
+    },
+    {
+      "name": "Plank",
+      "className": "Part",
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "Anchored": true,
+        "Color": {
+          "Color3uint8": [
+            147,
+            100,
+            52
+          ]
+        },
+        "Material": "SmoothPlastic",
+        "Size": [
+          1.3350000381469727,
+          0.4000000059604645,
+          7.895999908447266
+        ],
+        "CFrame": [
+          -13.78499984741211,
+          0.2930000126361847,
+          12.050999641418457,
+          0.7436400055885315,
+          0.0,
+          0.6685799956321716,
+          0.0,
+          1.0,
+          0.0,
+          -0.6685799956321716,
+          0.0,
+          0.7436400055885315
+        ]
+      }
+    },
+    {
+      "name": "Plank",
+      "className": "Part",
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "Anchored": true,
+        "Color": {
+          "Color3uint8": [
+            156,
+            112,
+            62
+          ]
+        },
+        "Material": "SmoothPlastic",
+        "Size": [
+          1.3350000381469727,
+          0.4000000059604645,
+          7.910999774932861
+        ],
+        "CFrame": [
+          -12.621999740600586,
+          0.3009999990463257,
+          11.140999794006348,
+          0.7657099962234497,
+          0.0,
+          0.6431900262832642,
+          0.0,
+          1.0,
+          0.0,
+          -0.6431900262832642,
+          0.0,
+          0.7657099962234497
+        ]
+      }
+    },
+    {
+      "name": "Plank",
+      "className": "Part",
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "Anchored": true,
+        "Color": {
+          "Color3uint8": [
+            161,
+            110,
+            67
+          ]
+        },
+        "Material": "SmoothPlastic",
+        "Size": [
+          1.3350000381469727,
+          0.4000000059604645,
+          7.875
+        ],
+        "CFrame": [
+          -11.534000396728516,
+          0.28600001335144043,
+          10.144000053405762,
+          0.756659984588623,
+          0.0,
+          0.6538100242614746,
+          0.0,
+          1.0,
+          0.0,
+          -0.6538100242614746,
+          0.0,
+          0.756659984588623
+        ]
+      }
+    },
+    {
+      "name": "Plank",
+      "className": "Part",
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "Anchored": true,
+        "Color": {
+          "Color3uint8": [
+            158,
+            112,
+            67
+          ]
+        },
+        "Material": "SmoothPlastic",
+        "Size": [
+          1.3350000381469727,
+          0.4000000059604645,
+          8.270000457763672
+        ],
+        "CFrame": [
+          -10.432999610900879,
+          0.28700000047683716,
+          9.161999702453613,
+          0.7606199979782104,
+          0.0,
+          0.6492000222206116,
+          0.0,
+          1.0,
+          0.0,
+          -0.6492000222206116,
+          0.0,
+          0.7606199979782104
+        ]
+      }
+    },
+    {
+      "name": "Plank",
+      "className": "Part",
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "Anchored": true,
+        "Color": {
+          "Color3uint8": [
+            144,
+            93,
+            48
+          ]
+        },
+        "Material": "SmoothPlastic",
+        "Size": [
+          1.3350000381469727,
+          0.4000000059604645,
+          7.874000072479248
+        ],
+        "CFrame": [
+          -9.220999717712402,
+          0.28200000524520874,
+          8.309000015258789,
+          0.7608399987220764,
+          0.0,
+          0.6489400267601013,
+          0.0,
+          1.0,
+          0.0,
+          -0.6489400267601013,
+          0.0,
+          0.7608399987220764
+        ]
+      }
+    },
+    {
+      "name": "Plank",
+      "className": "Part",
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "Anchored": true,
+        "Color": {
+          "Color3uint8": [
+            149,
+            100,
+            52
+          ]
+        },
+        "Material": "SmoothPlastic",
+        "Size": [
+          1.3350000381469727,
+          0.4000000059604645,
+          7.7769999504089355
+        ],
+        "CFrame": [
+          -8.168999671936035,
+          0.30799999833106995,
+          7.269000053405762,
+          0.7482900023460388,
+          0.0,
+          0.6633700132369995,
+          0.0,
+          1.0,
+          0.0,
+          -0.6633700132369995,
+          0.0,
+          0.7482900023460388
+        ]
+      }
+    },
+    {
+      "name": "Plank",
+      "className": "Part",
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "Anchored": true,
+        "Color": {
+          "Color3uint8": [
+            154,
+            105,
+            59
+          ]
+        },
+        "Material": "SmoothPlastic",
+        "Size": [
+          1.3350000381469727,
+          0.4000000059604645,
+          7.952000141143799
+        ],
+        "CFrame": [
+          -7.046999931335449,
+          0.27900001406669617,
+          6.311999797821045,
+          0.7597900032997131,
+          0.0,
+          0.6501700282096863,
+          0.0,
+          1.0,
+          0.0,
+          -0.6501700282096863,
+          0.0,
+          0.7597900032997131
+        ]
+      }
+    },
+    {
+      "name": "Plank",
+      "className": "Part",
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "Anchored": true,
+        "Color": {
+          "Color3uint8": [
+            152,
+            108,
+            62
+          ]
+        },
+        "Material": "SmoothPlastic",
+        "Size": [
+          1.3350000381469727,
+          0.4000000059604645,
+          8.11299991607666
+        ],
+        "CFrame": [
+          -5.960000038146973,
+          0.3149999976158142,
+          5.313000202178955,
+          0.7479699850082397,
+          0.0,
+          0.6637399792671204,
+          0.0,
+          1.0,
+          0.0,
+          -0.6637399792671204,
+          0.0,
+          0.7479699850082397
+        ]
+      }
+    },
+    {
+      "name": "Plank",
+      "className": "Part",
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "Anchored": true,
+        "Color": {
+          "Color3uint8": [
+            153,
+            101,
+            56
+          ]
+        },
+        "Material": "SmoothPlastic",
+        "Size": [
+          1.3350000381469727,
+          0.4000000059604645,
+          7.934000015258789
+        ],
+        "CFrame": [
+          -4.735000133514404,
+          0.28999999165534973,
+          4.47599983215332,
+          0.74440997838974,
+          0.0,
+          0.6677299737930298,
+          0.0,
+          1.0,
+          0.0,
+          -0.6677299737930298,
+          0.0,
+          0.74440997838974
+        ]
+      }
+    },
+    {
+      "name": "Plank",
+      "className": "Part",
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "Anchored": true,
+        "Color": {
+          "Color3uint8": [
+            151,
+            109,
+            62
+          ]
+        },
+        "Material": "SmoothPlastic",
+        "Size": [
+          1.3350000381469727,
+          0.4000000059604645,
+          8.053000450134277
+        ],
+        "CFrame": [
+          -3.7179999351501465,
+          0.2800000011920929,
+          3.3959999084472656,
+          0.7458699941635132,
+          0.0,
+          0.6660900115966797,
+          0.0,
+          1.0,
+          0.0,
+          -0.6660900115966797,
+          0.0,
+          0.7458699941635132
+        ]
+      }
+    },
+    {
+      "name": "Plank",
+      "className": "Part",
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "Anchored": true,
+        "Color": {
+          "Color3uint8": [
+            148,
+            99,
+            57
+          ]
+        },
+        "Material": "SmoothPlastic",
+        "Size": [
+          1.3350000381469727,
+          0.4000000059604645,
+          7.867000102996826
+        ],
+        "CFrame": [
+          -2.561000108718872,
+          0.27399998903274536,
+          2.4790000915527344,
+          0.743120014667511,
+          0.0,
+          0.669160008430481,
+          0.0,
+          1.0,
+          0.0,
+          -0.669160008430481,
+          0.0,
+          0.743120014667511
+        ]
+      }
+    }
+  ],
+  "properties": {
+    "SerializedOverrides": {
+      "BinaryString": ""
+    }
+  }
+}

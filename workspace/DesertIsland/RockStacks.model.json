@@ -1,1 +1,1005 @@
-{"ClassName":"Folder","Children":[{"Name":"RockStack","ClassName":"Model","Children":[{"Name":"Slab","ClassName":"Part","Properties":{"Anchored":true,"Size":[19.0,4.0,17.575],"CFrame":{"CFrame":{"position":[-98.523,8.2,1.576],"orientation":[[0.81473,0.0,0.57984],[0.0,1.0,0.0],[-0.57984,0.0,0.81473]]}},"Color":[0.797,0.546,0.348],"Material":"SmoothPlastic"}},{"Name":"Slab","ClassName":"Part","Properties":{"Anchored":true,"Size":[18.24,3.6,17.1],"CFrame":{"CFrame":{"position":[-98.523,8.2,1.576],"orientation":[[0.16609,0.0,0.98611],[0.0,1.0,0.0],[-0.98611,0.0,0.16609]]}},"Color":[0.778,0.538,0.338],"Material":"SmoothPlastic"}},{"Name":"Slab","ClassName":"Part","Properties":{"Anchored":true,"Size":[21.0,3.4,19.753],"CFrame":{"CFrame":{"position":[-97.449,11.58,1.478],"orientation":[[0.53366,0.0,0.8457],[0.0,1.0,0.0],[-0.8457,0.0,0.53366]]}},"Color":[0.836,0.601,0.368],"Material":"SmoothPlastic"}},{"Name":"Slab","ClassName":"Part","Properties":{"Anchored":true,"Size":[20.16,3.06,18.9],"CFrame":{"CFrame":{"position":[-97.449,11.58,1.478],"orientation":[[-0.22064,0.0,0.97535],[0.0,1.0,0.0],[-0.97535,0.0,-0.22064]]}},"Color":[0.864,0.638,0.389],"Material":"SmoothPlastic"}},{"Name":"Slab","ClassName":"Part","Properties":{"Anchored":true,"Size":[17.0,4.0,15.837],"CFrame":{"CFrame":{"position":[-97.612,15.008,2.5],"orientation":[[0.36765,0.0,0.92997],[0.0,1.0,0.0],[-0.92997,0.0,0.36765]]}},"Color":[0.916,0.737,0.496],"Material":"SmoothPlastic"}},{"Name":"Slab","ClassName":"Part","Properties":{"Anchored":true,"Size":[16.32,3.6,15.3],"CFrame":{"CFrame":{"position":[-97.612,15.008,2.5],"orientation":[[-0.39762,0.0,0.91755],[0.0,1.0,0.0],[-0.91755,0.0,-0.39762]]}},"Color":[0.928,0.751,0.483],"Material":"SmoothPlastic"}},{"Name":"Slab","ClassName":"Part","Properties":{"Anchored":true,"Size":[19.0,3.4,16.371],"CFrame":{"CFrame":{"position":[-98.422,18.388,2.428],"orientation":[[0.98409,0.0,0.17765],[0.0,1.0,0.0],[-0.17765,0.0,0.98409]]}},"Color":[0.799,0.55,0.341],"Material":"SmoothPlastic"}},{"Name":"Slab","ClassName":"Part","Properties":{"Anchored":true,"Size":[18.24,3.06,17.1],"CFrame":{"CFrame":{"position":[-98.422,18.388,2.428],"orientation":[[0.57025,0.0,0.82147],[0.0,1.0,0.0],[-0.82147,0.0,0.57025]]}},"Color":[0.812,0.569,0.374],"Material":"SmoothPlastic"}},{"Name":"Slab","ClassName":"Part","Properties":{"Anchored":true,"Size":[15.0,3.4,12.935],"CFrame":{"CFrame":{"position":[-97.934,21.516,1.479],"orientation":[[0.94297,0.0,0.33287],[0.0,1.0,0.0],[-0.33287,0.0,0.94297]]}},"Color":[0.933,0.753,0.485],"Material":"SmoothPlastic"}},{"Name":"Slab","ClassName":"Part","Properties":{"Anchored":true,"Size":[14.4,3.06,13.5],"CFrame":{"CFrame":{"position":[-97.934,21.516,1.479],"orientation":[[0.43141,0.0,0.90216],[0.0,1.0,0.0],[-0.90216,0.0,0.43141]]}},"Color":[0.912,0.745,0.492],"Material":"SmoothPlastic"}},{"Name":"Slab","ClassName":"Part","Properties":{"Anchored":true,"Size":[11.0,3.0,10.536],"CFrame":{"CFrame":{"position":[-97.496,24.444,1.486],"orientation":[[0.11369,0.0,0.99352],[0.0,1.0,0.0],[-0.99352,0.0,0.11369]]}},"Color":[0.871,0.65,0.409],"Material":"SmoothPlastic"}},{"Name":"Slab","ClassName":"Part","Properties":{"Anchored":true,"Size":[10.56,2.7,9.9],"CFrame":{"CFrame":{"position":[-97.496,24.444,1.486],"orientation":[[-0.62213,0.0,0.78292],[0.0,1.0,0.0],[-0.78292,0.0,-0.62213]]}},"Color":[0.884,0.664,0.408],"Material":"SmoothPlastic"}}]},{"Name":"RockStack","ClassName":"Model","Children":[{"Name":"Slab","ClassName":"Part","Properties":{"Anchored":true,"Size":[12.0,3.0,11.131],"CFrame":{"CFrame":{"position":[-98.582,7.7,29.978],"orientation":[[0.65405,0.0,0.75645],[0.0,1.0,0.0],[-0.75645,0.0,0.65405]]}},"Color":[0.775,0.535,0.319],"Material":"SmoothPlastic"}},{"Name":"Slab","ClassName":"Part","Properties":{"Anchored":true,"Size":[11.52,2.7,10.8],"CFrame":{"CFrame":{"position":[-98.582,7.7,29.978],"orientation":[[-0.0724,0.0,0.99738],[0.0,1.0,0.0],[-0.99738,0.0,-0.0724]]}},"Color":[0.768,0.542,0.337],"Material":"SmoothPlastic"}},{"Name":"Slab","ClassName":"Part","Properties":{"Anchored":true,"Size":[10.0,2.5,9.786],"CFrame":{"CFrame":{"position":[-98.151,10.21,29.977],"orientation":[[0.9574,0.0,0.28876],[0.0,1.0,0.0],[-0.28876,0.0,0.9574]]}},"Color":[0.894,0.657,0.427],"Material":"SmoothPlastic"}},{"Name":"Slab","ClassName":"Part","Properties":{"Anchored":true,"Size":[9.6,2.25,9.0],"CFrame":{"CFrame":{"position":[-98.151,10.21,29.977],"orientation":[[0.4728,0.0,0.88117],[0.0,1.0,0.0],[-0.88117,0.0,0.4728]]}},"Color":[0.853,0.621,0.4],"Material":"SmoothPlastic"}}]},{"Name":"RockStack","ClassName":"Model","Children":[{"Name":"Slab","ClassName":"Part","Properties":{"Anchored":true,"Size":[14.0,3.5,12.494],"CFrame":{"CFrame":{"position":[-54.684,1.25,-6.846],"orientation":[[0.20029,0.0,0.97974],[0.0,1.0,0.0],[-0.97974,0.0,0.20029]]}},"Color":[0.779,0.524,0.326],"Material":"SmoothPlastic"}},{"Name":"Slab","ClassName":"Part","Properties":{"Anchored":true,"Size":[13.44,3.15,12.6],"CFrame":{"CFrame":{"position":[-54.684,1.25,-6.846],"orientation":[[-0.55115,0.0,0.8344],[0.0,1.0,0.0],[-0.8344,0.0,-0.55115]]}},"Color":[0.781,0.553,0.343],"Material":"SmoothPlastic"}},{"Name":"Slab","ClassName":"Part","Properties":{"Anchored":true,"Size":[16.0,3.0,15.656],"CFrame":{"CFrame":{"position":[-54.34,4.22,-6.389],"orientation":[[0.69635,0.0,0.7177],[0.0,1.0,0.0],[-0.7177,0.0,0.69635]]}},"Color":[0.853,0.627,0.39],"Material":"SmoothPlastic"}},{"Name":"Slab","ClassName":"Part","Properties":{"Anchored":true,"Size":[15.36,2.7,14.4],"CFrame":{"CFrame":{"position":[-54.34,4.22,-6.389],"orientation":[[-0.0151,0.0,0.99989],[0.0,1.0,0.0],[-0.99989,0.0,-0.0151]]}},"Color":[0.833,0.593,0.367],"Material":"SmoothPlastic"}},{"Name":"Slab","ClassName":"Part","Properties":{"Anchored":true,"Size":[13.0,3.5,11.697],"CFrame":{"CFrame":{"position":[-53.681,7.23,-6.927],"orientation":[[0.74462,0.0,0.66749],[0.0,1.0,0.0],[-0.66749,0.0,0.74462]]}},"Color":[0.896,0.703,0.465],"Material":"SmoothPlastic"}},{"Name":"Slab","ClassName":"Part","Properties":{"Anchored":true,"Size":[12.48,3.15,11.7],"CFrame":{"CFrame":{"position":[-53.681,7.23,-6.927],"orientation":[[0.05454,0.0,0.99851],[0.0,1.0,0.0],[-0.99851,0.0,0.05454]]}},"Color":[0.934,0.745,0.499],"Material":"SmoothPlastic"}},{"Name":"Slab","ClassName":"Part","Properties":{"Anchored":true,"Size":[14.0,3.0,12.838],"CFrame":{"CFrame":{"position":[-53.912,10.2,-6.711],"orientation":[[0.87053,0.0,0.49211],[0.0,1.0,0.0],[-0.49211,0.0,0.87053]]}},"Color":[0.772,0.549,0.322],"Material":"SmoothPlastic"}},{"Name":"Slab","ClassName":"Part","Properties":{"Anchored":true,"Size":[13.44,2.7,12.6],"CFrame":{"CFrame":{"position":[-53.912,10.2,-6.711],"orientation":[[0.26758,0.0,0.96353],[0.0,1.0,0.0],[-0.96353,0.0,0.26758]]}},"Color":[0.76,0.523,0.32],"Material":"SmoothPlastic"}},{"Name":"Slab","ClassName":"Part","Properties":{"Anchored":true,"Size":[10.0,2.6,9.389],"CFrame":{"CFrame":{"position":[-53.598,12.76,-7.607],"orientation":[[0.96264,0.0,0.27077],[0.0,1.0,0.0],[-0.27077,0.0,0.96264]]}},"Color":[0.905,0.714,0.467],"Material":"SmoothPlastic"}},{"Name":"Slab","ClassName":"Part","Properties":{"Anchored":true,"Size":[9.6,2.34,9.0],"CFrame":{"CFrame":{"position":[-53.598,12.76,-7.607],"orientation":[[0.48923,0.0,0.87216],[0.0,1.0,0.0],[-0.87216,0.0,0.48923]]}},"Color":[0.89,0.706,0.459],"Material":"SmoothPlastic"}}]}]}
+{
+  "className": "Folder",
+  "children": [
+    {
+      "name": "RockStack",
+      "className": "Model",
+      "children": [
+        {
+          "name": "Slab",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                203,
+                139,
+                88
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              19.0,
+              4.0,
+              17.575000762939453
+            ],
+            "CFrame": [
+              -98.52300262451172,
+              8.199999809265137,
+              1.5759999752044678,
+              0.8147299885749817,
+              0.0,
+              0.5798400044441223,
+              0.0,
+              1.0,
+              0.0,
+              -0.5798400044441223,
+              0.0,
+              0.8147299885749817
+            ]
+          }
+        },
+        {
+          "name": "Slab",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                198,
+                137,
+                86
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              18.239999771118164,
+              3.5999999046325684,
+              17.100000381469727
+            ],
+            "CFrame": [
+              -98.52300262451172,
+              8.199999809265137,
+              1.5759999752044678,
+              0.1660899966955185,
+              0.0,
+              0.9861099720001221,
+              0.0,
+              1.0,
+              0.0,
+              -0.9861099720001221,
+              0.0,
+              0.1660899966955185
+            ]
+          }
+        },
+        {
+          "name": "Slab",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                213,
+                153,
+                93
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              21.0,
+              3.4000000953674316,
+              19.753000259399414
+            ],
+            "CFrame": [
+              -97.4489974975586,
+              11.579999923706055,
+              1.4780000448226929,
+              0.5336599946022034,
+              0.0,
+              0.8457000255584717,
+              0.0,
+              1.0,
+              0.0,
+              -0.8457000255584717,
+              0.0,
+              0.5336599946022034
+            ]
+          }
+        },
+        {
+          "name": "Slab",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                220,
+                162,
+                99
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              20.15999984741211,
+              3.059999942779541,
+              18.899999618530273
+            ],
+            "CFrame": [
+              -97.4489974975586,
+              11.579999923706055,
+              1.4780000448226929,
+              -0.22064116597175598,
+              0.0,
+              0.9753551483154297,
+              0.0,
+              1.0,
+              0.0,
+              -0.9753551483154297,
+              0.0,
+              -0.22064116597175598
+            ]
+          }
+        },
+        {
+          "name": "Slab",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                233,
+                187,
+                126
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              17.0,
+              4.0,
+              15.836999893188477
+            ],
+            "CFrame": [
+              -97.61199951171875,
+              15.008000373840332,
+              2.5,
+              0.36764803528785706,
+              0.0,
+              0.9299650192260742,
+              0.0,
+              1.0,
+              0.0,
+              -0.9299650192260742,
+              0.0,
+              0.36764806509017944
+            ]
+          }
+        },
+        {
+          "name": "Slab",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                236,
+                191,
+                123
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              16.31999969482422,
+              3.5999999046325684,
+              15.300000190734863
+            ],
+            "CFrame": [
+              -97.61199951171875,
+              15.008000373840332,
+              2.5,
+              -0.39761999249458313,
+              0.0,
+              0.9175500273704529,
+              0.0,
+              1.0,
+              0.0,
+              -0.9175500273704529,
+              0.0,
+              -0.39761999249458313
+            ]
+          }
+        },
+        {
+          "name": "Slab",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                203,
+                140,
+                86
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              19.0,
+              3.4000000953674316,
+              16.371000289916992
+            ],
+            "CFrame": [
+              -98.4219970703125,
+              18.38800048828125,
+              2.427999973297119,
+              0.9840899705886841,
+              0.0,
+              0.17765000462532043,
+              0.0,
+              1.0,
+              0.0,
+              -0.17765000462532043,
+              0.0,
+              0.9840899705886841
+            ]
+          }
+        },
+        {
+          "name": "Slab",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                207,
+                145,
+                95
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              18.239999771118164,
+              3.059999942779541,
+              17.100000381469727
+            ],
+            "CFrame": [
+              -98.4219970703125,
+              18.38800048828125,
+              2.427999973297119,
+              0.5702499747276306,
+              0.0,
+              0.8214700222015381,
+              0.0,
+              1.0,
+              0.0,
+              -0.8214700222015381,
+              0.0,
+              0.5702499747276306
+            ]
+          }
+        },
+        {
+          "name": "Slab",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                237,
+                192,
+                123
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              15.0,
+              3.4000000953674316,
+              12.9350004196167
+            ],
+            "CFrame": [
+              -97.93399810791016,
+              21.516000747680664,
+              1.4789999723434448,
+              0.9429699778556824,
+              0.0,
+              0.3328700065612793,
+              0.0,
+              1.0,
+              0.0,
+              -0.3328700065612793,
+              0.0,
+              0.9429699778556824
+            ]
+          }
+        },
+        {
+          "name": "Slab",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                232,
+                189,
+                125
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              14.399999618530273,
+              3.059999942779541,
+              13.5
+            ],
+            "CFrame": [
+              -97.93399810791016,
+              21.516000747680664,
+              1.4789999723434448,
+              0.431410014629364,
+              0.0,
+              0.9021599888801575,
+              0.0,
+              1.0,
+              0.0,
+              -0.9021599888801575,
+              0.0,
+              0.431410014629364
+            ]
+          }
+        },
+        {
+          "name": "Slab",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                222,
+                165,
+                104
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              11.0,
+              3.0,
+              10.53600025177002
+            ],
+            "CFrame": [
+              -97.49600219726562,
+              24.444000244140625,
+              1.4859999418258667,
+              0.11368999630212784,
+              0.0,
+              0.9935200214385986,
+              0.0,
+              1.0,
+              0.0,
+              -0.9935200214385986,
+              0.0,
+              0.11368999630212784
+            ]
+          }
+        },
+        {
+          "name": "Slab",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                225,
+                169,
+                104
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              10.5600004196167,
+              2.700000047683716,
+              9.899999618530273
+            ],
+            "CFrame": [
+              -97.49600219726562,
+              24.444000244140625,
+              1.4859999418258667,
+              -0.6221299767494202,
+              0.0,
+              0.7829200029373169,
+              0.0,
+              1.0,
+              0.0,
+              -0.7829200029373169,
+              0.0,
+              -0.6221299767494202
+            ]
+          }
+        }
+      ],
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        }
+      }
+    },
+    {
+      "name": "RockStack",
+      "className": "Model",
+      "children": [
+        {
+          "name": "Slab",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                199,
+                141,
+                87
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              13.4399995803833,
+              3.1500000953674316,
+              12.600000381469727
+            ],
+            "CFrame": [
+              -54.683998107910156,
+              1.25,
+              -6.8460001945495605,
+              -0.5511528253555298,
+              0.0,
+              0.8344042897224426,
+              0.0,
+              1.0,
+              0.0,
+              -0.8344042897224426,
+              0.0,
+              -0.5511528253555298
+            ]
+          }
+        },
+        {
+          "name": "Slab",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                198,
+                133,
+                83
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              14.0,
+              3.5,
+              12.494000434875488
+            ],
+            "CFrame": [
+              -54.683998107910156,
+              1.25,
+              -6.8460001945495605,
+              0.2002899944782257,
+              0.0,
+              0.9797400236129761,
+              0.0,
+              1.0,
+              0.0,
+              -0.9797400236129761,
+              0.0,
+              0.2002899944782257
+            ]
+          }
+        },
+        {
+          "name": "Slab",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                212,
+                151,
+                93
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              15.359999656677246,
+              2.700000047683716,
+              14.399999618530273
+            ],
+            "CFrame": [
+              -54.34000015258789,
+              4.21999979019165,
+              -6.388999938964844,
+              -0.01510000042617321,
+              0.0,
+              0.9998900294303894,
+              0.0,
+              1.0,
+              0.0,
+              -0.9998900294303894,
+              0.0,
+              -0.01510000042617321
+            ]
+          }
+        },
+        {
+          "name": "Slab",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                217,
+                159,
+                99
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              16.0,
+              3.0,
+              15.656000137329102
+            ],
+            "CFrame": [
+              -54.34000015258789,
+              4.21999979019165,
+              -6.388999938964844,
+              0.6963499784469604,
+              0.0,
+              0.7177000045776367,
+              0.0,
+              1.0,
+              0.0,
+              -0.7177000045776367,
+              0.0,
+              0.6963499784469604
+            ]
+          }
+        },
+        {
+          "name": "Slab",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                193,
+                133,
+                81
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              13.4399995803833,
+              2.700000047683716,
+              12.600000381469727
+            ],
+            "CFrame": [
+              -53.9119987487793,
+              10.199999809265137,
+              -6.710999965667725,
+              0.2675814628601074,
+              0.0,
+              0.9635353088378906,
+              0.0,
+              1.0,
+              0.0,
+              -0.9635353088378906,
+              0.0,
+              0.2675814628601074
+            ]
+          }
+        },
+        {
+          "name": "Slab",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                238,
+                189,
+                127
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              12.479999542236328,
+              3.1500000953674316,
+              11.699999809265137
+            ],
+            "CFrame": [
+              -53.680999755859375,
+              7.230000019073486,
+              -6.927000045776367,
+              0.0545400008559227,
+              0.0,
+              0.9985100030899048,
+              0.0,
+              1.0,
+              0.0,
+              -0.9985100030899048,
+              0.0,
+              0.0545400008559227
+            ]
+          }
+        },
+        {
+          "name": "Slab",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                230,
+                182,
+                119
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              10.0,
+              2.5999999046325684,
+              9.388999938964844
+            ],
+            "CFrame": [
+              -53.597999572753906,
+              12.760000228881836,
+              -7.60699987411499,
+              0.9626399874687195,
+              0.0,
+              0.27077001333236694,
+              0.0,
+              1.0,
+              0.0,
+              -0.27077001333236694,
+              0.0,
+              0.9626399874687195
+            ]
+          }
+        },
+        {
+          "name": "Slab",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                226,
+                180,
+                117
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              9.600000381469727,
+              2.3399999141693115,
+              9.0
+            ],
+            "CFrame": [
+              -53.597999572753906,
+              12.760000228881836,
+              -7.60699987411499,
+              0.4892300069332123,
+              0.0,
+              0.872160017490387,
+              0.0,
+              1.0,
+              0.0,
+              -0.872160017490387,
+              0.0,
+              0.4892300069332123
+            ]
+          }
+        },
+        {
+          "name": "Slab",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                196,
+                139,
+                82
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              14.0,
+              3.0,
+              12.838000297546387
+            ],
+            "CFrame": [
+              -53.9119987487793,
+              10.199999809265137,
+              -6.710999965667725,
+              0.8705300092697144,
+              0.0,
+              0.492110013961792,
+              0.0,
+              1.0,
+              0.0,
+              -0.492110013961792,
+              0.0,
+              0.8705300092697144
+            ]
+          }
+        },
+        {
+          "name": "Slab",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                228,
+                179,
+                118
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              13.0,
+              3.5,
+              11.696999549865723
+            ],
+            "CFrame": [
+              -53.680999755859375,
+              7.230000019073486,
+              -6.927000045776367,
+              0.7446200251579285,
+              0.0,
+              0.6674900054931641,
+              0.0,
+              1.0,
+              0.0,
+              -0.6674900054931641,
+              0.0,
+              0.7446200251579285
+            ]
+          }
+        }
+      ],
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        }
+      }
+    },
+    {
+      "name": "RockStack",
+      "className": "Model",
+      "children": [
+        {
+          "name": "Slab",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                227,
+                167,
+                108
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              10.0,
+              2.5,
+              9.78600025177002
+            ],
+            "CFrame": [
+              -98.1510009765625,
+              10.210000038146973,
+              29.976999282836914,
+              0.9574000239372253,
+              0.0,
+              0.2887600064277649,
+              0.0,
+              1.0,
+              0.0,
+              -0.2887600064277649,
+              0.0,
+              0.9574000239372253
+            ]
+          }
+        },
+        {
+          "name": "Slab",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                197,
+                136,
+                81
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              12.0,
+              3.0,
+              11.130999565124512
+            ],
+            "CFrame": [
+              -98.58200073242188,
+              7.699999809265137,
+              29.97800064086914,
+              0.6540499925613403,
+              0.0,
+              0.7564499974250793,
+              0.0,
+              1.0,
+              0.0,
+              -0.7564499974250793,
+              0.0,
+              0.6540499925613403
+            ]
+          }
+        },
+        {
+          "name": "Slab",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                217,
+                158,
+                102
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              9.600000381469727,
+              2.25,
+              9.0
+            ],
+            "CFrame": [
+              -98.1510009765625,
+              10.210000038146973,
+              29.976999282836914,
+              0.47279998660087585,
+              0.0,
+              0.8811699748039246,
+              0.0,
+              1.0,
+              0.0,
+              -0.8811699748039246,
+              0.0,
+              0.47279998660087585
+            ]
+          }
+        },
+        {
+          "name": "Slab",
+          "className": "Part",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "Anchored": true,
+            "Color": {
+              "Color3uint8": [
+                195,
+                138,
+                85
+              ]
+            },
+            "Material": "SmoothPlastic",
+            "Size": [
+              11.520000457763672,
+              2.700000047683716,
+              10.800000190734863
+            ],
+            "CFrame": [
+              -98.58200073242188,
+              7.699999809265137,
+              29.97800064086914,
+              -0.07240000367164612,
+              0.0,
+              0.9973800182342529,
+              0.0,
+              1.0,
+              0.0,
+              -0.9973800182342529,
+              0.0,
+              -0.07240000367164612
+            ]
+          }
+        }
+      ],
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        }
+      }
+    }
+  ],
+  "properties": {
+    "SerializedOverrides": {
+      "BinaryString": ""
+    }
+  }
+}

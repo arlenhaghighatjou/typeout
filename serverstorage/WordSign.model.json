@@ -1,0 +1,149 @@
+{
+  "className": "Model",
+  "children": [
+    {
+      "name": "Board",
+      "className": "Part",
+      "children": [
+        {
+          "name": "Front",
+          "className": "SurfaceGui",
+          "children": [
+            {
+              "name": "Word",
+              "className": "TextLabel",
+              "properties": {
+                "SerializedOverrides": {
+                  "BinaryString": ""
+                },
+                "BackgroundTransparency": 1.0,
+                "Text": "",
+                "TextScaled": true,
+                "TextColor3": [
+                  0.3919999897480011,
+                  0.3919999897480011,
+                  0.3919999897480011
+                ],
+                "Size": {
+                  "UDim2": [
+                    [
+                      0.6,
+                      0
+                    ],
+                    [
+                      0.42,
+                      0
+                    ]
+                  ]
+                },
+                "FontFace": {
+                  "family": "rbxasset://fonts/families/GothamSSm.json",
+                  "weight": "Regular",
+                  "style": "Normal",
+                  "cachedFaceId": "rbxasset://fonts/Montserrat-Regular.ttf"
+                },
+                "Position": {
+                  "UDim2": [
+                    [
+                      0.5,
+                      0
+                    ],
+                    [
+                      0.5,
+                      0
+                    ]
+                  ]
+                },
+                "TextWrapped": true,
+                "AnchorPoint": [
+                  0.5,
+                  0.5
+                ]
+              }
+            }
+          ],
+          "properties": {
+            "PixelsPerStud": 60.0,
+            "SerializedOverrides": {
+              "BinaryString": ""
+            },
+            "SizingMode": "PixelsPerStud"
+          }
+        },
+        {
+          "name": "Hold",
+          "className": "Weld",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            }
+          }
+        }
+      ],
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "Color": {
+          "Color3uint8": [
+            255,
+            255,
+            255
+          ]
+        },
+        "Material": "SmoothPlastic",
+        "Massless": true,
+        "Size": [
+          3.200000047683716,
+          1.100000023841858,
+          0.30000001192092896
+        ],
+        "CanQuery": false,
+        "CanTouch": false,
+        "CanCollide": false
+      }
+    },
+    {
+      "name": "Frame",
+      "className": "Part",
+      "children": [
+        {
+          "name": "WeldConstraint",
+          "className": "WeldConstraint",
+          "properties": {
+            "SerializedOverrides": {
+              "BinaryString": ""
+            }
+          }
+        }
+      ],
+      "properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "Color": {
+          "Color3uint8": [
+            208,
+            210,
+            222
+          ]
+        },
+        "Material": "SmoothPlastic",
+        "Massless": true,
+        "Size": [
+          3.4800000190734863,
+          1.3799999952316284,
+          0.20000000298023224
+        ],
+        "CanQuery": false,
+        "CanTouch": false,
+        "CanCollide": false
+      }
+    }
+  ],
+  "properties": {
+    "SerializedOverrides": {
+      "BinaryString": ""
+    }
+  }
+}
